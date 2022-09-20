@@ -16,7 +16,11 @@
     "react-dom": "^18.1.0"
   },
   "devDependencies": {
-    "prettier": "^2.7.1"
+    "autoprefixer": "^10.4.11",
+    "gatsby-plugin-postcss": "^5.23.0",
+    "postcss": "^8.4.16",
+    "prettier": "^2.7.1",
+    "tailwindcss": "^3.1.8"
   },
   "keywords": [
     "gatsby"
