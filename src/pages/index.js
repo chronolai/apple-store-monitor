@@ -51,9 +51,8 @@ const columns = [{
 }];
 
 const IndexPage = () => {
-  const [worker, setWorker] = React.useState(defaultWorker);
-  const [codes, setCodes] = React.useState(defaultCodes);
-  const [resp, setResp] = React.useState({});
+  const [worker] = React.useState(defaultWorker);
+  const [codes] = React.useState(defaultCodes);
   const [data, setData] = React.useState([]);
   const [count, setCount] = React.useState(0);
   const [loading, setLoading] = React.useState(100);
@@ -77,7 +76,6 @@ const IndexPage = () => {
     const proxy = `${worker}?apiurl=${encodeURIComponent(url)}`;
     axios.get(proxy).then(resp => {
       setCount(count + 1);
-      setResp(resp.data);
       setData(transData(resp.data));
     }).finally(() => {
       setLoading(100);
@@ -104,7 +102,9 @@ const IndexPage = () => {
 
   return (
     <Layout>
-      Count: {count}
+      <div className="text-right">
+        Count: {count}
+      </div>
       <hr />
       <div className="relative">
         <LoadingBar
