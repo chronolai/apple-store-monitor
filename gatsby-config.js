@@ -10,6 +10,12 @@ module.exports = {
     'gatsby-plugin-postcss',
     `gatsby-plugin-image`,
     {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: ["G-6TXVJSZDZ0"],
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
