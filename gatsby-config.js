@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Inteleon`,
-    description: `Apple Products Monitor`,
+    description: `Apple Store Monitor`,
     author: `Chrono Lai`,
     siteUrl: `https://chrono.lai.github.io/apple-store-monitor`,
   },
