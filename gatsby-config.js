@@ -3,8 +3,9 @@ module.exports = {
     title: `Inteleon`,
     description: `Apple Products Monitor`,
     author: `Chrono Lai`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    siteUrl: `https://chrono.lai.github.io/apple-store-monitor`,
   },
+  pathPrefix: "/apple-store-monitor",
   plugins: [
     'gatsby-plugin-postcss',
     `gatsby-plugin-image`,
