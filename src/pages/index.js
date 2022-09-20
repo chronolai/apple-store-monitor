@@ -1,12 +1,17 @@
 import React from "react"
 import axios from 'axios';
 
+import LoadingBar from 'react-top-loading-bar'
+
 import useInterval from '../hooks/useInterval';
 
-import Layout from '../components/layout'
-import Seo from '../components/seo'
+import Layout from '../components/layout';
+import Seo from '../components/seo';
+
+import Table from '../components/Table';
 
 
+const defaultDelay = 10000;
 const defaultWorker = 'https://apple.info-tech6931.workers.dev/corsproxy/';
 const defaultCodes = [
   'MMXN3TA/A',
@@ -22,13 +27,36 @@ const defaultCodes = [
   'MQAH3TA/A',
 ];
 
+const columns = [{
+  header: 'Status',
+  accessorKey: 'status',
+  cell: (props) => {
+    const color = props.row.original.status ? 'bg-green-500' : 'bg-red-500';
+    return (
+      <div className={`mx-auto p-1 w-px h-px rounded-full ${color}`} />
+    );
+  },
+}, {
+  header: 'Store',
+  accessorKey: 'store',
+}, {
+  header: 'Code',
+  accessorKey: 'code',
+}, {
+  header: 'Title',
+  accessorKey: 'title',
+}, {
+  header: 'Quote',
+  accessorKey: 'quote',
+}];
+
 const IndexPage = () => {
   const [worker, setWorker] = React.useState(defaultWorker);
   const [codes, setCodes] = React.useState(defaultCodes);
   const [resp, setResp] = React.useState({});
   const [data, setData] = React.useState([]);
   const [count, setCount] = React.useState(0);
-  const [loading, setLoading] = React.useState(true);
+  const [loading, setLoading] = React.useState(100);
 
   React.useEffect(() => {
     loadAPI();
@@ -36,10 +64,10 @@ const IndexPage = () => {
 
   useInterval(() => {
     loadAPI();
-  }, 60000);
+  }, defaultDelay);
 
   function loadAPI() {
-    setLoading(true);
+    setLoading(0);
     const params = new URLSearchParams({
       pl: true,
       location: 330,
@@ -52,7 +80,7 @@ const IndexPage = () => {
       setResp(resp.data);
       setData(transData(resp.data));
     }).finally(() => {
-      setLoading(false);
+      setLoading(100);
     });
   }
 
@@ -65,7 +93,7 @@ const IndexPage = () => {
           store: store.storeName,
           number: store.storeNumber,
           code,
-          status: device.pickupDisplay,
+          status: device.pickupDisplay === 'available',
           title: device.messageTypes.regular.storePickupProductTitle,
           quote: device.pickupSearchQuote,
         });
@@ -76,17 +104,16 @@ const IndexPage = () => {
 
   return (
     <Layout>
-      <h1 className="text-3xl font-bold underline">
-        Hello world! {count} - {loading ? 'T' : 'F'}
-      </h1>
+      Count: {count}
       <hr />
-      {data.map((item, index) => {
-        return (
-          <div key={index}>
-            {JSON.stringify(item)}
-          </div>
-        );
-      })}
+      <div className="relative">
+        <LoadingBar
+          color='#0000FF'
+          progress={loading}
+          shadow
+        />
+        <Table data={data} columns={columns} />
+      </div>
     </Layout>
   )
 }
