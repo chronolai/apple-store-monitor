@@ -15,6 +15,7 @@ const defaultDelay = 10000;
 const defaultWorker = 'https://apple.info-tech6931.workers.dev/corsproxy/';
 const defaultCodes = [
   'MMXN3TA/A',
+  'MKGP3TA/A',
 
   'MQ9U3TA/A',
   'MQ9X3TA/A',
@@ -48,6 +49,22 @@ const columns = [{
 }, {
   header: 'Quote',
   accessorKey: 'quote',
+}, {
+  header: '',
+  accessorKey: 'code',
+  cell: (props) => {
+    const color = props.row.original.status ? 'bg-blue-500 hover:bg-blue-700' : 'bg-gray-400 hover:bg-gray-600';
+    const text = props.row.original.status ? 'Buy' : 'View';
+    return (
+      <a
+        className={`text-white font-bold py-1 px-2 rounded ${color}`}
+        target="_blank"
+        href={`https://www.apple.com/tw/shop/product/${props.row.original.code}`}
+      >
+        {text}
+      </a>
+    );
+  },
 }];
 
 const IndexPage = () => {
