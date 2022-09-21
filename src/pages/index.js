@@ -10,6 +10,7 @@ import Seo from '../components/seo';
 
 import Table from '../components/Table';
 
+import { beep } from '../utils';
 
 const defaultDelay = 10000;
 const defaultWorker = 'https://apple.info-tech6931.workers.dev/corsproxy/';
@@ -93,7 +94,11 @@ const IndexPage = () => {
     const proxy = `${worker}?apiurl=${encodeURIComponent(url)}`;
     axios.get(proxy).then(resp => {
       setCount(count + 1);
-      setData(transData(resp.data));
+      const newData = transData(resp.data);
+      if (JSON.stringify(data) !== JSON.stringify(newData)) {
+        beep(5);
+      }
+      setData(newData);
     }).finally(() => {
       setLoading(100);
     });
