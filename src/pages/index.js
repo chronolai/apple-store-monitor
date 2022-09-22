@@ -14,6 +14,9 @@ import Table from '../components/Table';
 const defaultDelay = 10000;
 const defaultWorker = 'https://apple.info-tech6931.workers.dev/corsproxy/';
 const defaultCodes = [
+  "MQ9T3TA/A",
+  "MQ103TA/A",
+
   'MMXN3TA/A',
   'MKGP3TA/A',
 
@@ -51,7 +54,7 @@ const columns = [{
   accessorKey: 'quote',
 }, {
   header: '',
-  accessorKey: 'code',
+  accessorKey: 'cta',
   cell: (props) => {
     const color = props.row.original.status ? 'bg-blue-500 hover:bg-blue-700' : 'bg-gray-400 hover:bg-gray-600';
     const text = props.row.original.status ? 'Buy' : 'View';
