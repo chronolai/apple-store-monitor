@@ -1,12 +1,6 @@
 [
   {
     "series": "iPhone 14 Pro",
-    "sku": "MQ293TA/A",
-    "price": 45400,
-    "name": "iPhone 14 Pro 512GB 深紫色"
-  },
-  {
-    "series": "iPhone 14 Pro",
     "sku": "MQ023TA/A",
     "price": 34900,
     "name": "iPhone 14 Pro 128GB 銀色"
@@ -19,15 +13,9 @@
   },
   {
     "series": "iPhone 14 Pro",
-    "sku": "MQ2N3TA/A",
-    "price": 52400,
-    "name": "iPhone 14 Pro 1TB 銀色"
-  },
-  {
-    "series": "iPhone 14 Pro",
-    "sku": "MQ0G3TA/A",
-    "price": 34900,
-    "name": "iPhone 14 Pro 128GB 深紫色"
+    "sku": "MQ0T3TA/A",
+    "price": 38400,
+    "name": "iPhone 14 Pro 256GB 太空黑色"
   },
   {
     "series": "iPhone 14 Pro",
@@ -37,45 +25,9 @@
   },
   {
     "series": "iPhone 14 Pro",
-    "sku": "MQ2G3TA/A",
-    "price": 52400,
-    "name": "iPhone 14 Pro 1TB 太空黑色"
-  },
-  {
-    "series": "iPhone 14 Pro",
     "sku": "MQ1F3TA/A",
     "price": 38400,
     "name": "iPhone 14 Pro 256GB 深紫色"
-  },
-  {
-    "series": "iPhone 14 Pro",
-    "sku": "MQ1M3TA/A",
-    "price": 45400,
-    "name": "iPhone 14 Pro 512GB 太空黑色"
-  },
-  {
-    "series": "iPhone 14 Pro",
-    "sku": "MQ103TA/A",
-    "price": 38400,
-    "name": "iPhone 14 Pro 256GB 銀色"
-  },
-  {
-    "series": "iPhone 14 Pro",
-    "sku": "MPXV3TA/A",
-    "price": 34900,
-    "name": "iPhone 14 Pro 128GB 太空黑色"
-  },
-  {
-    "series": "iPhone 14 Pro",
-    "sku": "MQ323TA/A",
-    "price": 52400,
-    "name": "iPhone 14 Pro 1TB 深紫色"
-  },
-  {
-    "series": "iPhone 14 Pro",
-    "sku": "MQ233TA/A",
-    "price": 45400,
-    "name": "iPhone 14 Pro 512GB 金色"
   },
   {
     "series": "iPhone 14 Pro",
@@ -85,9 +37,9 @@
   },
   {
     "series": "iPhone 14 Pro",
-    "sku": "MQ0T3TA/A",
-    "price": 38400,
-    "name": "iPhone 14 Pro 256GB 太空黑色"
+    "sku": "MPXV3TA/A",
+    "price": 34900,
+    "name": "iPhone 14 Pro 128GB 太空黑色"
   },
   {
     "series": "iPhone 14 Pro",
@@ -96,34 +48,52 @@
     "name": "iPhone 14 Pro 1TB 金色"
   },
   {
-    "series": "iPhone 14 Pro Max",
-    "sku": "MQAF3TA/A",
-    "price": 49400,
-    "name": "iPhone 14 Pro Max 512GB 太空黑色"
+    "series": "iPhone 14 Pro",
+    "sku": "MQ103TA/A",
+    "price": 38400,
+    "name": "iPhone 14 Pro 256GB 銀色"
   },
   {
-    "series": "iPhone 14 Pro Max",
-    "sku": "MQAM3TA/A",
-    "price": 49400,
-    "name": "iPhone 14 Pro Max 512GB 深紫色"
+    "series": "iPhone 14 Pro",
+    "sku": "MQ323TA/A",
+    "price": 52400,
+    "name": "iPhone 14 Pro 1TB 深紫色"
   },
   {
-    "series": "iPhone 14 Pro Max",
-    "sku": "MQC33TA/A",
-    "price": 56400,
-    "name": "iPhone 14 Pro Max 1TB 銀色"
+    "series": "iPhone 14 Pro",
+    "sku": "MQ1M3TA/A",
+    "price": 45400,
+    "name": "iPhone 14 Pro 512GB 太空黑色"
   },
   {
-    "series": "iPhone 14 Pro Max",
-    "sku": "MQ9V3TA/A",
-    "price": 42400,
-    "name": "iPhone 14 Pro Max 256GB 銀色"
+    "series": "iPhone 14 Pro",
+    "sku": "MQ293TA/A",
+    "price": 45400,
+    "name": "iPhone 14 Pro 512GB 深紫色"
   },
   {
-    "series": "iPhone 14 Pro Max",
-    "sku": "MQAH3TA/A",
-    "price": 49400,
-    "name": "iPhone 14 Pro Max 512GB 銀色"
+    "series": "iPhone 14 Pro",
+    "sku": "MQ0G3TA/A",
+    "price": 34900,
+    "name": "iPhone 14 Pro 128GB 深紫色"
+  },
+  {
+    "series": "iPhone 14 Pro",
+    "sku": "MQ233TA/A",
+    "price": 45400,
+    "name": "iPhone 14 Pro 512GB 金色"
+  },
+  {
+    "series": "iPhone 14 Pro",
+    "sku": "MQ2G3TA/A",
+    "price": 52400,
+    "name": "iPhone 14 Pro 1TB 太空黑色"
+  },
+  {
+    "series": "iPhone 14 Pro",
+    "sku": "MQ2N3TA/A",
+    "price": 52400,
+    "name": "iPhone 14 Pro 1TB 銀色"
   },
   {
     "series": "iPhone 14 Pro Max",
@@ -133,21 +103,9 @@
   },
   {
     "series": "iPhone 14 Pro Max",
-    "sku": "MQ9T3TA/A",
-    "price": 38900,
-    "name": "iPhone 14 Pro Max 128GB 深紫色"
-  },
-  {
-    "series": "iPhone 14 Pro Max",
-    "sku": "MQC43TA/A",
-    "price": 56400,
-    "name": "iPhone 14 Pro Max 1TB 金色"
-  },
-  {
-    "series": "iPhone 14 Pro Max",
-    "sku": "MQ9W3TA/A",
-    "price": 42400,
-    "name": "iPhone 14 Pro Max 256GB 金色"
+    "sku": "MQAM3TA/A",
+    "price": 49400,
+    "name": "iPhone 14 Pro Max 512GB 深紫色"
   },
   {
     "series": "iPhone 14 Pro Max",
@@ -163,9 +121,27 @@
   },
   {
     "series": "iPhone 14 Pro Max",
-    "sku": "MQC53TA/A",
+    "sku": "MQ9T3TA/A",
+    "price": 38900,
+    "name": "iPhone 14 Pro Max 128GB 深紫色"
+  },
+  {
+    "series": "iPhone 14 Pro Max",
+    "sku": "MQ9W3TA/A",
+    "price": 42400,
+    "name": "iPhone 14 Pro Max 256GB 金色"
+  },
+  {
+    "series": "iPhone 14 Pro Max",
+    "sku": "MQAJ3TA/A",
+    "price": 49400,
+    "name": "iPhone 14 Pro Max 512GB 金色"
+  },
+  {
+    "series": "iPhone 14 Pro Max",
+    "sku": "MQC43TA/A",
     "price": 56400,
-    "name": "iPhone 14 Pro Max 1TB 深紫色"
+    "name": "iPhone 14 Pro Max 1TB 金色"
   },
   {
     "series": "iPhone 14 Pro Max",
@@ -175,9 +151,21 @@
   },
   {
     "series": "iPhone 14 Pro Max",
-    "sku": "MQ9X3TA/A",
-    "price": 42400,
-    "name": "iPhone 14 Pro Max 256GB 深紫色"
+    "sku": "MQAH3TA/A",
+    "price": 49400,
+    "name": "iPhone 14 Pro Max 512GB 銀色"
+  },
+  {
+    "series": "iPhone 14 Pro Max",
+    "sku": "MQC33TA/A",
+    "price": 56400,
+    "name": "iPhone 14 Pro Max 1TB 銀色"
+  },
+  {
+    "series": "iPhone 14 Pro Max",
+    "sku": "MQAF3TA/A",
+    "price": 49400,
+    "name": "iPhone 14 Pro Max 512GB 太空黑色"
   },
   {
     "series": "iPhone 14 Pro Max",
@@ -187,9 +175,33 @@
   },
   {
     "series": "iPhone 14 Pro Max",
-    "sku": "MQAJ3TA/A",
-    "price": 49400,
-    "name": "iPhone 14 Pro Max 512GB 金色"
+    "sku": "MQ9X3TA/A",
+    "price": 42400,
+    "name": "iPhone 14 Pro Max 256GB 深紫色"
+  },
+  {
+    "series": "iPhone 14 Pro Max",
+    "sku": "MQC53TA/A",
+    "price": 56400,
+    "name": "iPhone 14 Pro Max 1TB 深紫色"
+  },
+  {
+    "series": "iPhone 14 Pro Max",
+    "sku": "MQ9V3TA/A",
+    "price": 42400,
+    "name": "iPhone 14 Pro Max 256GB 銀色"
+  },
+  {
+    "series": "iPhone 14 Plus",
+    "sku": "MQ5D3TA/A",
+    "price": 42400,
+    "name": "iPhone 14 Plus 512GB 星光色"
+  },
+  {
+    "series": "iPhone 14 Plus",
+    "sku": "MQ593TA/A",
+    "price": 42400,
+    "name": "iPhone 14 Plus 512GB 午夜色"
   },
   {
     "series": "iPhone 14 Plus",
@@ -199,27 +211,15 @@
   },
   {
     "series": "iPhone 14 Plus",
-    "sku": "MQ5F3TA/A",
-    "price": 42400,
-    "name": "iPhone 14 Plus 512GB (PRODUCT)RED"
-  },
-  {
-    "series": "iPhone 14 Plus",
-    "sku": "MQ563TA/A",
+    "sku": "MQ583TA/A",
     "price": 35400,
-    "name": "iPhone 14 Plus 256GB 紫色"
+    "name": "iPhone 14 Plus 256GB 藍色"
   },
   {
     "series": "iPhone 14 Plus",
-    "sku": "MQ4Y3TA/A",
-    "price": 31900,
-    "name": "iPhone 14 Plus 128GB 星光色"
-  },
-  {
-    "series": "iPhone 14 Plus",
-    "sku": "MQ4X3TA/A",
-    "price": 31900,
-    "name": "iPhone 14 Plus 128GB 午夜色"
+    "sku": "MQ5E3TA/A",
+    "price": 42400,
+    "name": "iPhone 14 Plus 512GB 紫色"
   },
   {
     "series": "iPhone 14 Plus",
@@ -229,9 +229,15 @@
   },
   {
     "series": "iPhone 14 Plus",
-    "sku": "MQ5D3TA/A",
-    "price": 42400,
-    "name": "iPhone 14 Plus 512GB 星光色"
+    "sku": "MQ573TA/A",
+    "price": 35400,
+    "name": "iPhone 14 Plus 256GB (PRODUCT)RED"
+  },
+  {
+    "series": "iPhone 14 Plus",
+    "sku": "MQ4Y3TA/A",
+    "price": 31900,
+    "name": "iPhone 14 Plus 128GB 星光色"
   },
   {
     "series": "iPhone 14 Plus",
@@ -247,9 +253,15 @@
   },
   {
     "series": "iPhone 14 Plus",
-    "sku": "MQ5E3TA/A",
-    "price": 42400,
-    "name": "iPhone 14 Plus 512GB 紫色"
+    "sku": "MQ503TA/A",
+    "price": 31900,
+    "name": "iPhone 14 Plus 128GB 紫色"
+  },
+  {
+    "series": "iPhone 14 Plus",
+    "sku": "MQ4X3TA/A",
+    "price": 31900,
+    "name": "iPhone 14 Plus 128GB 午夜色"
   },
   {
     "series": "iPhone 14 Plus",
@@ -259,87 +271,15 @@
   },
   {
     "series": "iPhone 14 Plus",
-    "sku": "MQ503TA/A",
-    "price": 31900,
-    "name": "iPhone 14 Plus 128GB 紫色"
-  },
-  {
-    "series": "iPhone 14 Plus",
-    "sku": "MQ593TA/A",
+    "sku": "MQ5F3TA/A",
     "price": 42400,
-    "name": "iPhone 14 Plus 512GB 午夜色"
+    "name": "iPhone 14 Plus 512GB (PRODUCT)RED"
   },
   {
     "series": "iPhone 14 Plus",
-    "sku": "MQ583TA/A",
+    "sku": "MQ563TA/A",
     "price": 35400,
-    "name": "iPhone 14 Plus 256GB 藍色"
-  },
-  {
-    "series": "iPhone 14 Plus",
-    "sku": "MQ573TA/A",
-    "price": 35400,
-    "name": "iPhone 14 Plus 256GB (PRODUCT)RED"
-  },
-  {
-    "series": "iPhone 14",
-    "sku": "MPWP3TA/A",
-    "price": 31400,
-    "name": "iPhone 14 256GB 藍色"
-  },
-  {
-    "series": "iPhone 14",
-    "sku": "MPUF3TA/A",
-    "price": 27900,
-    "name": "iPhone 14 128GB 午夜色"
-  },
-  {
-    "series": "iPhone 14",
-    "sku": "MPVX3TA/A",
-    "price": 31400,
-    "name": "iPhone 14 256GB 午夜色"
-  },
-  {
-    "series": "iPhone 14",
-    "sku": "MPWA3TA/A",
-    "price": 31400,
-    "name": "iPhone 14 256GB 紫色"
-  },
-  {
-    "series": "iPhone 14",
-    "sku": "MPUR3TA/A",
-    "price": 27900,
-    "name": "iPhone 14 128GB 星光色"
-  },
-  {
-    "series": "iPhone 14",
-    "sku": "MPXN3TA/A",
-    "price": 38400,
-    "name": "iPhone 14 512GB 藍色"
-  },
-  {
-    "series": "iPhone 14",
-    "sku": "MPVA3TA/A",
-    "price": 27900,
-    "name": "iPhone 14 128GB (PRODUCT)RED"
-  },
-  {
-    "series": "iPhone 14",
-    "sku": "MPWW3TA/A",
-    "price": 38400,
-    "name": "iPhone 14 512GB 午夜色"
-  },
-  {
-    "series": "iPhone 14",
-    "sku": "MPXG3TA/A",
-    "price": 38400,
-    "name": "iPhone 14 512GB (PRODUCT)RED"
-  },
-  {
-    "series": "iPhone 14",
-    "sku": "MPW43TA/A",
-    "price": 31400,
-    "name": "iPhone 14 256GB 星光色"
+    "name": "iPhone 14 Plus 256GB 紫色"
   },
   {
     "series": "iPhone 14",
@@ -349,15 +289,27 @@
   },
   {
     "series": "iPhone 14",
-    "sku": "MPWH3TA/A",
-    "price": 31400,
-    "name": "iPhone 14 256GB (PRODUCT)RED"
+    "sku": "MPVA3TA/A",
+    "price": 27900,
+    "name": "iPhone 14 128GB (PRODUCT)RED"
   },
   {
     "series": "iPhone 14",
-    "sku": "MPX33TA/A",
+    "sku": "MPX93TA/A",
     "price": 38400,
-    "name": "iPhone 14 512GB 星光色"
+    "name": "iPhone 14 512GB 紫色"
+  },
+  {
+    "series": "iPhone 14",
+    "sku": "MPXG3TA/A",
+    "price": 38400,
+    "name": "iPhone 14 512GB (PRODUCT)RED"
+  },
+  {
+    "series": "iPhone 14",
+    "sku": "MPUR3TA/A",
+    "price": 27900,
+    "name": "iPhone 14 128GB 星光色"
   },
   {
     "series": "iPhone 14",
@@ -367,8 +319,1022 @@
   },
   {
     "series": "iPhone 14",
-    "sku": "MPX93TA/A",
+    "sku": "MPWA3TA/A",
+    "price": 31400,
+    "name": "iPhone 14 256GB 紫色"
+  },
+  {
+    "series": "iPhone 14",
+    "sku": "MPX33TA/A",
     "price": 38400,
-    "name": "iPhone 14 512GB 紫色"
+    "name": "iPhone 14 512GB 星光色"
+  },
+  {
+    "series": "iPhone 14",
+    "sku": "MPWW3TA/A",
+    "price": 38400,
+    "name": "iPhone 14 512GB 午夜色"
+  },
+  {
+    "series": "iPhone 14",
+    "sku": "MPWH3TA/A",
+    "price": 31400,
+    "name": "iPhone 14 256GB (PRODUCT)RED"
+  },
+  {
+    "series": "iPhone 14",
+    "sku": "MPUF3TA/A",
+    "price": 27900,
+    "name": "iPhone 14 128GB 午夜色"
+  },
+  {
+    "series": "iPhone 14",
+    "sku": "MPXN3TA/A",
+    "price": 38400,
+    "name": "iPhone 14 512GB 藍色"
+  },
+  {
+    "series": "iPhone 14",
+    "sku": "MPW43TA/A",
+    "price": 31400,
+    "name": "iPhone 14 256GB 星光色"
+  },
+  {
+    "series": "iPhone 14",
+    "sku": "MPVX3TA/A",
+    "price": 31400,
+    "name": "iPhone 14 256GB 午夜色"
+  },
+  {
+    "series": "iPhone 14",
+    "sku": "MPWP3TA/A",
+    "price": 31400,
+    "name": "iPhone 14 256GB 藍色"
+  },
+  {
+    "series": "iPhone 13",
+    "sku": "MLQG3TA/A",
+    "price": 35400,
+    "name": "iPhone 13 512GB 藍色"
+  },
+  {
+    "series": "iPhone 13",
+    "sku": "MLQD3TA/A",
+    "price": 35400,
+    "name": "iPhone 13 512GB 星光色"
+  },
+  {
+    "series": "iPhone 13",
+    "sku": "MLPG3TA/A",
+    "price": 24900,
+    "name": "iPhone 13 128GB 星光色"
+  },
+  {
+    "series": "iPhone 13",
+    "sku": "MLQE3TA/A",
+    "price": 35400,
+    "name": "iPhone 13 512GB 粉紅色"
+  },
+  {
+    "series": "iPhone 13",
+    "sku": "MLQ93TA/A",
+    "price": 28400,
+    "name": "iPhone 13 256GB (PRODUCT)RED"
+  },
+  {
+    "series": "iPhone 13",
+    "sku": "MLPK3TA/A",
+    "price": 24900,
+    "name": "iPhone 13 128GB 藍色"
+  },
+  {
+    "series": "iPhone 13",
+    "sku": "MLQF3TA/A",
+    "price": 35400,
+    "name": "iPhone 13 512GB (PRODUCT)RED"
+  },
+  {
+    "series": "iPhone 13",
+    "sku": "MLPJ3TA/A",
+    "price": 24900,
+    "name": "iPhone 13 128GB (PRODUCT)RED"
+  },
+  {
+    "series": "iPhone 13",
+    "sku": "MNGK3TA/A",
+    "price": 24900,
+    "name": "iPhone 13 128GB 綠色"
+  },
+  {
+    "series": "iPhone 13",
+    "sku": "MLPH3TA/A",
+    "price": 24900,
+    "name": "iPhone 13 128GB 粉紅色"
+  },
+  {
+    "series": "iPhone 13",
+    "sku": "MLQ63TA/A",
+    "price": 28400,
+    "name": "iPhone 13 256GB 午夜色"
+  },
+  {
+    "series": "iPhone 13",
+    "sku": "MLQA3TA/A",
+    "price": 28400,
+    "name": "iPhone 13 256GB 藍色"
+  },
+  {
+    "series": "iPhone 13",
+    "sku": "MLQ83TA/A",
+    "price": 28400,
+    "name": "iPhone 13 256GB 粉紅色"
+  },
+  {
+    "series": "iPhone 13",
+    "sku": "MNGL3TA/A",
+    "price": 28400,
+    "name": "iPhone 13 256GB 綠色"
+  },
+  {
+    "series": "iPhone 13",
+    "sku": "MLQ73TA/A",
+    "price": 28400,
+    "name": "iPhone 13 256GB 星光色"
+  },
+  {
+    "series": "iPhone 13",
+    "sku": "MNGM3TA/A",
+    "price": 35400,
+    "name": "iPhone 13 512GB 綠色"
+  },
+  {
+    "series": "iPhone 13",
+    "sku": "MLQC3TA/A",
+    "price": 35400,
+    "name": "iPhone 13 512GB 午夜色"
+  },
+  {
+    "series": "iPhone 13",
+    "sku": "MLPF3TA/A",
+    "price": 24900,
+    "name": "iPhone 13 128GB 午夜色"
+  },
+  {
+    "series": "iPhone 13 mini",
+    "sku": "MNFF3TA/A",
+    "price": 20900,
+    "name": "iPhone 13 mini 128GB 綠色"
+  },
+  {
+    "series": "iPhone 13 mini",
+    "sku": "MLK53TA/A",
+    "price": 24400,
+    "name": "iPhone 13 mini 256GB 午夜色"
+  },
+  {
+    "series": "iPhone 13 mini",
+    "sku": "MLK73TA/A",
+    "price": 24400,
+    "name": "iPhone 13 mini 256GB 粉紅色"
+  },
+  {
+    "series": "iPhone 13 mini",
+    "sku": "MLK93TA/A",
+    "price": 24400,
+    "name": "iPhone 13 mini 256GB 藍色"
+  },
+  {
+    "series": "iPhone 13 mini",
+    "sku": "MLK33TA/A",
+    "price": 20900,
+    "name": "iPhone 13 mini 128GB (PRODUCT)RED"
+  },
+  {
+    "series": "iPhone 13 mini",
+    "sku": "MNFH3TA/A",
+    "price": 31400,
+    "name": "iPhone 13 mini 512GB 綠色"
+  },
+  {
+    "series": "iPhone 13 mini",
+    "sku": "MLK13TA/A",
+    "price": 20900,
+    "name": "iPhone 13 mini 128GB 星光色"
+  },
+  {
+    "series": "iPhone 13 mini",
+    "sku": "MLKC3TA/A",
+    "price": 31400,
+    "name": "iPhone 13 mini 512GB 星光色"
+  },
+  {
+    "series": "iPhone 13 mini",
+    "sku": "MLK43TA/A",
+    "price": 20900,
+    "name": "iPhone 13 mini 128GB 藍色"
+  },
+  {
+    "series": "iPhone 13 mini",
+    "sku": "MLKD3TA/A",
+    "price": 31400,
+    "name": "iPhone 13 mini 512GB 粉紅色"
+  },
+  {
+    "series": "iPhone 13 mini",
+    "sku": "MLKA3TA/A",
+    "price": 31400,
+    "name": "iPhone 13 mini 512GB 午夜色"
+  },
+  {
+    "series": "iPhone 13 mini",
+    "sku": "MLK23TA/A",
+    "price": 20900,
+    "name": "iPhone 13 mini 128GB 粉紅色"
+  },
+  {
+    "series": "iPhone 13 mini",
+    "sku": "MLK63TA/A",
+    "price": 24400,
+    "name": "iPhone 13 mini 256GB 星光色"
+  },
+  {
+    "series": "iPhone 13 mini",
+    "sku": "MLKE3TA/A",
+    "price": 31400,
+    "name": "iPhone 13 mini 512GB (PRODUCT)RED"
+  },
+  {
+    "series": "iPhone 13 mini",
+    "sku": "MNFG3TA/A",
+    "price": 24400,
+    "name": "iPhone 13 mini 256GB 綠色"
+  },
+  {
+    "series": "iPhone 13 mini",
+    "sku": "MLKF3TA/A",
+    "price": 31400,
+    "name": "iPhone 13 mini 512GB 藍色"
+  },
+  {
+    "series": "iPhone 13 mini",
+    "sku": "MLK83TA/A",
+    "price": 24400,
+    "name": "iPhone 13 mini 256GB (PRODUCT)RED"
+  },
+  {
+    "series": "iPhone 13 mini",
+    "sku": "MLK03TA/A",
+    "price": 20900,
+    "name": "iPhone 13 mini 128GB 午夜色"
+  },
+  {
+    "series": "iPhone SE (第 3 代)",
+    "sku": "MMXM3TA/A",
+    "price": 20000,
+    "name": "iPhone SE 256GB 午夜色"
+  },
+  {
+    "series": "iPhone SE (第 3 代)",
+    "sku": "MMXH3TA/A",
+    "price": 14900,
+    "name": "iPhone SE 64GB (PRODUCT)RED"
+  },
+  {
+    "series": "iPhone SE (第 3 代)",
+    "sku": "MMXJ3TA/A",
+    "price": 16500,
+    "name": "iPhone SE 128GB 午夜色"
+  },
+  {
+    "series": "iPhone SE (第 3 代)",
+    "sku": "MMXG3TA/A",
+    "price": 14900,
+    "name": "iPhone SE 64GB 星光色"
+  },
+  {
+    "series": "iPhone SE (第 3 代)",
+    "sku": "MMXP3TA/A",
+    "price": 20000,
+    "name": "iPhone SE 256GB (PRODUCT)RED"
+  },
+  {
+    "series": "iPhone SE (第 3 代)",
+    "sku": "MMXK3TA/A",
+    "price": 16500,
+    "name": "iPhone SE 128GB 星光色"
+  },
+  {
+    "series": "iPhone SE (第 3 代)",
+    "sku": "MMXN3TA/A",
+    "price": 20000,
+    "name": "iPhone SE 256GB 星光色"
+  },
+  {
+    "series": "iPhone SE (第 3 代)",
+    "sku": "MMXF3TA/A",
+    "price": 14900,
+    "name": "iPhone SE 64GB 午夜色"
+  },
+  {
+    "series": "iPhone SE (第 3 代)",
+    "sku": "MMXL3TA/A",
+    "price": 16500,
+    "name": "iPhone SE 128GB (PRODUCT)RED"
+  },
+  {
+    "series": "iPhone 12",
+    "sku": "MGJH3TA/A",
+    "price": 26000,
+    "name": "iPhone 12 256GB 白色"
+  },
+  {
+    "series": "iPhone 12",
+    "sku": "MGJK3TA/A",
+    "price": 26000,
+    "name": "iPhone 12 256GB 藍色"
+  },
+  {
+    "series": "iPhone 12",
+    "sku": "MGJF3TA/A",
+    "price": 22500,
+    "name": "iPhone 12 128GB 綠色"
+  },
+  {
+    "series": "iPhone 12",
+    "sku": "MGJC3TA/A",
+    "price": 22500,
+    "name": "iPhone 12 128GB 白色"
+  },
+  {
+    "series": "iPhone 12",
+    "sku": "MGJE3TA/A",
+    "price": 22500,
+    "name": "iPhone 12 128GB 藍色"
+  },
+  {
+    "series": "iPhone 12",
+    "sku": "MGJ93TA/A",
+    "price": 20900,
+    "name": "iPhone 12 64GB 綠色"
+  },
+  {
+    "series": "iPhone 12",
+    "sku": "MGJ63TA/A",
+    "price": 20900,
+    "name": "iPhone 12 64GB 白色"
+  },
+  {
+    "series": "iPhone 12",
+    "sku": "MGJ83TA/A",
+    "price": 20900,
+    "name": "iPhone 12 64GB 藍色"
+  },
+  {
+    "series": "iPhone 12",
+    "sku": "MJNM3TA/A",
+    "price": 20900,
+    "name": "iPhone 12 64GB 紫色"
+  },
+  {
+    "series": "iPhone 12",
+    "sku": "MGJ53TA/A",
+    "price": 20900,
+    "name": "iPhone 12 64GB 黑色"
+  },
+  {
+    "series": "iPhone 12",
+    "sku": "MGJ73TA/A",
+    "price": 20900,
+    "name": "iPhone 12 64GB (PRODUCT)RED"
+  },
+  {
+    "series": "iPhone 12",
+    "sku": "MGJA3TA/A",
+    "price": 22500,
+    "name": "iPhone 12 128GB 黑色"
+  },
+  {
+    "series": "iPhone 12",
+    "sku": "MJNQ3TA/A",
+    "price": 26000,
+    "name": "iPhone 12 256GB 紫色"
+  },
+  {
+    "series": "iPhone 12",
+    "sku": "MGJL3TA/A",
+    "price": 26000,
+    "name": "iPhone 12 256GB 綠色"
+  },
+  {
+    "series": "iPhone 12",
+    "sku": "MGJJ3TA/A",
+    "price": 26000,
+    "name": "iPhone 12 256GB (PRODUCT)RED"
+  },
+  {
+    "series": "iPhone 12",
+    "sku": "MGJG3TA/A",
+    "price": 26000,
+    "name": "iPhone 12 256GB 黑色"
+  },
+  {
+    "series": "iPhone 12",
+    "sku": "MJNP3TA/A",
+    "price": 22500,
+    "name": "iPhone 12 128GB 紫色"
+  },
+  {
+    "series": "iPhone 12",
+    "sku": "MGJD3TA/A",
+    "price": 22500,
+    "name": "iPhone 12 128GB (PRODUCT)RED"
+  },
+  {
+    "series": "iPad Pro 11 吋 (第 3 代)",
+    "sku": "MHWE3TA/A",
+    "price": 64000,
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 2TB - 太空灰色"
+  },
+  {
+    "series": "iPad Pro 11 吋 (第 3 代)",
+    "sku": "MHW93TA/A",
+    "price": 39200,
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 512GB - 太空灰色"
+  },
+  {
+    "series": "iPad Pro 11 吋 (第 3 代)",
+    "sku": "MHQW3TA/A",
+    "price": 34200,
+    "name": "11 吋 iPad Pro Wi-Fi 機型 512GB - 太空灰色"
+  },
+  {
+    "series": "iPad Pro 11 吋 (第 3 代)",
+    "sku": "MHQU3TA/A",
+    "price": 28000,
+    "name": "11 吋 iPad Pro Wi-Fi 機型 256GB - 太空灰色"
+  },
+  {
+    "series": "iPad Pro 11 吋 (第 3 代)",
+    "sku": "MHWD3TA/A",
+    "price": 51600,
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 1TB - 銀色"
+  },
+  {
+    "series": "iPad Pro 11 吋 (第 3 代)",
+    "sku": "MHQT3TA/A",
+    "price": 24900,
+    "name": "11 吋 iPad Pro Wi-Fi 機型 128GB - 銀色"
+  },
+  {
+    "series": "iPad Pro 11 吋 (第 3 代)",
+    "sku": "MHWF3TA/A",
+    "price": 64000,
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 2TB - 銀色"
+  },
+  {
+    "series": "iPad Pro 11 吋 (第 3 代)",
+    "sku": "MHW63TA/A",
+    "price": 29900,
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 128GB - 銀色"
+  },
+  {
+    "series": "iPad Pro 11 吋 (第 3 代)",
+    "sku": "MHWC3TA/A",
+    "price": 51600,
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 1TB - 太空灰色"
+  },
+  {
+    "series": "iPad Pro 11 吋 (第 3 代)",
+    "sku": "MHWA3TA/A",
+    "price": 39200,
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 512GB - 銀色"
+  },
+  {
+    "series": "iPad Pro 11 吋 (第 3 代)",
+    "sku": "MHQY3TA/A",
+    "price": 46600,
+    "name": "11 吋 iPad Pro Wi-Fi 機型 1TB - 太空灰色"
+  },
+  {
+    "series": "iPad Pro 11 吋 (第 3 代)",
+    "sku": "MHW73TA/A",
+    "price": 33000,
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 256GB - 太空灰色"
+  },
+  {
+    "series": "iPad Pro 11 吋 (第 3 代)",
+    "sku": "MHQV3TA/A",
+    "price": 28000,
+    "name": "11 吋 iPad Pro Wi-Fi 256GB - 銀色"
+  },
+  {
+    "series": "iPad Pro 11 吋 (第 3 代)",
+    "sku": "MHR33TA/A",
+    "price": 59000,
+    "name": "11 吋 iPad Pro Wi-Fi 機型 2TB - 銀色"
+  },
+  {
+    "series": "iPad Pro 11 吋 (第 3 代)",
+    "sku": "MHR03TA/A",
+    "price": 46600,
+    "name": "11 吋 iPad Pro Wi-Fi 機型 1TB - 銀色"
+  },
+  {
+    "series": "iPad Pro 11 吋 (第 3 代)",
+    "sku": "MHW83TA/A",
+    "price": 33000,
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 256GB - 銀色"
+  },
+  {
+    "series": "iPad Pro 11 吋 (第 3 代)",
+    "sku": "MHR23TA/A",
+    "price": 59000,
+    "name": "11 吋 iPad Pro Wi-Fi 機型 2TB - 太空灰色"
+  },
+  {
+    "series": "iPad Pro 11 吋 (第 3 代)",
+    "sku": "MHQX3TA/A",
+    "price": 34200,
+    "name": "11 吋 iPad Pro Wi-Fi 機型 512GB - 銀色"
+  },
+  {
+    "series": "iPad Pro 11 吋 (第 3 代)",
+    "sku": "MHQR3TA/A",
+    "price": 24900,
+    "name": "11 吋 iPad Pro Wi-Fi 機型 128GB - 太空灰色"
+  },
+  {
+    "series": "iPad Pro 11 吋 (第 3 代)",
+    "sku": "MHW53TA/A",
+    "price": 29900,
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 128GB - 太空灰色"
+  },
+  {
+    "series": "iPad Pro 12.9 吋 (第 5 代)",
+    "sku": "MHNH3TA/A",
+    "price": 38000,
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 256GB - 太空灰色"
+  },
+  {
+    "series": "iPad Pro 12.9 吋 (第 5 代)",
+    "sku": "MHNP3TA/A",
+    "price": 69000,
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 2TB - 太空灰色"
+  },
+  {
+    "series": "iPad Pro 12.9 吋 (第 5 代)",
+    "sku": "MHRC3TA/A",
+    "price": 61600,
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 1TB - 銀色"
+  },
+  {
+    "series": "iPad Pro 12.9 吋 (第 5 代)",
+    "sku": "MHR63TA/A",
+    "price": 43000,
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 256GB - 太空灰色"
+  },
+  {
+    "series": "iPad Pro 12.9 吋 (第 5 代)",
+    "sku": "MHR53TA/A",
+    "price": 39900,
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 128GB - 銀色"
+  },
+  {
+    "series": "iPad Pro 12.9 吋 (第 5 代)",
+    "sku": "MHR93TA/A",
+    "price": 49200,
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 512GB - 銀色"
+  },
+  {
+    "series": "iPad Pro 12.9 吋 (第 5 代)",
+    "sku": "MHRE3TA/A",
+    "price": 74000,
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 2TB - 銀色"
+  },
+  {
+    "series": "iPad Pro 12.9 吋 (第 5 代)",
+    "sku": "MHNJ3TA/A",
+    "price": 38000,
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 256GB - 銀色"
+  },
+  {
+    "series": "iPad Pro 12.9 吋 (第 5 代)",
+    "sku": "MHNG3TA/A",
+    "price": 34900,
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 128GB - 銀色"
+  },
+  {
+    "series": "iPad Pro 12.9 吋 (第 5 代)",
+    "sku": "MHNQ3TA/A",
+    "price": 69000,
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 2TB - 銀色"
+  },
+  {
+    "series": "iPad Pro 12.9 吋 (第 5 代)",
+    "sku": "MHNN3TA/A",
+    "price": 56600,
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 1TB - 銀色"
+  },
+  {
+    "series": "iPad Pro 12.9 吋 (第 5 代)",
+    "sku": "MHRA3TA/A",
+    "price": 61600,
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 1TB - 太空灰色"
+  },
+  {
+    "series": "iPad Pro 12.9 吋 (第 5 代)",
+    "sku": "MHNF3TA/A",
+    "price": 34900,
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 128GB - 太空灰色"
+  },
+  {
+    "series": "iPad Pro 12.9 吋 (第 5 代)",
+    "sku": "MHR43TA/A",
+    "price": 39900,
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 128GB - 太空灰色"
+  },
+  {
+    "series": "iPad Pro 12.9 吋 (第 5 代)",
+    "sku": "MHR83TA/A",
+    "price": 49200,
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 512GB - 太空灰色"
+  },
+  {
+    "series": "iPad Pro 12.9 吋 (第 5 代)",
+    "sku": "MHNL3TA/A",
+    "price": 44200,
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 512GB - 銀色"
+  },
+  {
+    "series": "iPad Pro 12.9 吋 (第 5 代)",
+    "sku": "MHNM3TA/A",
+    "price": 56600,
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 1TB - 太空灰色"
+  },
+  {
+    "series": "iPad Pro 12.9 吋 (第 5 代)",
+    "sku": "MHR73TA/A",
+    "price": 43000,
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 256GB - 銀色"
+  },
+  {
+    "series": "iPad Pro 12.9 吋 (第 5 代)",
+    "sku": "MHNK3TA/A",
+    "price": 44200,
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 512GB - 太空灰色"
+  },
+  {
+    "series": "iPad Pro 12.9 吋 (第 5 代)",
+    "sku": "MHRD3TA/A",
+    "price": 74000,
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 2TB - 太空灰色"
+  },
+  {
+    "series": "iPad Air (第 5 代)",
+    "sku": "MM6R3TA/A",
+    "price": 22900,
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 64GB - 太空灰色"
+  },
+  {
+    "series": "iPad Air (第 5 代)",
+    "sku": "MM9C3TA/A",
+    "price": 17900,
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 64GB - 太空灰色"
+  },
+  {
+    "series": "iPad Air (第 5 代)",
+    "sku": "MM723TA/A",
+    "price": 27900,
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 256GB - 粉紅色"
+  },
+  {
+    "series": "iPad Air (第 5 代)",
+    "sku": "MM733TA/A",
+    "price": 27900,
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 256GB - 藍色"
+  },
+  {
+    "series": "iPad Air (第 5 代)",
+    "sku": "MME23TA/A",
+    "price": 17900,
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 64GB - 紫色"
+  },
+  {
+    "series": "iPad Air (第 5 代)",
+    "sku": "MM9D3TA/A",
+    "price": 17900,
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 64GB - 粉紅色"
+  },
+  {
+    "series": "iPad Air (第 5 代)",
+    "sku": "MM9F3TA/A",
+    "price": 17900,
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 64GB - 星光色"
+  },
+  {
+    "series": "iPad Air (第 5 代)",
+    "sku": "MM9P3TA/A",
+    "price": 22900,
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 256GB - 星光色"
+  },
+  {
+    "series": "iPad Air (第 5 代)",
+    "sku": "MM6V3TA/A",
+    "price": 22900,
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 64GB - 星光色"
+  },
+  {
+    "series": "iPad Air (第 5 代)",
+    "sku": "MMED3TA/A",
+    "price": 27900,
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 256GB - 紫色"
+  },
+  {
+    "series": "iPad Air (第 5 代)",
+    "sku": "MME63TA/A",
+    "price": 22900,
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 256GB - 紫色"
+  },
+  {
+    "series": "iPad Air (第 5 代)",
+    "sku": "MM9M3TA/A",
+    "price": 22900,
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 256GB - 粉紅色"
+  },
+  {
+    "series": "iPad Air (第 5 代)",
+    "sku": "MME93TA/A",
+    "price": 22900,
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 64GB - 紫色"
+  },
+  {
+    "series": "iPad Air (第 5 代)",
+    "sku": "MM6T3TA/A",
+    "price": 22900,
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 64GB - 粉紅色"
+  },
+  {
+    "series": "iPad Air (第 5 代)",
+    "sku": "MM713TA/A",
+    "price": 27900,
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 256GB - 太空灰色"
+  },
+  {
+    "series": "iPad Air (第 5 代)",
+    "sku": "MM9N3TA/A",
+    "price": 22900,
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 256GB - 藍色"
+  },
+  {
+    "series": "iPad Air (第 5 代)",
+    "sku": "MM9L3TA/A",
+    "price": 22900,
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 256GB - 太空灰色"
+  },
+  {
+    "series": "iPad Air (第 5 代)",
+    "sku": "MM6U3TA/A",
+    "price": 22900,
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 64GB - 藍色"
+  },
+  {
+    "series": "iPad Air (第 5 代)",
+    "sku": "MM9E3TA/A",
+    "price": 17900,
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 64GB - 藍色"
+  },
+  {
+    "series": "iPad Air (第 5 代)",
+    "sku": "MM743TA/A",
+    "price": 27900,
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 256GB - 星光色"
+  },
+  {
+    "series": "iPad (第 9 代)",
+    "sku": "MK493TA/A",
+    "price": 14500,
+    "name": "10.2 吋 iPad Wi‑Fi + 行動網路機型 64GB - 銀色"
+  },
+  {
+    "series": "iPad (第 9 代)",
+    "sku": "MK473TA/A",
+    "price": 14500,
+    "name": "10.2 吋 iPad Wi‑Fi + 行動網路機型 64GB - 太空灰色"
+  },
+  {
+    "series": "iPad (第 9 代)",
+    "sku": "MK4E3TA/A",
+    "price": 19000,
+    "name": "10.2 吋 iPad Wi‑Fi + 行動網路機型 256GB - 太空灰色"
+  },
+  {
+    "series": "iPad (第 9 代)",
+    "sku": "MK2K3TA/A",
+    "price": 10500,
+    "name": "10.2 吋 iPad Wi‑Fi 機型 64GB - 太空灰色"
+  },
+  {
+    "series": "iPad (第 9 代)",
+    "sku": "MK2N3TA/A",
+    "price": 15000,
+    "name": "10.2 吋 iPad Wi‑Fi 機型 256GB - 太空灰色"
+  },
+  {
+    "series": "iPad (第 9 代)",
+    "sku": "MK4H3TA/A",
+    "price": 19000,
+    "name": "10.2 吋 iPad Wi‑Fi + 行動網路機型 256GB - 銀色"
+  },
+  {
+    "series": "iPad (第 9 代)",
+    "sku": "MK2L3TA/A",
+    "price": 10500,
+    "name": "10.2 吋 iPad Wi‑Fi 機型 64GB - 銀色"
+  },
+  {
+    "series": "iPad (第 9 代)",
+    "sku": "MK2P3TA/A",
+    "price": 15000,
+    "name": "10.2 吋 iPad Wi‑Fi 機型 256GB - 銀色"
+  },
+  {
+    "series": "iPad mini (第 6 代)",
+    "sku": "MK893TA/A",
+    "price": 19400,
+    "name": "iPad mini Wi‑Fi + 行動網路機型 64GB - 太空灰色"
+  },
+  {
+    "series": "iPad mini (第 6 代)",
+    "sku": "MLX43TA/A",
+    "price": 19400,
+    "name": "iPad mini Wi‑Fi + 行動網路機型 64GB - 粉紅色"
+  },
+  {
+    "series": "iPad mini (第 6 代)",
+    "sku": "MLWR3TA/A",
+    "price": 19400,
+    "name": "iPad mini Wi‑Fi 機型 256GB - 粉紅色"
+  },
+  {
+    "series": "iPad mini (第 6 代)",
+    "sku": "MK7V3TA/A",
+    "price": 19400,
+    "name": "iPad mini Wi‑Fi + 行動網路機型 64GB - 太空灰色"
+  },
+  {
+    "series": "iPad mini (第 6 代)",
+    "sku": "MK7R3TA/A",
+    "price": 14900,
+    "name": "iPad mini Wi‑Fi 機型 64GB - 紫色"
+  },
+  {
+    "series": "iPad mini (第 6 代)",
+    "sku": "MK8E3TA/A",
+    "price": 19400,
+    "name": "iPad mini Wi‑Fi + 行動網路機型  64GB - 紫色"
+  },
+  {
+    "series": "iPad mini (第 6 代)",
+    "sku": "MK8F3TA/A",
+    "price": 23900,
+    "name": "iPad mini Wi‑Fi + 行動網路機型  256GB - 太空灰色"
+  },
+  {
+    "series": "iPad mini (第 6 代)",
+    "sku": "MK7X3TA/A",
+    "price": 19400,
+    "name": "iPad mini Wi‑Fi 機型 256GB - 紫色"
+  },
+  {
+    "series": "iPad mini (第 6 代)",
+    "sku": "MK8H3TA/A",
+    "price": 23900,
+    "name": "iPad mini Wi‑Fi + 行動網路機型 256GB - 星光色"
+  },
+  {
+    "series": "iPad mini (第 6 代)",
+    "sku": "MLWL3TA/A",
+    "price": 14900,
+    "name": "iPad mini Wi‑Fi 機型 64GB - 粉紅色"
+  },
+  {
+    "series": "iPad mini (第 6 代)",
+    "sku": "MK7P3TA/A",
+    "price": 14900,
+    "name": "iPad mini Wi‑Fi 機型 64GB - 星光色"
+  },
+  {
+    "series": "iPad mini (第 6 代)",
+    "sku": "MK7T3TA/A",
+    "price": 19400,
+    "name": "iPad mini Wi‑Fi 機型 256GB - 太空灰色"
+  },
+  {
+    "series": "iPad mini (第 6 代)",
+    "sku": "MK8K3TA/A",
+    "price": 23900,
+    "name": "iPad mini Wi‑Fi + 行動網路機型  256GB - 紫色"
+  },
+  {
+    "series": "iPad mini (第 6 代)",
+    "sku": "MK7M3TA/A",
+    "price": 14900,
+    "name": "iPad mini Wi‑Fi 機型 64GB - 太空灰色"
+  },
+  {
+    "series": "iPad mini (第 6 代)",
+    "sku": "MK8C3TA/A",
+    "price": 19400,
+    "name": "iPad mini Wi‑Fi + 行動網路機型  64GB - 星光色"
+  },
+  {
+    "series": "iPad mini (第 6 代)",
+    "sku": "MLX93TA/A",
+    "price": 23900,
+    "name": "iPad mini Wi‑Fi + 行動網路機型 256GB - 粉紅色"
+  },
+  {
+    "series": "MacBook Pro (16 吋，2021 年)",
+    "sku": "MK1E3TA/A",
+    "price": 74900,
+    "name": "16 吋 MacBook Pro - 銀色"
+  },
+  {
+    "series": "MacBook Pro (16 吋，2021 年)",
+    "sku": "MK193TA/A",
+    "price": 80900,
+    "name": "16 吋 MacBook Pro - 太空灰色"
+  },
+  {
+    "series": "MacBook Pro (16 吋，2021 年)",
+    "sku": "MK1A3TA/A",
+    "price": 104900,
+    "name": "16 吋 MacBook Pro - 太空灰色"
+  },
+  {
+    "series": "MacBook Pro (16 吋，2021 年)",
+    "sku": "MK1H3TA/A",
+    "price": 104900,
+    "name": "16 吋 MacBook Pro - 銀色"
+  },
+  {
+    "series": "MacBook Pro (16 吋，2021 年)",
+    "sku": "MK1F3TA/A",
+    "price": 80900,
+    "name": "16 吋 MacBook Pro - 銀色"
+  },
+  {
+    "series": "MacBook Pro (16 吋，2021 年)",
+    "sku": "MK183TA/A",
+    "price": 74900,
+    "name": "16 吋 MacBook Pro - 太空灰色"
+  },
+  {
+    "series": "MacBook Pro (14 吋，2021 年)",
+    "sku": "MKGQ3TA/A",
+    "price": 74900,
+    "name": "14 吋 MacBook Pro - 太空灰色"
+  },
+  {
+    "series": "MacBook Pro (14 吋，2021 年)",
+    "sku": "MKGT3TA/A",
+    "price": 74900,
+    "name": "14 吋 MacBook Pro - 銀色"
+  },
+  {
+    "series": "MacBook Pro (14 吋，2021 年)",
+    "sku": "MKGR3TA/A",
+    "price": 59900,
+    "name": "14 吋 MacBook Pro - 銀色"
+  },
+  {
+    "series": "MacBook Pro (14 吋，2021 年)",
+    "sku": "MKGP3TA/A",
+    "price": 59900,
+    "name": "14 吋 MacBook Pro - 太空灰色"
+  },
+  {
+    "series": "MacBook Pro (13 吋，M2，2022 年)",
+    "sku": "MNEP3TA/A",
+    "price": 39900,
+    "name": "13 吋 MacBook Pro - 銀色"
+  },
+  {
+    "series": "MacBook Pro (13 吋，M2，2022 年)",
+    "sku": "MNEJ3TA/A",
+    "price": 45900,
+    "name": "13 吋 MacBook Pro - 太空灰色"
+  },
+  {
+    "series": "MacBook Pro (13 吋，M2，2022 年)",
+    "sku": "MNEQ3TA/A",
+    "price": 45900,
+    "name": "13 吋 MacBook Pro - 銀色"
+  },
+  {
+    "series": "MacBook Pro (13 吋，M2，2022 年)",
+    "sku": "MNEH3TA/A",
+    "price": 39900,
+    "name": "13 吋 MacBook Pro - 太空灰色"
   }
 ]
