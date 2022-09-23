@@ -2,26 +2,29 @@ const fs = require('fs');
 const path = require('path');
 
 const axios = require('axios');
+const { setupCache } = require('axios-cache-interceptor');
 const HTMLParser = require('node-html-parser');
+
+const request = setupCache(axios, { ttl: 1000 * 60 * 60 * 24});
 
 const SHOP_URL = 'https://www.apple.com/tw/shop/product';
 
 const urls = [
   'https://www.apple.com/tw/shop/buy-iphone/iphone-14-pro',
   'https://www.apple.com/tw/shop/buy-iphone/iphone-14',
-  // 'https://www.apple.com/tw/shop/buy-iphone/iphone-13',
-  // 'https://www.apple.com/tw/shop/buy-iphone/iphone-se',
-  // 'https://www.apple.com/tw/shop/buy-iphone/iphone-12',
-  // 'https://www.apple.com/tw/shop/buy-ipad/ipad-pro',
-  // 'https://www.apple.com/tw/shop/buy-ipad/ipad-air',
-  // 'https://www.apple.com/tw/shop/buy-ipad/ipad-10-2',
-  // 'https://www.apple.com/tw/shop/buy-ipad/ipad-mini',
-  // 'https://www.apple.com/tw/shop/buy-mac/macbook-pro',
+  'https://www.apple.com/tw/shop/buy-iphone/iphone-13',
+  'https://www.apple.com/tw/shop/buy-iphone/iphone-se',
+  'https://www.apple.com/tw/shop/buy-iphone/iphone-12',
+  'https://www.apple.com/tw/shop/buy-ipad/ipad-pro',
+  'https://www.apple.com/tw/shop/buy-ipad/ipad-air',
+  'https://www.apple.com/tw/shop/buy-ipad/ipad-10-2',
+  'https://www.apple.com/tw/shop/buy-ipad/ipad-mini',
+  'https://www.apple.com/tw/shop/buy-mac/macbook-pro',
 ];
 
 const getLdJsons = (url) => {
   console.error(` => ${url}`);
-  return axios.get(url).then((response) => {
+  return request.get(url).then((response) => {
     const html = response.data;
     const root = HTMLParser.parse(html);
     const results = root.querySelectorAll('[type="application/ld+json"]')
@@ -58,7 +61,7 @@ async function main() {
   }
   console.error(data);
 
-  const target = path.join(__dirname, '..', 'src', 'devcies.json');
+  const target = path.join(__dirname, '..', 'src', 'devices.json');
   fs.writeFileSync(target, JSON.stringify(data, null, 2));
 }
 
