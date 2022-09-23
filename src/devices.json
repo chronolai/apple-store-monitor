@@ -1,0 +1,374 @@
+[
+  {
+    "series": "iPhone 14 Pro",
+    "sku": "MQ293TA/A",
+    "price": 45400,
+    "name": "iPhone 14 Pro 512GB 深紫色"
+  },
+  {
+    "series": "iPhone 14 Pro",
+    "sku": "MQ023TA/A",
+    "price": 34900,
+    "name": "iPhone 14 Pro 128GB 銀色"
+  },
+  {
+    "series": "iPhone 14 Pro",
+    "sku": "MQ083TA/A",
+    "price": 34900,
+    "name": "iPhone 14 Pro 128GB 金色"
+  },
+  {
+    "series": "iPhone 14 Pro",
+    "sku": "MQ2N3TA/A",
+    "price": 52400,
+    "name": "iPhone 14 Pro 1TB 銀色"
+  },
+  {
+    "series": "iPhone 14 Pro",
+    "sku": "MQ0G3TA/A",
+    "price": 34900,
+    "name": "iPhone 14 Pro 128GB 深紫色"
+  },
+  {
+    "series": "iPhone 14 Pro",
+    "sku": "MQ1W3TA/A",
+    "price": 45400,
+    "name": "iPhone 14 Pro 512GB 銀色"
+  },
+  {
+    "series": "iPhone 14 Pro",
+    "sku": "MQ2G3TA/A",
+    "price": 52400,
+    "name": "iPhone 14 Pro 1TB 太空黑色"
+  },
+  {
+    "series": "iPhone 14 Pro",
+    "sku": "MQ1F3TA/A",
+    "price": 38400,
+    "name": "iPhone 14 Pro 256GB 深紫色"
+  },
+  {
+    "series": "iPhone 14 Pro",
+    "sku": "MQ1M3TA/A",
+    "price": 45400,
+    "name": "iPhone 14 Pro 512GB 太空黑色"
+  },
+  {
+    "series": "iPhone 14 Pro",
+    "sku": "MQ103TA/A",
+    "price": 38400,
+    "name": "iPhone 14 Pro 256GB 銀色"
+  },
+  {
+    "series": "iPhone 14 Pro",
+    "sku": "MPXV3TA/A",
+    "price": 34900,
+    "name": "iPhone 14 Pro 128GB 太空黑色"
+  },
+  {
+    "series": "iPhone 14 Pro",
+    "sku": "MQ323TA/A",
+    "price": 52400,
+    "name": "iPhone 14 Pro 1TB 深紫色"
+  },
+  {
+    "series": "iPhone 14 Pro",
+    "sku": "MQ233TA/A",
+    "price": 45400,
+    "name": "iPhone 14 Pro 512GB 金色"
+  },
+  {
+    "series": "iPhone 14 Pro",
+    "sku": "MQ183TA/A",
+    "price": 38400,
+    "name": "iPhone 14 Pro 256GB 金色"
+  },
+  {
+    "series": "iPhone 14 Pro",
+    "sku": "MQ0T3TA/A",
+    "price": 38400,
+    "name": "iPhone 14 Pro 256GB 太空黑色"
+  },
+  {
+    "series": "iPhone 14 Pro",
+    "sku": "MQ2V3TA/A",
+    "price": 52400,
+    "name": "iPhone 14 Pro 1TB 金色"
+  },
+  {
+    "series": "iPhone 14 Pro Max",
+    "sku": "MQAF3TA/A",
+    "price": 49400,
+    "name": "iPhone 14 Pro Max 512GB 太空黑色"
+  },
+  {
+    "series": "iPhone 14 Pro Max",
+    "sku": "MQAM3TA/A",
+    "price": 49400,
+    "name": "iPhone 14 Pro Max 512GB 深紫色"
+  },
+  {
+    "series": "iPhone 14 Pro Max",
+    "sku": "MQC33TA/A",
+    "price": 56400,
+    "name": "iPhone 14 Pro Max 1TB 銀色"
+  },
+  {
+    "series": "iPhone 14 Pro Max",
+    "sku": "MQ9V3TA/A",
+    "price": 42400,
+    "name": "iPhone 14 Pro Max 256GB 銀色"
+  },
+  {
+    "series": "iPhone 14 Pro Max",
+    "sku": "MQAH3TA/A",
+    "price": 49400,
+    "name": "iPhone 14 Pro Max 512GB 銀色"
+  },
+  {
+    "series": "iPhone 14 Pro Max",
+    "sku": "MQ9P3TA/A",
+    "price": 38900,
+    "name": "iPhone 14 Pro Max 128GB 太空黑色"
+  },
+  {
+    "series": "iPhone 14 Pro Max",
+    "sku": "MQ9T3TA/A",
+    "price": 38900,
+    "name": "iPhone 14 Pro Max 128GB 深紫色"
+  },
+  {
+    "series": "iPhone 14 Pro Max",
+    "sku": "MQC43TA/A",
+    "price": 56400,
+    "name": "iPhone 14 Pro Max 1TB 金色"
+  },
+  {
+    "series": "iPhone 14 Pro Max",
+    "sku": "MQ9W3TA/A",
+    "price": 42400,
+    "name": "iPhone 14 Pro Max 256GB 金色"
+  },
+  {
+    "series": "iPhone 14 Pro Max",
+    "sku": "MQ9Q3TA/A",
+    "price": 38900,
+    "name": "iPhone 14 Pro Max 128GB 銀色"
+  },
+  {
+    "series": "iPhone 14 Pro Max",
+    "sku": "MQC23TA/A",
+    "price": 56400,
+    "name": "iPhone 14 Pro Max 1TB 太空黑色"
+  },
+  {
+    "series": "iPhone 14 Pro Max",
+    "sku": "MQC53TA/A",
+    "price": 56400,
+    "name": "iPhone 14 Pro Max 1TB 深紫色"
+  },
+  {
+    "series": "iPhone 14 Pro Max",
+    "sku": "MQ9R3TA/A",
+    "price": 38900,
+    "name": "iPhone 14 Pro Max 128GB 金色"
+  },
+  {
+    "series": "iPhone 14 Pro Max",
+    "sku": "MQ9X3TA/A",
+    "price": 42400,
+    "name": "iPhone 14 Pro Max 256GB 深紫色"
+  },
+  {
+    "series": "iPhone 14 Pro Max",
+    "sku": "MQ9U3TA/A",
+    "price": 42400,
+    "name": "iPhone 14 Pro Max 256GB 太空黑色"
+  },
+  {
+    "series": "iPhone 14 Pro Max",
+    "sku": "MQAJ3TA/A",
+    "price": 49400,
+    "name": "iPhone 14 Pro Max 512GB 金色"
+  },
+  {
+    "series": "iPhone 14 Plus",
+    "sku": "MQ553TA/A",
+    "price": 35400,
+    "name": "iPhone 14 Plus 256GB 星光色"
+  },
+  {
+    "series": "iPhone 14 Plus",
+    "sku": "MQ5F3TA/A",
+    "price": 42400,
+    "name": "iPhone 14 Plus 512GB (PRODUCT)RED"
+  },
+  {
+    "series": "iPhone 14 Plus",
+    "sku": "MQ563TA/A",
+    "price": 35400,
+    "name": "iPhone 14 Plus 256GB 紫色"
+  },
+  {
+    "series": "iPhone 14 Plus",
+    "sku": "MQ4Y3TA/A",
+    "price": 31900,
+    "name": "iPhone 14 Plus 128GB 星光色"
+  },
+  {
+    "series": "iPhone 14 Plus",
+    "sku": "MQ4X3TA/A",
+    "price": 31900,
+    "name": "iPhone 14 Plus 128GB 午夜色"
+  },
+  {
+    "series": "iPhone 14 Plus",
+    "sku": "MQ523TA/A",
+    "price": 31900,
+    "name": "iPhone 14 Plus 128GB 藍色"
+  },
+  {
+    "series": "iPhone 14 Plus",
+    "sku": "MQ5D3TA/A",
+    "price": 42400,
+    "name": "iPhone 14 Plus 512GB 星光色"
+  },
+  {
+    "series": "iPhone 14 Plus",
+    "sku": "MQ5G3TA/A",
+    "price": 42400,
+    "name": "iPhone 14 Plus 512GB 藍色"
+  },
+  {
+    "series": "iPhone 14 Plus",
+    "sku": "MQ513TA/A",
+    "price": 31900,
+    "name": "iPhone 14 Plus 128GB (PRODUCT)RED"
+  },
+  {
+    "series": "iPhone 14 Plus",
+    "sku": "MQ5E3TA/A",
+    "price": 42400,
+    "name": "iPhone 14 Plus 512GB 紫色"
+  },
+  {
+    "series": "iPhone 14 Plus",
+    "sku": "MQ533TA/A",
+    "price": 35400,
+    "name": "iPhone 14 Plus 256GB 午夜色"
+  },
+  {
+    "series": "iPhone 14 Plus",
+    "sku": "MQ503TA/A",
+    "price": 31900,
+    "name": "iPhone 14 Plus 128GB 紫色"
+  },
+  {
+    "series": "iPhone 14 Plus",
+    "sku": "MQ593TA/A",
+    "price": 42400,
+    "name": "iPhone 14 Plus 512GB 午夜色"
+  },
+  {
+    "series": "iPhone 14 Plus",
+    "sku": "MQ583TA/A",
+    "price": 35400,
+    "name": "iPhone 14 Plus 256GB 藍色"
+  },
+  {
+    "series": "iPhone 14 Plus",
+    "sku": "MQ573TA/A",
+    "price": 35400,
+    "name": "iPhone 14 Plus 256GB (PRODUCT)RED"
+  },
+  {
+    "series": "iPhone 14",
+    "sku": "MPWP3TA/A",
+    "price": 31400,
+    "name": "iPhone 14 256GB 藍色"
+  },
+  {
+    "series": "iPhone 14",
+    "sku": "MPUF3TA/A",
+    "price": 27900,
+    "name": "iPhone 14 128GB 午夜色"
+  },
+  {
+    "series": "iPhone 14",
+    "sku": "MPVX3TA/A",
+    "price": 31400,
+    "name": "iPhone 14 256GB 午夜色"
+  },
+  {
+    "series": "iPhone 14",
+    "sku": "MPWA3TA/A",
+    "price": 31400,
+    "name": "iPhone 14 256GB 紫色"
+  },
+  {
+    "series": "iPhone 14",
+    "sku": "MPUR3TA/A",
+    "price": 27900,
+    "name": "iPhone 14 128GB 星光色"
+  },
+  {
+    "series": "iPhone 14",
+    "sku": "MPXN3TA/A",
+    "price": 38400,
+    "name": "iPhone 14 512GB 藍色"
+  },
+  {
+    "series": "iPhone 14",
+    "sku": "MPVA3TA/A",
+    "price": 27900,
+    "name": "iPhone 14 128GB (PRODUCT)RED"
+  },
+  {
+    "series": "iPhone 14",
+    "sku": "MPWW3TA/A",
+    "price": 38400,
+    "name": "iPhone 14 512GB 午夜色"
+  },
+  {
+    "series": "iPhone 14",
+    "sku": "MPXG3TA/A",
+    "price": 38400,
+    "name": "iPhone 14 512GB (PRODUCT)RED"
+  },
+  {
+    "series": "iPhone 14",
+    "sku": "MPW43TA/A",
+    "price": 31400,
+    "name": "iPhone 14 256GB 星光色"
+  },
+  {
+    "series": "iPhone 14",
+    "sku": "MPV03TA/A",
+    "price": 27900,
+    "name": "iPhone 14 128GB 紫色"
+  },
+  {
+    "series": "iPhone 14",
+    "sku": "MPWH3TA/A",
+    "price": 31400,
+    "name": "iPhone 14 256GB (PRODUCT)RED"
+  },
+  {
+    "series": "iPhone 14",
+    "sku": "MPX33TA/A",
+    "price": 38400,
+    "name": "iPhone 14 512GB 星光色"
+  },
+  {
+    "series": "iPhone 14",
+    "sku": "MPVN3TA/A",
+    "price": 27900,
+    "name": "iPhone 14 128GB 藍色"
+  },
+  {
+    "series": "iPhone 14",
+    "sku": "MPX93TA/A",
+    "price": 38400,
+    "name": "iPhone 14 512GB 紫色"
+  }
+]
