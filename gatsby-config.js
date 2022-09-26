@@ -3,7 +3,7 @@ module.exports = {
     title: `Apple Store Monitor`,
     description: `Apple Store Monitor`,
     author: `Chrono Lai`,
-    siteUrl: `https://chrono.lai.github.io/apple-store-monitor`,
+    siteUrl: `https://asm.chrono.tw`,
   },
   plugins: [
     'gatsby-plugin-postcss',
