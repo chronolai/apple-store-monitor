@@ -5,7 +5,6 @@ module.exports = {
     author: `Chrono Lai`,
     siteUrl: `https://chrono.lai.github.io/apple-store-monitor`,
   },
-  pathPrefix: "/apple-store-monitor",
   plugins: [
     'gatsby-plugin-postcss',
     `gatsby-plugin-image`,
