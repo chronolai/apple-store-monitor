@@ -18,7 +18,7 @@ const options = devices.map(device => ({ label: device.name, value: device.sku }
 
 const defaultMaxSelected = 10;
 const defaultDelay = 10000;
-const defaultWorker = 'https://apple.info-tech6931.workers.dev/corsproxy/';
+const defaultWorker = 'https://apple-store-monitor.chrono.workers.dev/corsproxy/';
 const defaultCodes = [];
 const defaultSelected = Array.from(Array(5)).map(v => options[Math.floor(Math.random() * options.length)]);
 
