@@ -16,7 +16,7 @@ import devices from '../devices.json';
 
 const isBrowser = typeof window !== "undefined";
 
-const options = devices
+const initialOptions = devices
   .map(device => ({ label: device.name, value: device.sku }))
   .sort(function (a, b) {
     if (a.value < b.value) { return -1; }
@@ -30,8 +30,8 @@ const defaultWorker = 'https://asm.chrono.tw/corsproxy/';
 const defaultCodes = [];
 
 const skus = (isBrowser && window.location.hash.length > 0) ? JSON.parse(atob(window.location.hash.slice(1))) : [];
-const defaultSelected = skus.length > 0 ? skus.map((sku) => options.find(option => option.value === sku)) : [];
-// const defaultSelected = Array.from(Array(5)).map(v => options[Math.floor(Math.random() * options.length)]);
+const defaultSelected = skus.length > 0 ? skus.map((sku) => initialOptions.find(option => option.value === sku)) : [];
+// const defaultSelected = Array.from(Array(5)).map(v => initialOptions[Math.floor(Math.random() * initialOptions.length)]);
 
 function StatusIndicator(props) {
   const color = props.status ? 'bg-green-500' : 'bg-red-500';
@@ -52,6 +52,7 @@ function Label(props) {
 const IndexPage = () => {
   const [worker] = React.useState(defaultWorker);
   const [codes, setCodes] = React.useState(defaultCodes);
+  const [options, setOptions] = React.useState(initialOptions);
   const [selected, setSelected] = React.useState(defaultSelected);
 
   const [data, setData] = React.useState([]);
@@ -123,6 +124,22 @@ const IndexPage = () => {
     if (isBrowser) {
       window.location.hash = codes.length > 0 ? btoa(JSON.stringify(codes)) : '';
     }
+
+    // if max limit is reached disable other options
+    if (selected.length === defaultMaxSelected) {
+      const selectedValues = selected.map((o) => o.value);
+      setOptions(
+        initialOptions.map((o) => ({
+          disabled: !selectedValues.includes(o.value),
+          ...o
+        }))
+      );
+    }
+
+    // we will check for defaultMaxSelected - 1 to make it more efficient
+    if (selected.length === defaultMaxSelected - 1) {
+      setOptions(initialOptions);
+    }
   }, [selected]);
 
   React.useEffect(() => {
@@ -182,7 +199,7 @@ const IndexPage = () => {
     });
     return data;
   }
-  const customValueRenderer = (selected, _options) => {
+  const customValueRenderer = (selected) => {
     return selected.length ? selected.map(({ label }, index) => (
       <Label key={index} className="text-gray-600 bg-gray-200">{label}</Label>
     )) : "No Items Selected";
