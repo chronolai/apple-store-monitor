@@ -14,6 +14,8 @@ import Table from '../components/Table';
 
 import devices from '../devices.json';
 
+const isBrowser = typeof window !== "undefined";
+
 const options = devices
   .map(device => ({ label: device.name, value: device.sku }))
   .sort(function (a, b) {
@@ -27,7 +29,7 @@ const defaultDelay = 10000;
 const defaultWorker = 'https://asm.chrono.tw/corsproxy/';
 const defaultCodes = [];
 
-const skus = window.location.hash.length === 0 ? [] : JSON.parse(atob(window.location.hash.slice(1)));
+const skus = (isBrowser && window.location.hash.length > 0) ? JSON.parse(atob(window.location.hash.slice(1))) : [];
 const defaultSelected = skus.length > 0 ? skus.map((sku) => options.find(option => option.value === sku)) : [];
 // const defaultSelected = Array.from(Array(5)).map(v => options[Math.floor(Math.random() * options.length)]);
 
@@ -118,7 +120,9 @@ const IndexPage = () => {
   React.useEffect(() => {
     const codes = selected.map(option => option.value);
     setCodes(codes);
-    window.location.hash = btoa(JSON.stringify(codes));
+    if (isBrowser) {
+      window.location.hash = btoa(JSON.stringify(codes));
+    }
   }, [selected]);
 
   React.useEffect(() => {
