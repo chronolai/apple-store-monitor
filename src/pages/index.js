@@ -26,7 +26,10 @@ const defaultMaxSelected = 10;
 const defaultDelay = 10000;
 const defaultWorker = 'https://asm.chrono.tw/corsproxy/';
 const defaultCodes = [];
-const defaultSelected = Array.from(Array(5)).map(v => options[Math.floor(Math.random() * options.length)]);
+
+const skus = window.location.hash.length === 0 ? [] : JSON.parse(atob(window.location.hash.slice(1)));
+const defaultSelected = skus.length > 0 ? skus.map((sku) => options.find(option => option.value === sku)) : [];
+// const defaultSelected = Array.from(Array(5)).map(v => options[Math.floor(Math.random() * options.length)]);
 
 function StatusIndicator(props) {
   const color = props.status ? 'bg-green-500' : 'bg-red-500';
@@ -113,7 +116,9 @@ const IndexPage = () => {
   }, []);
 
   React.useEffect(() => {
-    setCodes(selected.map(option => option.value));
+    const codes = selected.map(option => option.value);
+    setCodes(codes);
+    window.location.hash = btoa(JSON.stringify(codes));
   }, [selected]);
 
   React.useEffect(() => {
@@ -174,9 +179,9 @@ const IndexPage = () => {
     return data;
   }
   const customValueRenderer = (selected, _options) => {
-    return selected.length
-      ? selected.map(({ label }) => <Label className="text-gray-600 bg-gray-200">{label}</Label>)
-      : "No Items Selected";
+    return selected.length ? selected.map(({ label }, index) => (
+      <Label key={index} className="text-gray-600 bg-gray-200">{label}</Label>
+    )) : "No Items Selected";
   };
 
   return (
