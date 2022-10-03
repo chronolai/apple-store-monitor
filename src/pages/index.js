@@ -2,7 +2,7 @@ import React from "react"
 import axios from 'axios';
 import numeral from 'numeral';
 
-import Select from 'react-select';
+import { MultiSelect } from "react-multi-select-component";
 import LoadingBar from 'react-top-loading-bar'
 
 import useInterval from '../hooks/useInterval';
@@ -14,7 +14,13 @@ import Table from '../components/Table';
 
 import devices from '../devices.json';
 
-const options = devices.map(device => ({ label: device.name, value: device.sku }));
+const options = devices
+  .map(device => ({ label: device.name, value: device.sku }))
+  .sort(function (a, b) {
+    if (a.value < b.value) { return -1; }
+    if (a.value > b.value) { return 1; }
+    return 0;
+  });
 
 const defaultMaxSelected = 10;
 const defaultDelay = 10000;
@@ -30,8 +36,9 @@ function StatusIndicator(props) {
 }
 
 function Label(props) {
+  const { className = 'text-sky-600 bg-sky-200' } = props;
   return (
-    <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded text-sky-600 bg-sky-200 uppercase last:mr-0 mr-1">
+    <span className={`text-xs font-semibold inline-block py-1 px-2 uppercase rounded uppercase last:mr-0 mr-1 ${className}`}>
       {props.children}
     </span>
   );
@@ -61,7 +68,7 @@ const IndexPage = () => {
     header: 'Price',
     accessorKey: 'price',
     cell: props => numeral(props.row.original.price).format('$0,0'),
-  // }, {
+    // }, {
     // header: 'SKU',
     // accessorKey: 'sku',
   }, {
@@ -126,13 +133,16 @@ const IndexPage = () => {
     const params = new URLSearchParams({
       pl: true,
       location: 330,
-      ...codes.reduce((a, v, i) => ({ ...a, [`parts.${i}`]: v}), {}),
+      ...codes.reduce((a, v, i) => ({ ...a, [`parts.${i}`]: v }), {}),
     }).toString();
     const url = `https://www.apple.com/tw/shop/retail/pickup-message?${params}`;
     const proxy = `${worker}?apiurl=${encodeURIComponent(url)}`;
     axios.get(proxy).then(resp => {
       setCount(count + 1);
       setData(transData(resp.data));
+    }).catch((e) => {
+      console.error('Error:', e);
+      loadAPI();
     }).finally(() => {
       setLoading(100);
     });
@@ -147,7 +157,7 @@ const IndexPage = () => {
       ...findDevice(code),
       stores: [],
     }));
-    (resp?.body?.stores??[]).forEach((store, index) => {
+    (resp?.body?.stores ?? []).forEach((store, index) => {
       Object.keys(store.partsAvailability).forEach((code) => {
         const index = data.findIndex(item => item.sku === code);
         const device = store.partsAvailability[code];
@@ -163,19 +173,21 @@ const IndexPage = () => {
     });
     return data;
   }
+  const customValueRenderer = (selected, _options) => {
+    return selected.length
+      ? selected.map(({ label }) => <Label className="text-gray-600 bg-gray-200">{label}</Label>)
+      : "No Items Selected";
+  };
 
   return (
     <Layout>
-      <Select
+      <MultiSelect
         className="m-3"
         options={options}
         value={selected}
-        onChange={(selected) => {
-          setSelected(selected);
-        }}
-        isOptionDisabled={() => codes.length >= defaultMaxSelected}
-        closeMenuOnSelect={false}
-        isMulti
+        onChange={setSelected}
+        hasSelectAll={false}
+        valueRenderer={customValueRenderer}
       />
       <div>
         <LoadingBar
