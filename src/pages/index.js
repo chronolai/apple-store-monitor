@@ -121,7 +121,7 @@ const IndexPage = () => {
     const codes = selected.map(option => option.value);
     setCodes(codes);
     if (isBrowser) {
-      window.location.hash = btoa(JSON.stringify(codes));
+      window.location.hash = codes.length > 0 ? btoa(JSON.stringify(codes)) : '';
     }
   }, [selected]);
 
