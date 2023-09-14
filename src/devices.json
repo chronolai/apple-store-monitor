@@ -1,1340 +1,2747 @@
 [
   {
-    "series": "iPhone 14 Pro",
-    "sku": "MQ023TA/A",
-    "price": 34900,
-    "name": "iPhone 14 Pro 128GB 銀色"
+    "name": "iPhone 15 Pro Max 256GB 白色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-256gb-白色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-max-whitetitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893981684",
+    "sku": "MU783ZP/A",
+    "price": 44900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU783ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro",
-    "sku": "MQ083TA/A",
-    "price": 34900,
-    "name": "iPhone 14 Pro 128GB 金色"
+    "name": "iPhone 15 Pro Max 1TB 藍色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-1tb-藍色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-max-bluetitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893982043",
+    "sku": "MU7K3ZP/A",
+    "price": 58900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU7K3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro",
-    "sku": "MQ0T3TA/A",
-    "price": 38400,
-    "name": "iPhone 14 Pro 256GB 太空黑色"
+    "name": "iPhone 15 Pro Max 512GB 原色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-512gb-原色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-max-naturaltitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893982740",
+    "sku": "MU7E3ZP/A",
+    "price": 51900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU7E3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro",
-    "sku": "MQ1W3TA/A",
-    "price": 45400,
-    "name": "iPhone 14 Pro 512GB 銀色"
+    "name": "iPhone 15 Pro Max 1TB 黑色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-1tb-黑色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-max-blacktitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893983028",
+    "sku": "MU7G3ZP/A",
+    "price": 58900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU7G3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro",
-    "sku": "MQ1F3TA/A",
-    "price": 38400,
-    "name": "iPhone 14 Pro 256GB 深紫色"
+    "name": "iPhone 15 Pro Max 512GB 黑色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-512gb-黑色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-max-blacktitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893983028",
+    "sku": "MU7C3ZP/A",
+    "price": 51900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU7C3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro",
-    "sku": "MQ183TA/A",
-    "price": 38400,
-    "name": "iPhone 14 Pro 256GB 金色"
+    "name": "iPhone 15 Pro Max 256GB 藍色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-256gb-藍色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-max-bluetitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893982043",
+    "sku": "MU7A3ZP/A",
+    "price": 44900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU7A3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro",
-    "sku": "MPXV3TA/A",
-    "price": 34900,
-    "name": "iPhone 14 Pro 128GB 太空黑色"
+    "name": "iPhone 15 Pro Max 256GB 原色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-256gb-原色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-max-naturaltitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893982740",
+    "sku": "MU793ZP/A",
+    "price": 44900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU793ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro",
-    "sku": "MQ2V3TA/A",
-    "price": 52400,
-    "name": "iPhone 14 Pro 1TB 金色"
+    "name": "iPhone 15 Pro Max 256GB 黑色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-256gb-黑色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-max-blacktitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893983028",
+    "sku": "MU773ZP/A",
+    "price": 44900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU773ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro",
-    "sku": "MQ103TA/A",
-    "price": 38400,
-    "name": "iPhone 14 Pro 256GB 銀色"
+    "name": "iPhone 15 Pro Max 1TB 原色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-1tb-原色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-max-naturaltitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893982740",
+    "sku": "MU7J3ZP/A",
+    "price": 58900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU7J3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro",
-    "sku": "MQ323TA/A",
-    "price": 52400,
-    "name": "iPhone 14 Pro 1TB 深紫色"
+    "name": "iPhone 15 Pro Max 512GB 白色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-512gb-白色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-max-whitetitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893981684",
+    "sku": "MU7D3ZP/A",
+    "price": 51900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU7D3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro",
-    "sku": "MQ1M3TA/A",
-    "price": 45400,
-    "name": "iPhone 14 Pro 512GB 太空黑色"
+    "name": "iPhone 15 Pro Max 512GB 藍色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-512gb-藍色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-max-bluetitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893982043",
+    "sku": "MU7F3ZP/A",
+    "price": 51900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU7F3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro",
-    "sku": "MQ293TA/A",
-    "price": 45400,
-    "name": "iPhone 14 Pro 512GB 深紫色"
+    "name": "iPhone 15 Pro Max 1TB 白色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-1tb-白色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-max-whitetitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893981684",
+    "sku": "MU7H3ZP/A",
+    "price": 58900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU7H3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro",
-    "sku": "MQ0G3TA/A",
-    "price": 34900,
-    "name": "iPhone 14 Pro 128GB 深紫色"
+    "name": "iPhone 15 Pro 1TB 黑色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-1tb-黑色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-blacktitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893972913",
+    "sku": "MTVC3ZP/A",
+    "price": 54400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTVC3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro",
-    "sku": "MQ233TA/A",
-    "price": 45400,
-    "name": "iPhone 14 Pro 512GB 金色"
+    "name": "iPhone 15 Pro 1TB 藍色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-1tb-藍色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-bluetitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893981483",
+    "sku": "MTVG3ZP/A",
+    "price": 54400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTVG3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro",
-    "sku": "MQ2G3TA/A",
-    "price": 52400,
-    "name": "iPhone 14 Pro 1TB 太空黑色"
+    "name": "iPhone 15 Pro 128GB 藍色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-128gb-藍色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-bluetitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893981483",
+    "sku": "MTV03ZP/A",
+    "price": 36900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTV03ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro",
-    "sku": "MQ2N3TA/A",
-    "price": 52400,
-    "name": "iPhone 14 Pro 1TB 銀色"
+    "name": "iPhone 15 Pro 512GB 黑色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-512gb-黑色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-blacktitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893972913",
+    "sku": "MTV73ZP/A",
+    "price": 47400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTV73ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro Max",
-    "sku": "MQ9P3TA/A",
-    "price": 38900,
-    "name": "iPhone 14 Pro Max 128GB 太空黑色"
+    "name": "iPhone 15 Pro 128GB 黑色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-128gb-黑色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-blacktitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893972913",
+    "sku": "MTUV3ZP/A",
+    "price": 36900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTUV3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro Max",
-    "sku": "MQAM3TA/A",
-    "price": 49400,
-    "name": "iPhone 14 Pro Max 512GB 深紫色"
+    "name": "iPhone 15 Pro 1TB 白色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-1tb-白色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-whitetitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893991601",
+    "sku": "MTVD3ZP/A",
+    "price": 54400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTVD3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro Max",
-    "sku": "MQ9Q3TA/A",
-    "price": 38900,
-    "name": "iPhone 14 Pro Max 128GB 銀色"
+    "name": "iPhone 15 Pro 256GB 藍色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-256gb-藍色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-bluetitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893981483",
+    "sku": "MTV63ZP/A",
+    "price": 40400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTV63ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro Max",
-    "sku": "MQC23TA/A",
-    "price": 56400,
-    "name": "iPhone 14 Pro Max 1TB 太空黑色"
+    "name": "iPhone 15 Pro 512GB 藍色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-512gb-藍色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-bluetitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893981483",
+    "sku": "MTVA3ZP/A",
+    "price": 47400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTVA3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro Max",
-    "sku": "MQ9T3TA/A",
-    "price": 38900,
-    "name": "iPhone 14 Pro Max 128GB 深紫色"
+    "name": "iPhone 15 Pro 128GB 原色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-128gb-原色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-naturaltitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893982071",
+    "sku": "MTUX3ZP/A",
+    "price": 36900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTUX3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro Max",
-    "sku": "MQ9W3TA/A",
-    "price": 42400,
-    "name": "iPhone 14 Pro Max 256GB 金色"
+    "name": "iPhone 15 Pro 256GB 原色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-256gb-原色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-naturaltitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893982071",
+    "sku": "MTV53ZP/A",
+    "price": 40400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTV53ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro Max",
-    "sku": "MQAJ3TA/A",
-    "price": 49400,
-    "name": "iPhone 14 Pro Max 512GB 金色"
+    "name": "iPhone 15 Pro 512GB 原色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-512gb-原色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-naturaltitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893982071",
+    "sku": "MTV93ZP/A",
+    "price": 47400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTV93ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro Max",
-    "sku": "MQC43TA/A",
-    "price": 56400,
-    "name": "iPhone 14 Pro Max 1TB 金色"
+    "name": "iPhone 15 Pro 1TB 原色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-1tb-原色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-naturaltitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893982071",
+    "sku": "MTVF3ZP/A",
+    "price": 54400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTVF3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro Max",
-    "sku": "MQ9R3TA/A",
-    "price": 38900,
-    "name": "iPhone 14 Pro Max 128GB 金色"
+    "name": "iPhone 15 Pro 256GB 黑色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-256gb-黑色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-blacktitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893972913",
+    "sku": "MTV13ZP/A",
+    "price": 40400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTV13ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro Max",
-    "sku": "MQAH3TA/A",
-    "price": 49400,
-    "name": "iPhone 14 Pro Max 512GB 銀色"
+    "name": "iPhone 15 Pro 512GB 白色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-512gb-白色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-whitetitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893991601",
+    "sku": "MTV83ZP/A",
+    "price": 47400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTV83ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro Max",
-    "sku": "MQC33TA/A",
-    "price": 56400,
-    "name": "iPhone 14 Pro Max 1TB 銀色"
+    "name": "iPhone 15 Pro 128GB 白色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-128gb-白色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-whitetitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893991601",
+    "sku": "MTUW3ZP/A",
+    "price": 36900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTUW3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro Max",
-    "sku": "MQAF3TA/A",
-    "price": 49400,
-    "name": "iPhone 14 Pro Max 512GB 太空黑色"
+    "name": "iPhone 15 Pro 256GB 白色鈦金屬",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-256gb-白色鈦金屬",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pro-whitetitanium-select?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692893991601",
+    "sku": "MTV43ZP/A",
+    "price": 40400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTV43ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro Max",
-    "sku": "MQ9U3TA/A",
-    "price": 42400,
-    "name": "iPhone 14 Pro Max 256GB 太空黑色"
+    "name": "iPhone 15 256GB 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-256gb-粉紅色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pink-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991068310",
+    "sku": "MTP73ZP/A",
+    "price": 33400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTP73ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro Max",
-    "sku": "MQ9X3TA/A",
-    "price": 42400,
-    "name": "iPhone 14 Pro Max 256GB 深紫色"
+    "name": "iPhone 15 256GB 黃色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-256gb-黃色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-yellow-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991077278",
+    "sku": "MTP83ZP/A",
+    "price": 33400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTP83ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro Max",
-    "sku": "MQC53TA/A",
-    "price": 56400,
-    "name": "iPhone 14 Pro Max 1TB 深紫色"
+    "name": "iPhone 15 128GB 黑色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-128gb-黑色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-black-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991066320",
+    "sku": "MTP03ZP/A",
+    "price": 29900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTP03ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Pro Max",
-    "sku": "MQ9V3TA/A",
-    "price": 42400,
-    "name": "iPhone 14 Pro Max 256GB 銀色"
+    "name": "iPhone 15 256GB 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-256gb-藍色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-blue-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991067587",
+    "sku": "MTP93ZP/A",
+    "price": 33400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTP93ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Plus",
-    "sku": "MQ5D3TA/A",
-    "price": 42400,
-    "name": "iPhone 14 Plus 512GB 星光色"
+    "name": "iPhone 15 128GB 綠色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-128gb-綠色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-green-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991069198",
+    "sku": "MTP53ZP/A",
+    "price": 29900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTP53ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Plus",
-    "sku": "MQ593TA/A",
-    "price": 42400,
-    "name": "iPhone 14 Plus 512GB 午夜色"
+    "name": "iPhone 15 256GB 黑色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-256gb-黑色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-black-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991066320",
+    "sku": "MTP63ZP/A",
+    "price": 33400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTP63ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Plus",
-    "sku": "MQ553TA/A",
-    "price": 35400,
-    "name": "iPhone 14 Plus 256GB 星光色"
+    "name": "iPhone 15 512GB 綠色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-512gb-綠色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-green-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991069198",
+    "sku": "MTPH3ZP/A",
+    "price": 40400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTPH3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Plus",
+    "name": "iPhone 15 128GB 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-128gb-粉紅色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pink-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991068310",
+    "sku": "MTP13ZP/A",
+    "price": 29900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTP13ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 15 128GB 黃色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-128gb-黃色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-yellow-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991077278",
+    "sku": "MTP23ZP/A",
+    "price": 29900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTP23ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 15 128GB 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-128gb-藍色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-blue-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991067587",
+    "sku": "MTP43ZP/A",
+    "price": 29900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTP43ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 15 512GB 黑色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-512gb-黑色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-black-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991066320",
+    "sku": "MTPC3ZP/A",
+    "price": 40400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTPC3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 15 512GB 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-512gb-粉紅色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-pink-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991068310",
+    "sku": "MTPD3ZP/A",
+    "price": 40400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTPD3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 15 512GB 黃色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-512gb-黃色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-yellow-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991077278",
+    "sku": "MTPF3ZP/A",
+    "price": 40400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTPF3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 15 512GB 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-512gb-藍色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-blue-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991067587",
+    "sku": "MTPG3ZP/A",
+    "price": 40400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTPG3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 15 256GB 綠色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-256gb-綠色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-green-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991069198",
+    "sku": "MTPA3ZP/A",
+    "price": 33400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MTPA3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 15 Plus 128GB 黑色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-128gb-黑色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-plus-black-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991070955",
+    "sku": "MU0Y3ZP/A",
+    "price": 32900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU0Y3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 15 Plus 128GB 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-128gb-藍色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-plus-blue-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991073037",
+    "sku": "MU163ZP/A",
+    "price": 32900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU163ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 15 Plus 128GB 綠色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-128gb-綠色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-plus-green-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991075917",
+    "sku": "MU173ZP/A",
+    "price": 32900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU173ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 15 Plus 256GB 黑色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-256gb-黑色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-plus-black-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991070955",
+    "sku": "MU183ZP/A",
+    "price": 36400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU183ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 15 Plus 512GB 黃色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-512gb-黃色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-plus-yellow-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991076197",
+    "sku": "MU1M3ZP/A",
+    "price": 43400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU1M3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 15 Plus 128GB 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-128gb-粉紅色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-plus-pink-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991075756",
+    "sku": "MU103ZP/A",
+    "price": 32900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU103ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 15 Plus 512GB 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-512gb-藍色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-plus-blue-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991073037",
+    "sku": "MU1P3ZP/A",
+    "price": 43400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU1P3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 15 Plus 256GB 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-256gb-粉紅色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-plus-pink-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991075756",
+    "sku": "MU193ZP/A",
+    "price": 36400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU193ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 15 Plus 256GB 綠色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-256gb-綠色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-plus-green-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991075917",
+    "sku": "MU1G3ZP/A",
+    "price": 36400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU1G3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 15 Plus 512GB 黑色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-512gb-黑色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-plus-black-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991070955",
+    "sku": "MU1H3ZP/A",
+    "price": 43400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU1H3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 15 Plus 512GB 綠色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-512gb-綠色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-plus-green-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991075917",
+    "sku": "MU1Q3ZP/A",
+    "price": 43400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU1Q3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 15 Plus 128GB 黃色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-128gb-黃色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-plus-yellow-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991076197",
+    "sku": "MU123ZP/A",
+    "price": 32900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU123ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 15 Plus 256GB 黃色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-256gb-黃色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-plus-yellow-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991076197",
+    "sku": "MU1D3ZP/A",
+    "price": 36400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU1D3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 15 Plus 512GB 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-512gb-粉紅色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-plus-pink-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991075756",
+    "sku": "MU1J3ZP/A",
+    "price": 43400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU1J3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 15 Plus 256GB 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-256gb-藍色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-15-plus-blue-select-202309?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1692991073037",
+    "sku": "MU1F3ZP/A",
+    "price": 36400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MU1F3ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 14 Plus 256GB 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-256gb-藍色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-plus-blue-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660749882264",
     "sku": "MQ583TA/A",
-    "price": 35400,
-    "name": "iPhone 14 Plus 256GB 藍色"
+    "price": 33400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MQ583TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Plus",
-    "sku": "MQ5E3TA/A",
-    "price": 42400,
-    "name": "iPhone 14 Plus 512GB 紫色"
-  },
-  {
-    "series": "iPhone 14 Plus",
-    "sku": "MQ523TA/A",
-    "price": 31900,
-    "name": "iPhone 14 Plus 128GB 藍色"
-  },
-  {
-    "series": "iPhone 14 Plus",
+    "name": "iPhone 14 Plus 256GB (PRODUCT)RED",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-256gb-紅色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-plus-red-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660750133448",
     "sku": "MQ573TA/A",
-    "price": 35400,
-    "name": "iPhone 14 Plus 256GB (PRODUCT)RED"
+    "price": 33400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MQ573TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Plus",
-    "sku": "MQ4Y3TA/A",
-    "price": 31900,
-    "name": "iPhone 14 Plus 128GB 星光色"
+    "name": "iPhone 14 Plus 512GB 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-512gb-紫色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-plus-purple-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660749981650",
+    "sku": "MQ5E3TA/A",
+    "price": 40400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MQ5E3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Plus",
-    "sku": "MQ5G3TA/A",
-    "price": 42400,
-    "name": "iPhone 14 Plus 512GB 藍色"
-  },
-  {
-    "series": "iPhone 14 Plus",
+    "name": "iPhone 14 Plus 128GB (PRODUCT)RED",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-128gb-紅色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-plus-red-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660750133448",
     "sku": "MQ513TA/A",
-    "price": 31900,
-    "name": "iPhone 14 Plus 128GB (PRODUCT)RED"
+    "price": 29900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MQ513TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Plus",
-    "sku": "MQ503TA/A",
-    "price": 31900,
-    "name": "iPhone 14 Plus 128GB 紫色"
+    "name": "iPhone 14 Plus 128GB 黃色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-128gb-黃色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-plus-yellow-select-202303?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1676425236846",
+    "sku": "MR693TA/A",
+    "price": 29900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MR693TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Plus",
-    "sku": "MQ4X3TA/A",
-    "price": 31900,
-    "name": "iPhone 14 Plus 128GB 午夜色"
+    "name": "iPhone 14 Plus 256GB 黃色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-256gb-黃色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-plus-yellow-select-202303?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1676425236846",
+    "sku": "MR6D3TA/A",
+    "price": 33400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MR6D3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Plus",
+    "name": "iPhone 14 Plus 256GB 午夜色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-256gb-午夜色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-plus-midnight-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660749916714",
     "sku": "MQ533TA/A",
-    "price": 35400,
-    "name": "iPhone 14 Plus 256GB 午夜色"
+    "price": 33400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MQ533TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Plus",
+    "name": "iPhone 14 Plus 512GB (PRODUCT)RED",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-512gb-紅色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-plus-red-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660750133448",
     "sku": "MQ5F3TA/A",
-    "price": 42400,
-    "name": "iPhone 14 Plus 512GB (PRODUCT)RED"
+    "price": 40400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MQ5F3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14 Plus",
+    "name": "iPhone 14 Plus 512GB 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-512gb-藍色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-plus-blue-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660749882264",
+    "sku": "MQ5G3TA/A",
+    "price": 40400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MQ5G3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 14 Plus 128GB 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-128gb-星光色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-plus-starlight-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660750194234",
+    "sku": "MQ4Y3TA/A",
+    "price": 29900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MQ4Y3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 14 Plus 128GB 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-128gb-紫色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-plus-purple-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660749981650",
+    "sku": "MQ503TA/A",
+    "price": 29900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MQ503TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 14 Plus 128GB 午夜色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-128gb-午夜色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-plus-midnight-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660749916714",
+    "sku": "MQ4X3TA/A",
+    "price": 29900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MQ4X3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 14 Plus 512GB 黃色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-512gb-黃色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-plus-yellow-select-202303?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1676425236846",
+    "sku": "MR6G3TA/A",
+    "price": 40400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MR6G3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 14 Plus 256GB 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-256gb-紫色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-plus-purple-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660749981650",
     "sku": "MQ563TA/A",
-    "price": 35400,
-    "name": "iPhone 14 Plus 256GB 紫色"
+    "price": 33400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MQ563TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14",
+    "name": "iPhone 14 Plus 256GB 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-256gb-星光色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-plus-starlight-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660750194234",
+    "sku": "MQ553TA/A",
+    "price": 33400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MQ553TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 14 Plus 512GB 午夜色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-512gb-午夜色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-plus-midnight-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660749916714",
+    "sku": "MQ593TA/A",
+    "price": 40400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MQ593TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 14 Plus 128GB 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-128gb-藍色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-plus-blue-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660749882264",
+    "sku": "MQ523TA/A",
+    "price": 29900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MQ523TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 14 Plus 512GB 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.7-吋顯示器-512gb-星光色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-plus-starlight-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660750194234",
+    "sku": "MQ5D3TA/A",
+    "price": 40400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MQ5D3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 14 128GB 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-128gb-紫色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-purple-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660750255640",
     "sku": "MPV03TA/A",
-    "price": 27900,
-    "name": "iPhone 14 128GB 紫色"
+    "price": 25900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MPV03TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14",
-    "sku": "MPVA3TA/A",
-    "price": 27900,
-    "name": "iPhone 14 128GB (PRODUCT)RED"
-  },
-  {
-    "series": "iPhone 14",
-    "sku": "MPX93TA/A",
-    "price": 38400,
-    "name": "iPhone 14 512GB 紫色"
-  },
-  {
-    "series": "iPhone 14",
-    "sku": "MPXG3TA/A",
-    "price": 38400,
-    "name": "iPhone 14 512GB (PRODUCT)RED"
-  },
-  {
-    "series": "iPhone 14",
-    "sku": "MPUR3TA/A",
-    "price": 27900,
-    "name": "iPhone 14 128GB 星光色"
-  },
-  {
-    "series": "iPhone 14",
-    "sku": "MPVN3TA/A",
-    "price": 27900,
-    "name": "iPhone 14 128GB 藍色"
-  },
-  {
-    "series": "iPhone 14",
-    "sku": "MPWA3TA/A",
-    "price": 31400,
-    "name": "iPhone 14 256GB 紫色"
-  },
-  {
-    "series": "iPhone 14",
+    "name": "iPhone 14 512GB 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-512gb-星光色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-starlight-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660750314422",
     "sku": "MPX33TA/A",
-    "price": 38400,
-    "name": "iPhone 14 512GB 星光色"
+    "price": 36400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MPX33TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14",
-    "sku": "MPWW3TA/A",
-    "price": 38400,
-    "name": "iPhone 14 512GB 午夜色"
+    "name": "iPhone 14 256GB 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-256gb-紫色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-purple-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660750255640",
+    "sku": "MPWA3TA/A",
+    "price": 29400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MPWA3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14",
-    "sku": "MPWH3TA/A",
-    "price": 31400,
-    "name": "iPhone 14 256GB (PRODUCT)RED"
+    "name": "iPhone 14 512GB (PRODUCT)RED",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-512gb-紅色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-red-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660750512178",
+    "sku": "MPXG3TA/A",
+    "price": 36400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MPXG3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14",
-    "sku": "MPUF3TA/A",
-    "price": 27900,
-    "name": "iPhone 14 128GB 午夜色"
+    "name": "iPhone 14 128GB 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-128gb-星光色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-starlight-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660750314422",
+    "sku": "MPUR3TA/A",
+    "price": 25900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MPUR3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14",
-    "sku": "MPXN3TA/A",
-    "price": 38400,
-    "name": "iPhone 14 512GB 藍色"
-  },
-  {
-    "series": "iPhone 14",
-    "sku": "MPW43TA/A",
-    "price": 31400,
-    "name": "iPhone 14 256GB 星光色"
-  },
-  {
-    "series": "iPhone 14",
+    "name": "iPhone 14 256GB 午夜色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-256gb-午夜色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-midnight-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660749829553",
     "sku": "MPVX3TA/A",
-    "price": 31400,
-    "name": "iPhone 14 256GB 午夜色"
+    "price": 29400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MPVX3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 14",
+    "name": "iPhone 14 256GB 黃色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-256gb-黃色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-yellow-select-202303?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1676425236569",
+    "sku": "MR3Y3TA/A",
+    "price": 29400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MR3Y3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 14 512GB 黃色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-512gb-黃色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-yellow-select-202303?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1676425236569",
+    "sku": "MR513TA/A",
+    "price": 36400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MR513TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 14 128GB 黃色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-128gb-黃色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-yellow-select-202303?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1676425236569",
+    "sku": "MR3X3TA/A",
+    "price": 25900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MR3X3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 14 128GB (PRODUCT)RED",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-128gb-紅色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-red-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660750512178",
+    "sku": "MPVA3TA/A",
+    "price": 25900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MPVA3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 14 256GB (PRODUCT)RED",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-256gb-紅色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-red-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660750512178",
+    "sku": "MPWH3TA/A",
+    "price": 29400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MPWH3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 14 256GB 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-256gb-藍色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-blue-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660749794361",
     "sku": "MPWP3TA/A",
-    "price": 31400,
-    "name": "iPhone 14 256GB 藍色"
+    "price": 29400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MPWP3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 13",
-    "sku": "MLQG3TA/A",
-    "price": 35400,
-    "name": "iPhone 13 512GB 藍色"
+    "name": "iPhone 14 256GB 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-256gb-星光色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-starlight-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660750314422",
+    "sku": "MPW43TA/A",
+    "price": 29400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MPW43TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 13",
-    "sku": "MLQD3TA/A",
-    "price": 35400,
-    "name": "iPhone 13 512GB 星光色"
+    "name": "iPhone 14 128GB 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-128gb-藍色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-blue-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660749794361",
+    "sku": "MPVN3TA/A",
+    "price": 25900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MPVN3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 13",
-    "sku": "MLPG3TA/A",
-    "price": 24900,
-    "name": "iPhone 13 128GB 星光色"
+    "name": "iPhone 14 512GB 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-512gb-紫色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-purple-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660750255640",
+    "sku": "MPX93TA/A",
+    "price": 36400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MPX93TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 13",
-    "sku": "MLQE3TA/A",
-    "price": 35400,
-    "name": "iPhone 13 512GB 粉紅色"
+    "name": "iPhone 14 128GB 午夜色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-128gb-午夜色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-midnight-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660749829553",
+    "sku": "MPUF3TA/A",
+    "price": 25900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MPUF3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 13",
-    "sku": "MLQ93TA/A",
-    "price": 28400,
-    "name": "iPhone 13 256GB (PRODUCT)RED"
+    "name": "iPhone 14 512GB 午夜色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-512gb-午夜色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-midnight-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660749829553",
+    "sku": "MPWW3TA/A",
+    "price": 36400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MPWW3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 13",
-    "sku": "MLPK3TA/A",
-    "price": 24900,
-    "name": "iPhone 13 128GB 藍色"
+    "name": "iPhone 14 512GB 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-512gb-藍色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-blue-select-202209?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1660749794361",
+    "sku": "MPXN3TA/A",
+    "price": 36400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MPXN3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 13",
-    "sku": "MLQF3TA/A",
-    "price": 35400,
-    "name": "iPhone 13 512GB (PRODUCT)RED"
-  },
-  {
-    "series": "iPhone 13",
-    "sku": "MLPJ3TA/A",
-    "price": 24900,
-    "name": "iPhone 13 128GB (PRODUCT)RED"
-  },
-  {
-    "series": "iPhone 13",
-    "sku": "MNGK3TA/A",
-    "price": 24900,
-    "name": "iPhone 13 128GB 綠色"
-  },
-  {
-    "series": "iPhone 13",
-    "sku": "MLPH3TA/A",
-    "price": 24900,
-    "name": "iPhone 13 128GB 粉紅色"
-  },
-  {
-    "series": "iPhone 13",
-    "sku": "MLQ63TA/A",
-    "price": 28400,
-    "name": "iPhone 13 256GB 午夜色"
-  },
-  {
-    "series": "iPhone 13",
-    "sku": "MLQA3TA/A",
-    "price": 28400,
-    "name": "iPhone 13 256GB 藍色"
-  },
-  {
-    "series": "iPhone 13",
-    "sku": "MLQ83TA/A",
-    "price": 28400,
-    "name": "iPhone 13 256GB 粉紅色"
-  },
-  {
-    "series": "iPhone 13",
+    "name": "iPhone 13 256GB 綠色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-256gb-綠色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-green-select?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1645036275538",
     "sku": "MNGL3TA/A",
-    "price": 28400,
-    "name": "iPhone 13 256GB 綠色"
+    "price": 25400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNGL3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 13",
-    "sku": "MLQ73TA/A",
-    "price": 28400,
-    "name": "iPhone 13 256GB 星光色"
+    "name": "iPhone 13 256GB 午夜色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-256gb-午夜色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-midnight-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1645572315913",
+    "sku": "MLQ63TA/A",
+    "price": 25400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MLQ63TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 13",
-    "sku": "MNGM3TA/A",
-    "price": 35400,
-    "name": "iPhone 13 512GB 綠色"
+    "name": "iPhone 13 512GB 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-512gb-粉紅色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-pink-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1645572315935",
+    "sku": "MLQE3TA/A",
+    "price": 32400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MLQE3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 13",
-    "sku": "MLQC3TA/A",
-    "price": 35400,
-    "name": "iPhone 13 512GB 午夜色"
+    "name": "iPhone 13 128GB 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-128gb-粉紅色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-pink-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1645572315935",
+    "sku": "MLPH3TA/A",
+    "price": 21900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MLPH3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 13",
+    "name": "iPhone 13 128GB 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-128gb-藍色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-blue-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1645572386470",
+    "sku": "MLPK3TA/A",
+    "price": 21900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MLPK3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 13 128GB (PRODUCT)RED",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-128gb-紅色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-product-red-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1645572315758",
+    "sku": "MLPJ3TA/A",
+    "price": 21900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MLPJ3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 13 256GB 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-256gb-粉紅色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-pink-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1645572315935",
+    "sku": "MLQ83TA/A",
+    "price": 25400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MLQ83TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 13 512GB (PRODUCT)RED",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-512gb-紅色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-product-red-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1645572315758",
+    "sku": "MLQF3TA/A",
+    "price": 32400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MLQF3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 13 512GB 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-512gb-藍色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-blue-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1645572386470",
+    "sku": "MLQG3TA/A",
+    "price": 32400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MLQG3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 13 256GB 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-256gb-藍色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-blue-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1645572386470",
+    "sku": "MLQA3TA/A",
+    "price": 25400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MLQA3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPhone 13 128GB 午夜色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-128gb-午夜色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-midnight-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1645572315913",
     "sku": "MLPF3TA/A",
-    "price": 24900,
-    "name": "iPhone 13 128GB 午夜色"
+    "price": 21900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MLPF3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 13 mini",
-    "sku": "MNFF3TA/A",
-    "price": 20900,
-    "name": "iPhone 13 mini 128GB 綠色"
+    "name": "iPhone 13 256GB (PRODUCT)RED",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-256gb-紅色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-product-red-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1645572315758",
+    "sku": "MLQ93TA/A",
+    "price": 25400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MLQ93TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 13 mini",
-    "sku": "MLK53TA/A",
-    "price": 24400,
-    "name": "iPhone 13 mini 256GB 午夜色"
+    "name": "iPhone 13 128GB 綠色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-128gb-綠色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-green-select?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1645036275538",
+    "sku": "MNGK3TA/A",
+    "price": 21900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNGK3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 13 mini",
-    "sku": "MLK73TA/A",
-    "price": 24400,
-    "name": "iPhone 13 mini 256GB 粉紅色"
+    "name": "iPhone 13 128GB 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-128gb-星光色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-starlight-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1645572315205",
+    "sku": "MLPG3TA/A",
+    "price": 21900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MLPG3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 13 mini",
-    "sku": "MLK93TA/A",
-    "price": 24400,
-    "name": "iPhone 13 mini 256GB 藍色"
+    "name": "iPhone 13 512GB 午夜色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-512gb-午夜色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-midnight-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1645572315913",
+    "sku": "MLQC3TA/A",
+    "price": 32400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MLQC3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 13 mini",
-    "sku": "MLK33TA/A",
-    "price": 20900,
-    "name": "iPhone 13 mini 128GB (PRODUCT)RED"
+    "name": "iPhone 13 256GB 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-256gb-星光色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-starlight-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1645572315205",
+    "sku": "MLQ73TA/A",
+    "price": 25400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MLQ73TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 13 mini",
-    "sku": "MNFH3TA/A",
-    "price": 31400,
-    "name": "iPhone 13 mini 512GB 綠色"
+    "name": "iPhone 13 512GB 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-512gb-星光色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-starlight-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1645572315205",
+    "sku": "MLQD3TA/A",
+    "price": 32400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MLQD3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 13 mini",
-    "sku": "MLK13TA/A",
-    "price": 20900,
-    "name": "iPhone 13 mini 128GB 星光色"
+    "name": "iPhone 13 512GB 綠色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.1-吋顯示器-512gb-綠色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-green-select?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1645036275538",
+    "sku": "MNGM3TA/A",
+    "price": 32400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNGM3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 13 mini",
-    "sku": "MLKC3TA/A",
-    "price": 31400,
-    "name": "iPhone 13 mini 512GB 星光色"
-  },
-  {
-    "series": "iPhone 13 mini",
-    "sku": "MLK43TA/A",
-    "price": 20900,
-    "name": "iPhone 13 mini 128GB 藍色"
-  },
-  {
-    "series": "iPhone 13 mini",
-    "sku": "MLKD3TA/A",
-    "price": 31400,
-    "name": "iPhone 13 mini 512GB 粉紅色"
-  },
-  {
-    "series": "iPhone 13 mini",
-    "sku": "MLKA3TA/A",
-    "price": 31400,
-    "name": "iPhone 13 mini 512GB 午夜色"
-  },
-  {
-    "series": "iPhone 13 mini",
-    "sku": "MLK23TA/A",
-    "price": 20900,
-    "name": "iPhone 13 mini 128GB 粉紅色"
-  },
-  {
-    "series": "iPhone 13 mini",
-    "sku": "MLK63TA/A",
-    "price": 24400,
-    "name": "iPhone 13 mini 256GB 星光色"
-  },
-  {
-    "series": "iPhone 13 mini",
-    "sku": "MLKE3TA/A",
-    "price": 31400,
-    "name": "iPhone 13 mini 512GB (PRODUCT)RED"
-  },
-  {
-    "series": "iPhone 13 mini",
-    "sku": "MNFG3TA/A",
-    "price": 24400,
-    "name": "iPhone 13 mini 256GB 綠色"
-  },
-  {
-    "series": "iPhone 13 mini",
-    "sku": "MLKF3TA/A",
-    "price": 31400,
-    "name": "iPhone 13 mini 512GB 藍色"
-  },
-  {
-    "series": "iPhone 13 mini",
-    "sku": "MLK83TA/A",
-    "price": 24400,
-    "name": "iPhone 13 mini 256GB (PRODUCT)RED"
-  },
-  {
-    "series": "iPhone 13 mini",
-    "sku": "MLK03TA/A",
-    "price": 20900,
-    "name": "iPhone 13 mini 128GB 午夜色"
-  },
-  {
-    "series": "iPhone SE (第 3 代)",
-    "sku": "MMXM3TA/A",
-    "price": 20000,
-    "name": "iPhone SE 256GB 午夜色"
-  },
-  {
-    "series": "iPhone SE (第 3 代)",
-    "sku": "MMXH3TA/A",
-    "price": 14900,
-    "name": "iPhone SE 64GB (PRODUCT)RED"
-  },
-  {
-    "series": "iPhone SE (第 3 代)",
-    "sku": "MMXJ3TA/A",
-    "price": 16500,
-    "name": "iPhone SE 128GB 午夜色"
-  },
-  {
-    "series": "iPhone SE (第 3 代)",
-    "sku": "MMXG3TA/A",
-    "price": 14900,
-    "name": "iPhone SE 64GB 星光色"
-  },
-  {
-    "series": "iPhone SE (第 3 代)",
-    "sku": "MMXP3TA/A",
-    "price": 20000,
-    "name": "iPhone SE 256GB (PRODUCT)RED"
-  },
-  {
-    "series": "iPhone SE (第 3 代)",
-    "sku": "MMXK3TA/A",
-    "price": 16500,
-    "name": "iPhone SE 128GB 星光色"
-  },
-  {
-    "series": "iPhone SE (第 3 代)",
-    "sku": "MMXN3TA/A",
-    "price": 20000,
-    "name": "iPhone SE 256GB 星光色"
-  },
-  {
-    "series": "iPhone SE (第 3 代)",
-    "sku": "MMXF3TA/A",
-    "price": 14900,
-    "name": "iPhone SE 64GB 午夜色"
-  },
-  {
-    "series": "iPhone SE (第 3 代)",
+    "name": "iPhone SE 128GB (PRODUCT)RED",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/4.7-吋顯示器-128gb-紅色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-se-red-select-202203?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1646070494834",
     "sku": "MMXL3TA/A",
     "price": 16500,
-    "name": "iPhone SE 128GB (PRODUCT)RED"
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MMXL3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 12",
-    "sku": "MGJH3TA/A",
-    "price": 26000,
-    "name": "iPhone 12 256GB 白色"
+    "name": "iPhone SE 64GB 午夜色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/4.7-吋顯示器-64gb-午夜色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-se-midnight-select-202203?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1646070494831",
+    "sku": "MMXF3TA/A",
+    "price": 14900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MMXF3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 12",
-    "sku": "MGJK3TA/A",
-    "price": 26000,
-    "name": "iPhone 12 256GB 藍色"
+    "name": "iPhone SE 256GB 午夜色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/4.7-吋顯示器-256gb-午夜色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-se-midnight-select-202203?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1646070494831",
+    "sku": "MMXM3TA/A",
+    "price": 20000,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MMXM3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 12",
-    "sku": "MGJF3TA/A",
-    "price": 22500,
-    "name": "iPhone 12 128GB 綠色"
+    "name": "iPhone SE 64GB (PRODUCT)RED",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/4.7-吋顯示器-64gb-紅色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-se-red-select-202203?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1646070494834",
+    "sku": "MMXH3TA/A",
+    "price": 14900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MMXH3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 12",
-    "sku": "MGJC3TA/A",
-    "price": 22500,
-    "name": "iPhone 12 128GB 白色"
+    "name": "iPhone SE 128GB 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/4.7-吋顯示器-128gb-星光色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-se-starlight-select-202203?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1646070494844",
+    "sku": "MMXK3TA/A",
+    "price": 16500,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MMXK3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 12",
-    "sku": "MGJE3TA/A",
-    "price": 22500,
-    "name": "iPhone 12 128GB 藍色"
+    "name": "iPhone SE 256GB 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/4.7-吋顯示器-256gb-星光色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-se-starlight-select-202203?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1646070494844",
+    "sku": "MMXN3TA/A",
+    "price": 20000,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MMXN3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 12",
-    "sku": "MGJ93TA/A",
-    "price": 20900,
-    "name": "iPhone 12 64GB 綠色"
+    "name": "iPhone SE 128GB 午夜色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/4.7-吋顯示器-128gb-午夜色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-se-midnight-select-202203?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1646070494831",
+    "sku": "MMXJ3TA/A",
+    "price": 16500,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MMXJ3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 12",
-    "sku": "MGJ63TA/A",
-    "price": 20900,
-    "name": "iPhone 12 64GB 白色"
+    "name": "iPhone SE 64GB 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/4.7-吋顯示器-64gb-星光色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-se-starlight-select-202203?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1646070494844",
+    "sku": "MMXG3TA/A",
+    "price": 14900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MMXG3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 12",
-    "sku": "MGJ83TA/A",
-    "price": 20900,
-    "name": "iPhone 12 64GB 藍色"
+    "name": "iPhone SE 256GB (PRODUCT)RED",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/4.7-吋顯示器-256gb-紅色",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-se-red-select-202203?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1646070494834",
+    "sku": "MMXP3TA/A",
+    "price": 20000,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MMXP3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 12",
-    "sku": "MJNM3TA/A",
-    "price": 20900,
-    "name": "iPhone 12 64GB 紫色"
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 512GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-512gb-銀色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-silver-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207137",
+    "sku": "MNYH3TA/A",
+    "price": 43400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNYH3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 12",
-    "sku": "MGJ53TA/A",
-    "price": 20900,
-    "name": "iPhone 12 64GB 黑色"
+    "name": "11 吋 iPad Pro Wi-Fi 機型 1TB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-1tb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-wifi-silver-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207141",
+    "sku": "MNXL3TA/A",
+    "price": 52400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXL3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 12",
-    "sku": "MGJ73TA/A",
-    "price": 20900,
-    "name": "iPhone 12 64GB (PRODUCT)RED"
+    "name": "11 吋 iPad Pro Wi-Fi 機型 512GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-512gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-wifi-spacegray-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207157",
+    "sku": "MNXH3TA/A",
+    "price": 38400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXH3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 12",
-    "sku": "MGJA3TA/A",
-    "price": 22500,
-    "name": "iPhone 12 128GB 黑色"
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 128GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-128gb-銀色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-silver-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207137",
+    "sku": "MNYD3TA/A",
+    "price": 32900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNYD3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 12",
-    "sku": "MJNQ3TA/A",
-    "price": 26000,
-    "name": "iPhone 12 256GB 紫色"
+    "name": "11 吋 iPad Pro Wi-Fi 機型 256GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-256gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-wifi-spacegray-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207157",
+    "sku": "MNXF3TA/A",
+    "price": 31400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXF3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 12",
-    "sku": "MGJL3TA/A",
-    "price": 26000,
-    "name": "iPhone 12 256GB 綠色"
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 2TB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-2tb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-spacegray-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207185",
+    "sku": "MNYL3TA/A",
+    "price": 71400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNYL3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 12",
-    "sku": "MGJJ3TA/A",
-    "price": 26000,
-    "name": "iPhone 12 256GB (PRODUCT)RED"
+    "name": "11 吋 iPad Pro Wi-Fi 機型 512GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-512gb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-wifi-silver-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207141",
+    "sku": "MNXJ3TA/A",
+    "price": 38400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXJ3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 12",
-    "sku": "MGJG3TA/A",
-    "price": 26000,
-    "name": "iPhone 12 256GB 黑色"
+    "name": "11 吋 iPad Pro Wi-Fi 256GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-256gb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-wifi-silver-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207141",
+    "sku": "MNXG3TA/A",
+    "price": 31400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXG3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 12",
-    "sku": "MJNP3TA/A",
-    "price": 22500,
-    "name": "iPhone 12 128GB 紫色"
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 256GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-256gb-銀色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-silver-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207137",
+    "sku": "MNYF3TA/A",
+    "price": 36400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNYF3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPhone 12",
-    "sku": "MGJD3TA/A",
-    "price": 22500,
-    "name": "iPhone 12 128GB (PRODUCT)RED"
-  },
-  {
-    "series": "iPad Pro 11 吋 (第 3 代)",
-    "sku": "MHWE3TA/A",
-    "price": 64000,
-    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 2TB - 太空灰色"
-  },
-  {
-    "series": "iPad Pro 11 吋 (第 3 代)",
-    "sku": "MHW93TA/A",
-    "price": 39200,
-    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 512GB - 太空灰色"
-  },
-  {
-    "series": "iPad Pro 11 吋 (第 3 代)",
-    "sku": "MHQW3TA/A",
-    "price": 34200,
-    "name": "11 吋 iPad Pro Wi-Fi 機型 512GB - 太空灰色"
-  },
-  {
-    "series": "iPad Pro 11 吋 (第 3 代)",
-    "sku": "MHQU3TA/A",
-    "price": 28000,
-    "name": "11 吋 iPad Pro Wi-Fi 機型 256GB - 太空灰色"
-  },
-  {
-    "series": "iPad Pro 11 吋 (第 3 代)",
-    "sku": "MHWD3TA/A",
-    "price": 51600,
-    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 1TB - 銀色"
-  },
-  {
-    "series": "iPad Pro 11 吋 (第 3 代)",
-    "sku": "MHQT3TA/A",
-    "price": 24900,
-    "name": "11 吋 iPad Pro Wi-Fi 機型 128GB - 銀色"
-  },
-  {
-    "series": "iPad Pro 11 吋 (第 3 代)",
-    "sku": "MHWF3TA/A",
-    "price": 64000,
-    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 2TB - 銀色"
-  },
-  {
-    "series": "iPad Pro 11 吋 (第 3 代)",
-    "sku": "MHW63TA/A",
-    "price": 29900,
-    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 128GB - 銀色"
-  },
-  {
-    "series": "iPad Pro 11 吋 (第 3 代)",
-    "sku": "MHWC3TA/A",
-    "price": 51600,
-    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 1TB - 太空灰色"
-  },
-  {
-    "series": "iPad Pro 11 吋 (第 3 代)",
-    "sku": "MHWA3TA/A",
-    "price": 39200,
-    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 512GB - 銀色"
-  },
-  {
-    "series": "iPad Pro 11 吋 (第 3 代)",
-    "sku": "MHQY3TA/A",
-    "price": 46600,
-    "name": "11 吋 iPad Pro Wi-Fi 機型 1TB - 太空灰色"
-  },
-  {
-    "series": "iPad Pro 11 吋 (第 3 代)",
-    "sku": "MHW73TA/A",
-    "price": 33000,
-    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 256GB - 太空灰色"
-  },
-  {
-    "series": "iPad Pro 11 吋 (第 3 代)",
-    "sku": "MHQV3TA/A",
-    "price": 28000,
-    "name": "11 吋 iPad Pro Wi-Fi 256GB - 銀色"
-  },
-  {
-    "series": "iPad Pro 11 吋 (第 3 代)",
-    "sku": "MHR33TA/A",
-    "price": 59000,
-    "name": "11 吋 iPad Pro Wi-Fi 機型 2TB - 銀色"
-  },
-  {
-    "series": "iPad Pro 11 吋 (第 3 代)",
-    "sku": "MHR03TA/A",
-    "price": 46600,
-    "name": "11 吋 iPad Pro Wi-Fi 機型 1TB - 銀色"
-  },
-  {
-    "series": "iPad Pro 11 吋 (第 3 代)",
-    "sku": "MHW83TA/A",
-    "price": 33000,
-    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 256GB - 銀色"
-  },
-  {
-    "series": "iPad Pro 11 吋 (第 3 代)",
-    "sku": "MHR23TA/A",
-    "price": 59000,
-    "name": "11 吋 iPad Pro Wi-Fi 機型 2TB - 太空灰色"
-  },
-  {
-    "series": "iPad Pro 11 吋 (第 3 代)",
-    "sku": "MHQX3TA/A",
-    "price": 34200,
-    "name": "11 吋 iPad Pro Wi-Fi 機型 512GB - 銀色"
-  },
-  {
-    "series": "iPad Pro 11 吋 (第 3 代)",
-    "sku": "MHQR3TA/A",
-    "price": 24900,
-    "name": "11 吋 iPad Pro Wi-Fi 機型 128GB - 太空灰色"
-  },
-  {
-    "series": "iPad Pro 11 吋 (第 3 代)",
-    "sku": "MHW53TA/A",
-    "price": 29900,
-    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 128GB - 太空灰色"
-  },
-  {
-    "series": "iPad Pro 12.9 吋 (第 5 代)",
-    "sku": "MHNH3TA/A",
-    "price": 38000,
-    "name": "12.9 吋 iPad Pro Wi-Fi 機型 256GB - 太空灰色"
-  },
-  {
-    "series": "iPad Pro 12.9 吋 (第 5 代)",
-    "sku": "MHNP3TA/A",
-    "price": 69000,
-    "name": "12.9 吋 iPad Pro Wi-Fi 機型 2TB - 太空灰色"
-  },
-  {
-    "series": "iPad Pro 12.9 吋 (第 5 代)",
-    "sku": "MHRC3TA/A",
-    "price": 61600,
-    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 1TB - 銀色"
-  },
-  {
-    "series": "iPad Pro 12.9 吋 (第 5 代)",
-    "sku": "MHR63TA/A",
-    "price": 43000,
-    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 256GB - 太空灰色"
-  },
-  {
-    "series": "iPad Pro 12.9 吋 (第 5 代)",
-    "sku": "MHR53TA/A",
-    "price": 39900,
-    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 128GB - 銀色"
-  },
-  {
-    "series": "iPad Pro 12.9 吋 (第 5 代)",
-    "sku": "MHR93TA/A",
-    "price": 49200,
-    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 512GB - 銀色"
-  },
-  {
-    "series": "iPad Pro 12.9 吋 (第 5 代)",
-    "sku": "MHRE3TA/A",
-    "price": 74000,
-    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 2TB - 銀色"
-  },
-  {
-    "series": "iPad Pro 12.9 吋 (第 5 代)",
-    "sku": "MHNJ3TA/A",
-    "price": 38000,
-    "name": "12.9 吋 iPad Pro Wi-Fi 機型 256GB - 銀色"
-  },
-  {
-    "series": "iPad Pro 12.9 吋 (第 5 代)",
-    "sku": "MHNG3TA/A",
-    "price": 34900,
-    "name": "12.9 吋 iPad Pro Wi-Fi 機型 128GB - 銀色"
-  },
-  {
-    "series": "iPad Pro 12.9 吋 (第 5 代)",
-    "sku": "MHNQ3TA/A",
-    "price": 69000,
-    "name": "12.9 吋 iPad Pro Wi-Fi 機型 2TB - 銀色"
-  },
-  {
-    "series": "iPad Pro 12.9 吋 (第 5 代)",
-    "sku": "MHNN3TA/A",
-    "price": 56600,
-    "name": "12.9 吋 iPad Pro Wi-Fi 機型 1TB - 銀色"
-  },
-  {
-    "series": "iPad Pro 12.9 吋 (第 5 代)",
-    "sku": "MHRA3TA/A",
-    "price": 61600,
-    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 1TB - 太空灰色"
-  },
-  {
-    "series": "iPad Pro 12.9 吋 (第 5 代)",
-    "sku": "MHNF3TA/A",
-    "price": 34900,
-    "name": "12.9 吋 iPad Pro Wi-Fi 機型 128GB - 太空灰色"
-  },
-  {
-    "series": "iPad Pro 12.9 吋 (第 5 代)",
-    "sku": "MHR43TA/A",
-    "price": 39900,
-    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 128GB - 太空灰色"
-  },
-  {
-    "series": "iPad Pro 12.9 吋 (第 5 代)",
-    "sku": "MHR83TA/A",
-    "price": 49200,
-    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 512GB - 太空灰色"
-  },
-  {
-    "series": "iPad Pro 12.9 吋 (第 5 代)",
-    "sku": "MHNL3TA/A",
-    "price": 44200,
-    "name": "12.9 吋 iPad Pro Wi-Fi 機型 512GB - 銀色"
-  },
-  {
-    "series": "iPad Pro 12.9 吋 (第 5 代)",
-    "sku": "MHNM3TA/A",
-    "price": 56600,
-    "name": "12.9 吋 iPad Pro Wi-Fi 機型 1TB - 太空灰色"
-  },
-  {
-    "series": "iPad Pro 12.9 吋 (第 5 代)",
-    "sku": "MHR73TA/A",
-    "price": 43000,
-    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 256GB - 銀色"
-  },
-  {
-    "series": "iPad Pro 12.9 吋 (第 5 代)",
-    "sku": "MHNK3TA/A",
-    "price": 44200,
-    "name": "12.9 吋 iPad Pro Wi-Fi 機型 512GB - 太空灰色"
-  },
-  {
-    "series": "iPad Pro 12.9 吋 (第 5 代)",
-    "sku": "MHRD3TA/A",
-    "price": 74000,
-    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 2TB - 太空灰色"
-  },
-  {
-    "series": "iPad Air (第 5 代)",
-    "sku": "MM6R3TA/A",
-    "price": 22900,
-    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 64GB - 太空灰色"
-  },
-  {
-    "series": "iPad Air (第 5 代)",
-    "sku": "MM9C3TA/A",
-    "price": 17900,
-    "name": "10.9 吋 iPad Air Wi-Fi 機型 64GB - 太空灰色"
-  },
-  {
-    "series": "iPad Air (第 5 代)",
-    "sku": "MM723TA/A",
+    "name": "11 吋 iPad Pro Wi-Fi 機型 128GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-128gb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-wifi-silver-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207141",
+    "sku": "MNXE3TA/A",
     "price": 27900,
-    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 256GB - 粉紅色"
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXE3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad Air (第 5 代)",
-    "sku": "MM733TA/A",
+    "name": "11 吋 iPad Pro Wi-Fi 機型 128GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-128gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-wifi-spacegray-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207157",
+    "sku": "MNXD3TA/A",
     "price": 27900,
-    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 256GB - 藍色"
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXD3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad Air (第 5 代)",
-    "sku": "MME23TA/A",
-    "price": 17900,
-    "name": "10.9 吋 iPad Air Wi-Fi 機型 64GB - 紫色"
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 1TB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-1tb-銀色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-silver-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207137",
+    "sku": "MNYK3TA/A",
+    "price": 57400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNYK3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad Air (第 5 代)",
-    "sku": "MM9D3TA/A",
-    "price": 17900,
-    "name": "10.9 吋 iPad Air Wi-Fi 機型 64GB - 粉紅色"
+    "name": "11 吋 iPad Pro Wi-Fi 機型 2TB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-2tb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-wifi-silver-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207141",
+    "sku": "MNXN3TA/A",
+    "price": 66400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXN3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad Air (第 5 代)",
-    "sku": "MM9F3TA/A",
-    "price": 17900,
-    "name": "10.9 吋 iPad Air Wi-Fi 機型 64GB - 星光色"
+    "name": "11 吋 iPad Pro Wi-Fi 機型 1TB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-1tb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-wifi-spacegray-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207157",
+    "sku": "MNXK3TA/A",
+    "price": 52400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXK3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad Air (第 5 代)",
-    "sku": "MM9P3TA/A",
-    "price": 22900,
-    "name": "10.9 吋 iPad Air Wi-Fi 機型 256GB - 星光色"
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 512GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-512gb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-spacegray-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207185",
+    "sku": "MNYG3TA/A",
+    "price": 43400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNYG3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad Air (第 5 代)",
-    "sku": "MM6V3TA/A",
-    "price": 22900,
-    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 64GB - 星光色"
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 128GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-128gb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-spacegray-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207185",
+    "sku": "MNYC3TA/A",
+    "price": 32900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNYC3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad Air (第 5 代)",
-    "sku": "MMED3TA/A",
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 256GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-256gb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-spacegray-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207185",
+    "sku": "MNYE3TA/A",
+    "price": 36400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNYE3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi-Fi 機型 2TB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-2tb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-wifi-spacegray-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207157",
+    "sku": "MNXM3TA/A",
+    "price": 66400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXM3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 1TB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-1tb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-spacegray-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207185",
+    "sku": "MNYJ3TA/A",
+    "price": 57400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNYJ3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 2TB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-2tb-銀色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-silver-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207137",
+    "sku": "MNYM3TA/A",
+    "price": 71400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNYM3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 512GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-512gb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-cell-spacegray-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207213",
+    "sku": "MP223TA/A",
+    "price": 53400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MP223TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 256GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-256gb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-wifi-silver-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207174",
+    "sku": "MNXT3TA/A",
+    "price": 41400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXT3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 1TB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-1tb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-cell-spacegray-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207213",
+    "sku": "MP243TA/A",
+    "price": 67650,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MP243TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 1TB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-1tb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-wifi-spacegray-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207212",
+    "sku": "MNXW3TA/A",
+    "price": 62400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXW3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 1TB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-1tb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-wifi-silver-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207174",
+    "sku": "MNXX3TA/A",
+    "price": 62400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXX3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 128GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-128gb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-wifi-silver-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207174",
+    "sku": "MNXQ3TA/A",
+    "price": 37900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXQ3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 2TB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-2tb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-cell-spacegray-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207213",
+    "sku": "MP263TA/A",
+    "price": 81650,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MP263TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 128GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-128gb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-cell-spacegray-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207213",
+    "sku": "MP1X3TA/A",
+    "price": 42900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MP1X3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 128GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-128gb-銀色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-cell-silver-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207204",
+    "sku": "MP1Y3TA/A",
+    "price": 42900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MP1Y3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 1TB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-1tb-銀色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-cell-silver-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207204",
+    "sku": "MP253TA/A",
+    "price": 67650,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MP253TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 512GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-512gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-wifi-spacegray-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207212",
+    "sku": "MNXU3TA/A",
+    "price": 48400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXU3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 256GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-256gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-wifi-spacegray-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207212",
+    "sku": "MNXR3TA/A",
+    "price": 41400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXR3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 2TB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-2tb-銀色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-cell-silver-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207204",
+    "sku": "MP273TA/A",
+    "price": 81650,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MP273TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 512GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-512gb-銀色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-cell-silver-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207204",
+    "sku": "MP233TA/A",
+    "price": 53400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MP233TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 256GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-256gb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-cell-spacegray-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207213",
+    "sku": "MP203TA/A",
+    "price": 46400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MP203TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 512GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-512gb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-wifi-silver-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207174",
+    "sku": "MNXV3TA/A",
+    "price": 48400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXV3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 2TB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-2tb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-wifi-silver-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207174",
+    "sku": "MNY03TA/A",
+    "price": 76400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNY03TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 2TB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-2tb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-wifi-spacegray-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207212",
+    "sku": "MNXY3TA/A",
+    "price": 76400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXY3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 128GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-128gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-wifi-spacegray-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207212",
+    "sku": "MNXP3TA/A",
+    "price": 37900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXP3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 256GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-256gb-銀色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-cell-silver-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207204",
+    "sku": "MP213TA/A",
+    "price": 46400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MP213TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 512GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-512gb-銀色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-silver-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207137",
+    "sku": "MNYH3TA/A",
+    "price": 43400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNYH3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 2TB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-2tb-銀色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-silver-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207137",
+    "sku": "MNYM3TA/A",
+    "price": 71400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNYM3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 1TB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-1tb-銀色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-silver-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207137",
+    "sku": "MNYK3TA/A",
+    "price": 57400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNYK3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 128GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-128gb-銀色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-silver-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207137",
+    "sku": "MNYD3TA/A",
+    "price": 32900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNYD3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 256GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-256gb-銀色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-silver-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207137",
+    "sku": "MNYF3TA/A",
+    "price": 36400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNYF3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 128GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-128gb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-spacegray-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207185",
+    "sku": "MNYC3TA/A",
+    "price": 32900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNYC3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 256GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-256gb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-spacegray-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207185",
+    "sku": "MNYE3TA/A",
+    "price": 36400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNYE3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 2TB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-2tb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-spacegray-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207185",
+    "sku": "MNYL3TA/A",
+    "price": 71400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNYL3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 1TB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-1tb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-spacegray-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207185",
+    "sku": "MNYJ3TA/A",
+    "price": 57400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNYJ3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi-Fi + 行動網路機型 512GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-512gb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-spacegray-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207185",
+    "sku": "MNYG3TA/A",
+    "price": 43400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNYG3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi-Fi 機型 2TB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-2tb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-wifi-silver-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207141",
+    "sku": "MNXN3TA/A",
+    "price": 66400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXN3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi-Fi 機型 512GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-512gb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-wifi-silver-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207141",
+    "sku": "MNXJ3TA/A",
+    "price": 38400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXJ3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi-Fi 256GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-256gb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-wifi-silver-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207141",
+    "sku": "MNXG3TA/A",
+    "price": 31400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXG3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi-Fi 機型 1TB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-1tb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-wifi-silver-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207141",
+    "sku": "MNXL3TA/A",
+    "price": 52400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXL3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi-Fi 機型 128GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-128gb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-wifi-silver-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207141",
+    "sku": "MNXE3TA/A",
     "price": 27900,
-    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 256GB - 紫色"
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXE3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad Air (第 5 代)",
+    "name": "11 吋 iPad Pro Wi-Fi 機型 1TB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-1tb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-wifi-spacegray-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207157",
+    "sku": "MNXK3TA/A",
+    "price": 52400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXK3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi-Fi 機型 256GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-256gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-wifi-spacegray-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207157",
+    "sku": "MNXF3TA/A",
+    "price": 31400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXF3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi-Fi 機型 128GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-128gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-wifi-spacegray-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207157",
+    "sku": "MNXD3TA/A",
+    "price": 27900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXD3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi-Fi 機型 2TB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-2tb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-wifi-spacegray-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207157",
+    "sku": "MNXM3TA/A",
+    "price": 66400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXM3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi-Fi 機型 512GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋顯示器-512gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-wifi-spacegray-202210?wid=487&hei=551&fmt=jpeg&qlt=95&.v=1664411207157",
+    "sku": "MNXH3TA/A",
+    "price": 38400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXH3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 256GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-256gb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-wifi-silver-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207174",
+    "sku": "MNXT3TA/A",
+    "price": 41400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXT3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 128GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-128gb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-wifi-silver-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207174",
+    "sku": "MNXQ3TA/A",
+    "price": 37900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXQ3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 512GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-512gb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-wifi-silver-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207174",
+    "sku": "MNXV3TA/A",
+    "price": 48400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXV3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 2TB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-2tb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-wifi-silver-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207174",
+    "sku": "MNY03TA/A",
+    "price": 76400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNY03TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 1TB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-1tb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-wifi-silver-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207174",
+    "sku": "MNXX3TA/A",
+    "price": 62400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXX3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 512GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-512gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-wifi-spacegray-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207212",
+    "sku": "MNXU3TA/A",
+    "price": 48400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXU3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 128GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-128gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-wifi-spacegray-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207212",
+    "sku": "MNXP3TA/A",
+    "price": 37900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXP3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 2TB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-2tb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-wifi-spacegray-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207212",
+    "sku": "MNXY3TA/A",
+    "price": 76400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXY3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 1TB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-1tb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-wifi-spacegray-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207212",
+    "sku": "MNXW3TA/A",
+    "price": 62400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXW3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi 機型 256GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-256gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-wifi-spacegray-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207212",
+    "sku": "MNXR3TA/A",
+    "price": 41400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNXR3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 256GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-256gb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-cell-spacegray-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207213",
+    "sku": "MP203TA/A",
+    "price": 46400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MP203TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 128GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-128gb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-cell-spacegray-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207213",
+    "sku": "MP1X3TA/A",
+    "price": 42900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MP1X3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 2TB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-2tb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-cell-spacegray-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207213",
+    "sku": "MP263TA/A",
+    "price": 81650,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MP263TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 1TB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-1tb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-cell-spacegray-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207213",
+    "sku": "MP243TA/A",
+    "price": 67650,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MP243TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 512GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-512gb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-cell-spacegray-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207213",
+    "sku": "MP223TA/A",
+    "price": 53400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MP223TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 256GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-256gb-銀色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-cell-silver-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207204",
+    "sku": "MP213TA/A",
+    "price": 46400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MP213TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 128GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-128gb-銀色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-cell-silver-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207204",
+    "sku": "MP1Y3TA/A",
+    "price": 42900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MP1Y3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 2TB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-2tb-銀色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-cell-silver-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207204",
+    "sku": "MP273TA/A",
+    "price": 81650,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MP273TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 1TB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-1tb-銀色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-cell-silver-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207204",
+    "sku": "MP253TA/A",
+    "price": 67650,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MP253TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "12.9 吋 iPad Pro Wi-Fi + 行動網路機型 512GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/12.9-吋顯示器-512gb-銀色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-13-select-cell-silver-202210?wid=503&hei=551&fmt=jpeg&qlt=95&.v=1664411207204",
+    "sku": "MP233TA/A",
+    "price": 53400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MP233TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 256GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-紫色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-purple-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645066730601",
     "sku": "MME63TA/A",
-    "price": 22900,
-    "name": "10.9 吋 iPad Air Wi-Fi 機型 256GB - 紫色"
+    "price": 24900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MME63TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad Air (第 5 代)",
-    "sku": "MM9M3TA/A",
-    "price": 22900,
-    "name": "10.9 吋 iPad Air Wi-Fi 機型 256GB - 粉紅色"
-  },
-  {
-    "series": "iPad Air (第 5 代)",
-    "sku": "MME93TA/A",
-    "price": 22900,
-    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 64GB - 紫色"
-  },
-  {
-    "series": "iPad Air (第 5 代)",
-    "sku": "MM6T3TA/A",
-    "price": 22900,
-    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 64GB - 粉紅色"
-  },
-  {
-    "series": "iPad Air (第 5 代)",
-    "sku": "MM713TA/A",
-    "price": 27900,
-    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 256GB - 太空灰色"
-  },
-  {
-    "series": "iPad Air (第 5 代)",
-    "sku": "MM9N3TA/A",
-    "price": 22900,
-    "name": "10.9 吋 iPad Air Wi-Fi 機型 256GB - 藍色"
-  },
-  {
-    "series": "iPad Air (第 5 代)",
-    "sku": "MM9L3TA/A",
-    "price": 22900,
-    "name": "10.9 吋 iPad Air Wi-Fi 機型 256GB - 太空灰色"
-  },
-  {
-    "series": "iPad Air (第 5 代)",
-    "sku": "MM6U3TA/A",
-    "price": 22900,
-    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 64GB - 藍色"
-  },
-  {
-    "series": "iPad Air (第 5 代)",
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 64GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-藍色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-blue-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645065732688",
     "sku": "MM9E3TA/A",
-    "price": 17900,
-    "name": "10.9 吋 iPad Air Wi-Fi 機型 64GB - 藍色"
+    "price": 19900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM9E3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad Air (第 5 代)",
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 256GB - 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-粉紅色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-pink-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645066399526",
+    "sku": "MM9M3TA/A",
+    "price": 24900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM9M3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 256GB - 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-粉紅色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-pink-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645050580705",
+    "sku": "MM723TA/A",
+    "price": 29900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM723TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 64GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-紫色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-purple-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645066504390",
+    "sku": "MME93TA/A",
+    "price": 24900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MME93TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 256GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-紫色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-purple-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645066504390",
+    "sku": "MMED3TA/A",
+    "price": 29900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MMED3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 64GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-藍色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-blue-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645050189205",
+    "sku": "MM6U3TA/A",
+    "price": 24900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM6U3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 256GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-藍色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-blue-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645050189205",
+    "sku": "MM733TA/A",
+    "price": 29900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM733TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 256GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-太空灰色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-spacegray-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645055392934",
+    "sku": "MM713TA/A",
+    "price": 29900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM713TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 64GB - 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-粉紅色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-pink-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645050580705",
+    "sku": "MM6T3TA/A",
+    "price": 24900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM6T3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 256GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-星光色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-starlight-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645895139236",
+    "sku": "MM9P3TA/A",
+    "price": 24900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM9P3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 64GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-太空灰色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-spacegray-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645055392934",
+    "sku": "MM6R3TA/A",
+    "price": 24900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM6R3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 64GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-spacegray-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645066742664",
+    "sku": "MM9C3TA/A",
+    "price": 19900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM9C3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 64GB - 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-粉紅色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-pink-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645066399526",
+    "sku": "MM9D3TA/A",
+    "price": 19900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM9D3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 64GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-星光色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-starlight-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645895139238",
+    "sku": "MM6V3TA/A",
+    "price": 24900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM6V3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 256GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-藍色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-blue-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645065732688",
+    "sku": "MM9N3TA/A",
+    "price": 24900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM9N3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 64GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-紫色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-purple-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645066730601",
+    "sku": "MME23TA/A",
+    "price": 19900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MME23TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 256GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-spacegray-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645066742664",
+    "sku": "MM9L3TA/A",
+    "price": 24900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM9L3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 256GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-星光色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-starlight-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645895139238",
     "sku": "MM743TA/A",
-    "price": 27900,
-    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 256GB - 星光色"
+    "price": 29900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM743TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad (第 9 代)",
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 64GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-星光色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-starlight-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645895139236",
+    "sku": "MM9F3TA/A",
+    "price": 19900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM9F3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 256GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-藍色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-blue-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645065732688",
+    "sku": "MM9N3TA/A",
+    "price": 24900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM9N3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 64GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-藍色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-blue-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645065732688",
+    "sku": "MM9E3TA/A",
+    "price": 19900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM9E3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 256GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-星光色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-starlight-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645895139236",
+    "sku": "MM9P3TA/A",
+    "price": 24900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM9P3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 64GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-星光色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-starlight-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645895139236",
+    "sku": "MM9F3TA/A",
+    "price": 19900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM9F3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 64GB - 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-粉紅色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-pink-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645066399526",
+    "sku": "MM9D3TA/A",
+    "price": 19900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM9D3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 256GB - 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-粉紅色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-pink-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645066399526",
+    "sku": "MM9M3TA/A",
+    "price": 24900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM9M3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 64GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-spacegray-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645066742664",
+    "sku": "MM9C3TA/A",
+    "price": 19900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM9C3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 256GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-spacegray-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645066742664",
+    "sku": "MM9L3TA/A",
+    "price": 24900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM9L3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 256GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-紫色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-purple-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645066730601",
+    "sku": "MME63TA/A",
+    "price": 24900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MME63TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi 機型 64GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-紫色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-wifi-purple-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645066730601",
+    "sku": "MME23TA/A",
+    "price": 19900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MME23TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 256GB - 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-粉紅色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-pink-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645050580705",
+    "sku": "MM723TA/A",
+    "price": 29900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM723TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 64GB - 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-粉紅色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-pink-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645050580705",
+    "sku": "MM6T3TA/A",
+    "price": 24900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM6T3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 256GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-太空灰色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-spacegray-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645055392934",
+    "sku": "MM713TA/A",
+    "price": 29900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM713TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 64GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-太空灰色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-spacegray-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645055392934",
+    "sku": "MM6R3TA/A",
+    "price": 24900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM6R3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 64GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-紫色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-purple-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645066504390",
+    "sku": "MME93TA/A",
+    "price": 24900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MME93TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 256GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-紫色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-purple-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645066504390",
+    "sku": "MMED3TA/A",
+    "price": 29900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MMED3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 64GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-藍色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-blue-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645050189205",
+    "sku": "MM6U3TA/A",
+    "price": 24900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM6U3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 256GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-藍色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-blue-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645050189205",
+    "sku": "MM733TA/A",
+    "price": 29900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM733TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 256GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-星光色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-starlight-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645895139238",
+    "sku": "MM743TA/A",
+    "price": 29900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM743TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.9 吋 iPad Air Wi-Fi + 行動網路機型 64GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-星光色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-starlight-202203?wid=1765&hei=2000&fmt=jpeg&qlt=95&.v=1645895139238",
+    "sku": "MM6V3TA/A",
+    "price": 24900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MM6V3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "10.2 吋 iPad Wi‑Fi + 行動網路機型 64GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-銀色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-2021-hero-silver-cell-select?wid=450&hei=450&fmt=jpeg&qlt=95&.v=1669669350516",
     "sku": "MK493TA/A",
-    "price": 14500,
-    "name": "10.2 吋 iPad Wi‑Fi + 行動網路機型 64GB - 銀色"
+    "price": 15400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK493TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad (第 9 代)",
-    "sku": "MK473TA/A",
-    "price": 14500,
-    "name": "10.2 吋 iPad Wi‑Fi + 行動網路機型 64GB - 太空灰色"
-  },
-  {
-    "series": "iPad (第 9 代)",
+    "name": "10.2 吋 iPad Wi‑Fi + 行動網路機型 256GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-太空灰色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-2021-hero-space-cell-select?wid=450&hei=450&fmt=jpeg&qlt=95&.v=1669669350665",
     "sku": "MK4E3TA/A",
-    "price": 19000,
-    "name": "10.2 吋 iPad Wi‑Fi + 行動網路機型 256GB - 太空灰色"
+    "price": 20400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK4E3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad (第 9 代)",
-    "sku": "MK2K3TA/A",
-    "price": 10500,
-    "name": "10.2 吋 iPad Wi‑Fi 機型 64GB - 太空灰色"
-  },
-  {
-    "series": "iPad (第 9 代)",
-    "sku": "MK2N3TA/A",
-    "price": 15000,
-    "name": "10.2 吋 iPad Wi‑Fi 機型 256GB - 太空灰色"
-  },
-  {
-    "series": "iPad (第 9 代)",
-    "sku": "MK4H3TA/A",
-    "price": 19000,
-    "name": "10.2 吋 iPad Wi‑Fi + 行動網路機型 256GB - 銀色"
-  },
-  {
-    "series": "iPad (第 9 代)",
-    "sku": "MK2L3TA/A",
-    "price": 10500,
-    "name": "10.2 吋 iPad Wi‑Fi 機型 64GB - 銀色"
-  },
-  {
-    "series": "iPad (第 9 代)",
+    "name": "10.2 吋 iPad Wi‑Fi 機型 256GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-2021-hero-silver-wifi-select?wid=450&hei=450&fmt=jpeg&qlt=95&.v=1669669350657",
     "sku": "MK2P3TA/A",
-    "price": 15000,
-    "name": "10.2 吋 iPad Wi‑Fi 機型 256GB - 銀色"
+    "price": 15900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK2P3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad mini (第 6 代)",
-    "sku": "MK893TA/A",
-    "price": 19400,
-    "name": "iPad mini Wi‑Fi + 行動網路機型 64GB - 太空灰色"
+    "name": "10.2 吋 iPad Wi‑Fi + 行動網路機型 256GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-銀色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-2021-hero-silver-cell-select?wid=450&hei=450&fmt=jpeg&qlt=95&.v=1669669350516",
+    "sku": "MK4H3TA/A",
+    "price": 20400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK4H3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad mini (第 6 代)",
-    "sku": "MLX43TA/A",
-    "price": 19400,
-    "name": "iPad mini Wi‑Fi + 行動網路機型 64GB - 粉紅色"
+    "name": "10.2 吋 iPad Wi‑Fi 機型 256GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-2021-hero-space-wifi-select?wid=450&hei=450&fmt=jpeg&qlt=95&.v=1669669350665",
+    "sku": "MK2N3TA/A",
+    "price": 15900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK2N3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad mini (第 6 代)",
-    "sku": "MLWR3TA/A",
-    "price": 19400,
-    "name": "iPad mini Wi‑Fi 機型 256GB - 粉紅色"
+    "name": "10.2 吋 iPad Wi‑Fi + 行動網路機型 64GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-太空灰色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-2021-hero-space-cell-select?wid=450&hei=450&fmt=jpeg&qlt=95&.v=1669669350665",
+    "sku": "MK473TA/A",
+    "price": 15400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK473TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad mini (第 6 代)",
-    "sku": "MK7V3TA/A",
-    "price": 19400,
-    "name": "iPad mini Wi‑Fi + 行動網路機型 64GB - 太空灰色"
+    "name": "10.2 吋 iPad Wi‑Fi 機型 64GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-2021-hero-space-wifi-select?wid=450&hei=450&fmt=jpeg&qlt=95&.v=1669669350665",
+    "sku": "MK2K3TA/A",
+    "price": 10900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK2K3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad mini (第 6 代)",
-    "sku": "MK7R3TA/A",
-    "price": 14900,
-    "name": "iPad mini Wi‑Fi 機型 64GB - 紫色"
+    "name": "10.2 吋 iPad Wi‑Fi 機型 64GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-2021-hero-silver-wifi-select?wid=450&hei=450&fmt=jpeg&qlt=95&.v=1669669350657",
+    "sku": "MK2L3TA/A",
+    "price": 10900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK2L3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad mini (第 6 代)",
-    "sku": "MK8E3TA/A",
-    "price": 19400,
-    "name": "iPad mini Wi‑Fi + 行動網路機型  64GB - 紫色"
+    "name": "10.2 吋 iPad Wi‑Fi + 行動網路機型 256GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-太空灰色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-2021-hero-space-cell-select?wid=450&hei=450&fmt=jpeg&qlt=95&.v=1669669350665",
+    "sku": "MK4E3TA/A",
+    "price": 20400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK4E3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad mini (第 6 代)",
-    "sku": "MK8F3TA/A",
-    "price": 23900,
-    "name": "iPad mini Wi‑Fi + 行動網路機型  256GB - 太空灰色"
+    "name": "10.2 吋 iPad Wi‑Fi + 行動網路機型 64GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-太空灰色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-2021-hero-space-cell-select?wid=450&hei=450&fmt=jpeg&qlt=95&.v=1669669350665",
+    "sku": "MK473TA/A",
+    "price": 15400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK473TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad mini (第 6 代)",
-    "sku": "MK7X3TA/A",
-    "price": 19400,
-    "name": "iPad mini Wi‑Fi 機型 256GB - 紫色"
+    "name": "10.2 吋 iPad Wi‑Fi + 行動網路機型 256GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-銀色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-2021-hero-silver-cell-select?wid=450&hei=450&fmt=jpeg&qlt=95&.v=1669669350516",
+    "sku": "MK4H3TA/A",
+    "price": 20400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK4H3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad mini (第 6 代)",
-    "sku": "MK8H3TA/A",
-    "price": 23900,
-    "name": "iPad mini Wi‑Fi + 行動網路機型 256GB - 星光色"
+    "name": "10.2 吋 iPad Wi‑Fi + 行動網路機型 64GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-銀色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-2021-hero-silver-cell-select?wid=450&hei=450&fmt=jpeg&qlt=95&.v=1669669350516",
+    "sku": "MK493TA/A",
+    "price": 15400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK493TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad mini (第 6 代)",
-    "sku": "MLWL3TA/A",
-    "price": 14900,
-    "name": "iPad mini Wi‑Fi 機型 64GB - 粉紅色"
+    "name": "10.2 吋 iPad Wi‑Fi 機型 64GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-2021-hero-silver-wifi-select?wid=450&hei=450&fmt=jpeg&qlt=95&.v=1669669350657",
+    "sku": "MK2L3TA/A",
+    "price": 10900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK2L3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad mini (第 6 代)",
-    "sku": "MK7P3TA/A",
-    "price": 14900,
-    "name": "iPad mini Wi‑Fi 機型 64GB - 星光色"
+    "name": "10.2 吋 iPad Wi‑Fi 機型 256GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-2021-hero-silver-wifi-select?wid=450&hei=450&fmt=jpeg&qlt=95&.v=1669669350657",
+    "sku": "MK2P3TA/A",
+    "price": 15900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK2P3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad mini (第 6 代)",
-    "sku": "MK7T3TA/A",
-    "price": 19400,
-    "name": "iPad mini Wi‑Fi 機型 256GB - 太空灰色"
+    "name": "10.2 吋 iPad Wi‑Fi 機型 64GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-2021-hero-space-wifi-select?wid=450&hei=450&fmt=jpeg&qlt=95&.v=1669669350665",
+    "sku": "MK2K3TA/A",
+    "price": 10900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK2K3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad mini (第 6 代)",
-    "sku": "MK8K3TA/A",
-    "price": 23900,
-    "name": "iPad mini Wi‑Fi + 行動網路機型  256GB - 紫色"
+    "name": "10.2 吋 iPad Wi‑Fi 機型 256GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-2021-hero-space-wifi-select?wid=450&hei=450&fmt=jpeg&qlt=95&.v=1669669350665",
+    "sku": "MK2N3TA/A",
+    "price": 15900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK2N3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad mini (第 6 代)",
-    "sku": "MK7M3TA/A",
-    "price": 14900,
-    "name": "iPad mini Wi‑Fi 機型 64GB - 太空灰色"
-  },
-  {
-    "series": "iPad mini (第 6 代)",
+    "name": "iPad mini Wi‑Fi + 行動網路機型  64GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-星光色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-cell-starlight-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1629840738000",
     "sku": "MK8C3TA/A",
-    "price": 19400,
-    "name": "iPad mini Wi‑Fi + 行動網路機型  64GB - 星光色"
+    "price": 21900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK8C3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "iPad mini (第 6 代)",
+    "name": "iPad mini Wi‑Fi 機型 256GB - 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-粉紅色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-wifi-pink-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1629840714000",
+    "sku": "MLWR3TA/A",
+    "price": 21900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MLWR3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi + 行動網路機型 64GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-cell-space-gray-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1669669436143",
+    "sku": "MK893TA/A",
+    "price": 21900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK893TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi + 行動網路機型 64GB - 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-粉紅色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-cell-pink-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1629840744000",
+    "sku": "MLX43TA/A",
+    "price": 21900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MLX43TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi 機型 64GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-紫色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-wifi-purple-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1629840735000",
+    "sku": "MK7R3TA/A",
+    "price": 16900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK7R3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi 機型 256GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-紫色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-wifi-purple-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1629840735000",
+    "sku": "MK7X3TA/A",
+    "price": 21900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK7X3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi + 行動網路機型  64GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-紫色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-cell-purple-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1629840724000",
+    "sku": "MK8E3TA/A",
+    "price": 21900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK8E3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi + 行動網路機型  256GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-cell-space-gray-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1669669436143",
+    "sku": "MK8F3TA/A",
+    "price": 26900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK8F3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi 機型 256GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-星光色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-wifi-starlight-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1629840745000",
+    "sku": "MK7V3TA/A",
+    "price": 21900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK7V3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi 機型 256GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-wifi-space-gray-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1669669436139",
+    "sku": "MK7T3TA/A",
+    "price": 21900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK7T3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi 機型 64GB - 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-粉紅色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-wifi-pink-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1629840714000",
+    "sku": "MLWL3TA/A",
+    "price": 16900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MLWL3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi 機型 64GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-星光色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-wifi-starlight-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1629840745000",
+    "sku": "MK7P3TA/A",
+    "price": 16900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK7P3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi + 行動網路機型 256GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-星光色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-cell-starlight-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1629840738000",
+    "sku": "MK8H3TA/A",
+    "price": 26900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK8H3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi + 行動網路機型 256GB - 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-粉紅色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-cell-pink-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1629840744000",
     "sku": "MLX93TA/A",
-    "price": 23900,
-    "name": "iPad mini Wi‑Fi + 行動網路機型 256GB - 粉紅色"
+    "price": 26900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MLX93TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "MacBook Pro (16 吋，2021 年)",
-    "sku": "MK1E3TA/A",
-    "price": 74900,
-    "name": "16 吋 MacBook Pro - 銀色"
+    "name": "iPad mini Wi‑Fi + 行動網路機型  256GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-紫色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-cell-purple-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1629840724000",
+    "sku": "MK8K3TA/A",
+    "price": 26900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK8K3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "MacBook Pro (16 吋，2021 年)",
-    "sku": "MK193TA/A",
-    "price": 80900,
-    "name": "16 吋 MacBook Pro - 太空灰色"
+    "name": "iPad mini Wi‑Fi 機型 64GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-wifi-space-gray-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1669669436139",
+    "sku": "MK7M3TA/A",
+    "price": 16900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK7M3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "MacBook Pro (16 吋，2021 年)",
-    "sku": "MK1A3TA/A",
-    "price": 104900,
-    "name": "16 吋 MacBook Pro - 太空灰色"
+    "name": "iPad mini Wi‑Fi 機型 256GB - 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-粉紅色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-wifi-pink-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1629840714000",
+    "sku": "MLWR3TA/A",
+    "price": 21900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MLWR3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "MacBook Pro (16 吋，2021 年)",
-    "sku": "MK1H3TA/A",
-    "price": 104900,
-    "name": "16 吋 MacBook Pro - 銀色"
+    "name": "iPad mini Wi‑Fi 機型 64GB - 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-粉紅色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-wifi-pink-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1629840714000",
+    "sku": "MLWL3TA/A",
+    "price": 16900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MLWL3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "MacBook Pro (16 吋，2021 年)",
-    "sku": "MK1F3TA/A",
-    "price": 80900,
-    "name": "16 吋 MacBook Pro - 銀色"
+    "name": "iPad mini Wi‑Fi 機型 64GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-紫色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-wifi-purple-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1629840735000",
+    "sku": "MK7R3TA/A",
+    "price": 16900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK7R3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "MacBook Pro (16 吋，2021 年)",
-    "sku": "MK183TA/A",
-    "price": 74900,
-    "name": "16 吋 MacBook Pro - 太空灰色"
+    "name": "iPad mini Wi‑Fi 機型 256GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-紫色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-wifi-purple-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1629840735000",
+    "sku": "MK7X3TA/A",
+    "price": 21900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK7X3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "MacBook Pro (14 吋，2021 年)",
-    "sku": "MKGQ3TA/A",
-    "price": 74900,
-    "name": "14 吋 MacBook Pro - 太空灰色"
+    "name": "iPad mini Wi‑Fi 機型 256GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-wifi-space-gray-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1669669436139",
+    "sku": "MK7T3TA/A",
+    "price": 21900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK7T3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "MacBook Pro (14 吋，2021 年)",
-    "sku": "MKGT3TA/A",
-    "price": 74900,
-    "name": "14 吋 MacBook Pro - 銀色"
+    "name": "iPad mini Wi‑Fi 機型 64GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-wifi-space-gray-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1669669436139",
+    "sku": "MK7M3TA/A",
+    "price": 16900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK7M3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "MacBook Pro (14 吋，2021 年)",
-    "sku": "MKGR3TA/A",
-    "price": 59900,
-    "name": "14 吋 MacBook Pro - 銀色"
+    "name": "iPad mini Wi‑Fi 機型 64GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-星光色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-wifi-starlight-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1629840745000",
+    "sku": "MK7P3TA/A",
+    "price": 16900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK7P3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "MacBook Pro (14 吋，2021 年)",
-    "sku": "MKGP3TA/A",
-    "price": 59900,
-    "name": "14 吋 MacBook Pro - 太空灰色"
+    "name": "iPad mini Wi‑Fi 機型 256GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-星光色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-wifi-starlight-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1629840745000",
+    "sku": "MK7V3TA/A",
+    "price": 21900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK7V3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "MacBook Pro (13 吋，M2，2022 年)",
-    "sku": "MNEP3TA/A",
-    "price": 39900,
-    "name": "13 吋 MacBook Pro - 銀色"
+    "name": "iPad mini Wi‑Fi + 行動網路機型  256GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-cell-space-gray-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1669669436143",
+    "sku": "MK8F3TA/A",
+    "price": 26900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK8F3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "MacBook Pro (13 吋，M2，2022 年)",
+    "name": "iPad mini Wi‑Fi + 行動網路機型 64GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-cell-space-gray-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1669669436143",
+    "sku": "MK893TA/A",
+    "price": 21900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK893TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi + 行動網路機型  64GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-紫色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-cell-purple-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1629840724000",
+    "sku": "MK8E3TA/A",
+    "price": 21900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK8E3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi + 行動網路機型  256GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-紫色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-cell-purple-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1629840724000",
+    "sku": "MK8K3TA/A",
+    "price": 26900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK8K3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi + 行動網路機型  64GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-星光色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-cell-starlight-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1629840738000",
+    "sku": "MK8C3TA/A",
+    "price": 21900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK8C3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi + 行動網路機型 256GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-星光色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-cell-starlight-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1629840738000",
+    "sku": "MK8H3TA/A",
+    "price": 26900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MK8H3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi + 行動網路機型 64GB - 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/64gb-粉紅色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-cell-pink-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1629840744000",
+    "sku": "MLX43TA/A",
+    "price": 21900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MLX43TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi + 行動網路機型 256GB - 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-粉紅色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-cell-pink-202109?wid=390&hei=489&fmt=jpeg&qlt=95&.v=1629840744000",
+    "sku": "MLX93TA/A",
+    "price": 26900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MLX93TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "14 吋 MacBook Pro - 銀色 - Apple (台灣)",
+    "url": "https://www.apple.com/tw/shop/buy-mac/home/14-吋-銀色-apple-m2-max-配備-12-核心-cpu-與-30-核心-gpu-1tb",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202301?wid=2000&hei=1210&fmt=jpeg&qlt=95&.v=1671568460416",
+    "sku": "MPHK3TA/A",
+    "price": 97900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MPHK3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "14 吋 MacBook Pro - 銀色 - Apple (台灣)",
+    "url": "https://www.apple.com/tw/shop/buy-mac/home/14-吋-銀色-apple-m2-pro-配備-10-核心-cpu-與-16-核心-gpu-512gb",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202301?wid=2000&hei=1210&fmt=jpeg&qlt=95&.v=1671568460416",
+    "sku": "MPHH3TA/A",
+    "price": 64900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MPHH3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "14 吋 MacBook Pro - 太空灰色 - Apple (台灣)",
+    "url": "https://www.apple.com/tw/shop/buy-mac/home/14-吋-太空灰色-apple-m2-pro-配備-12-核心-cpu-與-19-核心-gpu-1tb",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202301?wid=2000&hei=1211&fmt=jpeg&qlt=95&.v=1671304673229",
+    "sku": "MPHF3TA/A",
+    "price": 79900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MPHF3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "14 吋 MacBook Pro - 太空灰色 - Apple (台灣)",
+    "url": "https://www.apple.com/tw/shop/buy-mac/home/14-吋-太空灰色-apple-m2-max-配備-12-核心-cpu-與-30-核心-gpu-1tb",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202301?wid=2000&hei=1211&fmt=jpeg&qlt=95&.v=1671304673229",
+    "sku": "MPHG3TA/A",
+    "price": 97900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MPHG3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "14 吋 MacBook Pro - 太空灰色 - Apple (台灣)",
+    "url": "https://www.apple.com/tw/shop/buy-mac/home/14-吋-太空灰色-apple-m2-pro-配備-10-核心-cpu-與-16-核心-gpu-512gb",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202301?wid=2000&hei=1211&fmt=jpeg&qlt=95&.v=1671304673229",
+    "sku": "MPHE3TA/A",
+    "price": 64900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MPHE3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "14 吋 MacBook Pro - 銀色 - Apple (台灣)",
+    "url": "https://www.apple.com/tw/shop/buy-mac/home/14-吋-銀色-apple-m2-pro-配備-12-核心-cpu-與-19-核心-gpu-1tb",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202301?wid=2000&hei=1210&fmt=jpeg&qlt=95&.v=1671568460416",
+    "sku": "MPHJ3TA/A",
+    "price": 79900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MPHJ3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 MacBook Pro - 太空灰色 - Apple (台灣)",
+    "url": "https://www.apple.com/tw/shop/buy-mac/home/13-吋-太空灰色-apple-m2-晶片配備-8-核心-cpu-與-10-核心-gpu-512gb",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp-spacegray-select-202206_GEO_TW?wid=640&hei=595&fmt=jpeg&qlt=95&.v=1664497359568",
     "sku": "MNEJ3TA/A",
     "price": 45900,
-    "name": "13 吋 MacBook Pro - 太空灰色"
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNEJ3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "series": "MacBook Pro (13 吋，M2，2022 年)",
-    "sku": "MNEQ3TA/A",
-    "price": 45900,
-    "name": "13 吋 MacBook Pro - 銀色"
-  },
-  {
-    "series": "MacBook Pro (13 吋，M2，2022 年)",
+    "name": "13 吋 MacBook Pro - 太空灰色 - Apple (台灣)",
+    "url": "https://www.apple.com/tw/shop/buy-mac/home/13-吋-太空灰色-apple-m2-晶片配備-8-核心-cpu-與-10-核心-gpu-256gb",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp-spacegray-select-202206_GEO_TW?wid=640&hei=595&fmt=jpeg&qlt=95&.v=1664497359568",
     "sku": "MNEH3TA/A",
     "price": 39900,
-    "name": "13 吋 MacBook Pro - 太空灰色"
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNEH3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 MacBook Pro - 銀色 - Apple (台灣)",
+    "url": "https://www.apple.com/tw/shop/buy-mac/home/13-吋-銀色-apple-m2-晶片配備-8-核心-cpu-與-10-核心-gpu-512gb",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp-silver-select-202206_GEO_TW?wid=640&hei=595&fmt=jpeg&qlt=95&.v=1664497091464",
+    "sku": "MNEQ3TA/A",
+    "price": 45900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNEQ3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 MacBook Pro - 銀色 - Apple (台灣)",
+    "url": "https://www.apple.com/tw/shop/buy-mac/home/13-吋-銀色-apple-m2-晶片配備-8-核心-cpu-與-10-核心-gpu-256gb",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp-silver-select-202206_GEO_TW?wid=640&hei=595&fmt=jpeg&qlt=95&.v=1664497091464",
+    "sku": "MNEP3TA/A",
+    "price": 39900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNEP3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "16 吋 MacBook Pro - 太空灰色 - Apple (台灣)",
+    "url": "https://www.apple.com/tw/shop/buy-mac/home/16-吋-太空灰色-apple-m2-max-配備-12-核心-cpu-與-38-核心-gpu-1tb",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp16-spacegray-select-202301?wid=2000&hei=1222&fmt=jpeg&qlt=95&.v=1671304673202",
+    "sku": "MNWA3TA/A",
+    "price": 109900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNWA3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "16 吋 MacBook Pro - 銀色 - Apple (台灣)",
+    "url": "https://www.apple.com/tw/shop/buy-mac/home/16-吋-銀色-apple-m2-pro-配備-12-核心-cpu-與-19-核心-gpu-1tb",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp16-silver-select-202301?wid=2000&hei=1222&fmt=jpeg&qlt=95&.v=1671304673790",
+    "sku": "MNWD3TA/A",
+    "price": 85900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNWD3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "16 吋 MacBook Pro - 太空灰色 - Apple (台灣)",
+    "url": "https://www.apple.com/tw/shop/buy-mac/home/16-吋-太空灰色-apple-m2-pro-配備-12-核心-cpu-與-19-核心-gpu-1tb",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp16-spacegray-select-202301?wid=2000&hei=1222&fmt=jpeg&qlt=95&.v=1671304673202",
+    "sku": "MNW93TA/A",
+    "price": 85900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNW93TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "16 吋 MacBook Pro - 銀色 - Apple (台灣)",
+    "url": "https://www.apple.com/tw/shop/buy-mac/home/16-吋-銀色-apple-m2-pro-配備-12-核心-cpu-與-19-核心-gpu-512gb",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp16-silver-select-202301?wid=2000&hei=1222&fmt=jpeg&qlt=95&.v=1671304673790",
+    "sku": "MNWC3TA/A",
+    "price": 79900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNWC3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "16 吋 MacBook Pro - 太空灰色 - Apple (台灣)",
+    "url": "https://www.apple.com/tw/shop/buy-mac/home/16-吋-太空灰色-apple-m2-pro-配備-12-核心-cpu-與-19-核心-gpu-512gb",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp16-spacegray-select-202301?wid=2000&hei=1222&fmt=jpeg&qlt=95&.v=1671304673202",
+    "sku": "MNW83TA/A",
+    "price": 79900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNW83TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "16 吋 MacBook Pro - 銀色 - Apple (台灣)",
+    "url": "https://www.apple.com/tw/shop/buy-mac/home/16-吋-銀色-apple-m2-max-配備-12-核心-cpu-與-38-核心-gpu-1tb",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp16-silver-select-202301?wid=2000&hei=1222&fmt=jpeg&qlt=95&.v=1671304673790",
+    "sku": "MNWE3TA/A",
+    "price": 109900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MNWE3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   }
 ]

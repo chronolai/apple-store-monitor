@@ -19,8 +19,8 @@ const isBrowser = typeof window !== "undefined";
 const initialOptions = devices
   .map(device => ({ label: device.name, value: device.sku }))
   .sort(function (a, b) {
-    if (a.value < b.value) { return -1; }
-    if (a.value > b.value) { return 1; }
+    if (a.label < b.label) { return 1; }
+    if (a.label > b.label) { return -1; }
     return 0;
   });
 
