@@ -11,14 +11,14 @@ const request = axios;
 const SEO_URL = 'https://www.apple.com/tw/shop/updateSEO';
 
 const urls = [
-  'https://www.apple.com/tw/shop/buy-iphone/iphone-15-pro',
+  'https://www.apple.com/tw/shop/buy-iphone/iphone-16-pro',
+  'https://www.apple.com/tw/shop/buy-iphone/iphone-16',
   'https://www.apple.com/tw/shop/buy-iphone/iphone-15',
   'https://www.apple.com/tw/shop/buy-iphone/iphone-14',
-  'https://www.apple.com/tw/shop/buy-iphone/iphone-13',
   'https://www.apple.com/tw/shop/buy-iphone/iphone-se',
   'https://www.apple.com/tw/shop/buy-ipad/ipad-pro',
   'https://www.apple.com/tw/shop/buy-ipad/ipad-air',
-  'https://www.apple.com/tw/shop/buy-ipad/ipad-10-2',
+  'https://www.apple.com/tw/shop/buy-ipad/ipad',
   'https://www.apple.com/tw/shop/buy-ipad/ipad-mini',
   'https://www.apple.com/tw/shop/buy-mac/macbook-pro',
 ];
