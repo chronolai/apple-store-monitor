@@ -11,16 +11,15 @@ const request = axios;
 const SEO_URL = 'https://www.apple.com/tw/shop/updateSEO';
 
 const urls = [
-  'https://www.apple.com/tw/shop/buy-iphone/iphone-16-pro',
+  'https://www.apple.com/tw/shop/buy-iphone/iphone-17-pro',
+  'https://www.apple.com/tw/shop/buy-iphone/iphone-air',
+  'https://www.apple.com/tw/shop/buy-iphone/iphone-17',
   'https://www.apple.com/tw/shop/buy-iphone/iphone-16',
-  'https://www.apple.com/tw/shop/buy-iphone/iphone-15',
-  'https://www.apple.com/tw/shop/buy-iphone/iphone-14',
-  'https://www.apple.com/tw/shop/buy-iphone/iphone-se',
+  'https://www.apple.com/tw/shop/buy-iphone/iphone-16e',
   'https://www.apple.com/tw/shop/buy-ipad/ipad-pro',
   'https://www.apple.com/tw/shop/buy-ipad/ipad-air',
   'https://www.apple.com/tw/shop/buy-ipad/ipad',
   'https://www.apple.com/tw/shop/buy-ipad/ipad-mini',
-  'https://www.apple.com/tw/shop/buy-mac/macbook-pro',
 ];
 
 const queryHTML = (html, selector) => {
@@ -72,7 +71,7 @@ async function main() {
 
     for (const seo of seos) {
       const productHtml = await request.get(seo).then((response) => response.data);
-      console.error(` ==> ${seo}`, productHtml);
+      console.error(` ==> ${productHtml.body.marketingData.title} > ${seo}`);
       const microdataList = productHtml.body.marketingData.microdataList.filter(m => JSON.parse(m)['@type'] === 'Product');
       if (microdataList.length === 1) {
         const microdata = JSON.parse(microdataList[0]);
