@@ -18,6 +18,7 @@ import Layout from './components/Layout'
 import Header from './components/Header'
 import DevicePicker, { emptyFilters } from './components/DevicePicker'
 import ResultList from './components/ResultList'
+import LogDialog from './components/LogDialog'
 import EmptyState from './components/EmptyState'
 
 const maxSelected = 10
@@ -39,17 +40,32 @@ function Monitor({ devices }) {
   )
   const [filters, setFilters] = React.useState(emptyFilters)
   const [pickerOpen, setPickerOpen] = React.useState(false)
+  const [logOpen, setLogOpen] = React.useState(false)
   const [alertsOn, setAlertsOn] = React.useState(readAlertsPref)
   const [permission, setPermission] = React.useState(notificationPermission)
 
   const now = useNow()
   const { rows, progress, lastUpdated, failures, error } = usePickup(codes, devices)
 
-  const changes = useStockAlerts(rows, row => {
+  const { changes, log, clearLog } = useStockAlerts(rows, row => {
     if (!alertsOn) return
     beep()
     notifyAvailable(row)
   })
+
+  // Hidden shortcut: "L" toggles the stock change log.
+  React.useEffect(() => {
+    const onKeyDown = e => {
+      if (e.key.toLowerCase() !== 'l' || e.ctrlKey || e.metaKey || e.altKey || e.repeat) return
+      const target = e.target
+      if (target.closest?.('input, textarea, select, [contenteditable]')) return
+      // don't stack on top of the device picker
+      if (!logOpen && document.querySelector('dialog[open]')) return
+      setLogOpen(open => !open)
+    }
+    window.addEventListener('keydown', onKeyDown)
+    return () => window.removeEventListener('keydown', onKeyDown)
+  }, [logOpen])
 
   React.useEffect(() => {
     const hash = encodeHash(codes)
@@ -135,6 +151,7 @@ function Monitor({ devices }) {
         onToggle={toggleCode}
         onClear={() => setCodes([])}
       />
+      <LogDialog log={log} open={logOpen} onClose={() => setLogOpen(false)} onClear={clearLog} />
     </Layout>
   )
 }
