@@ -1,53 +1,32 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "apple-store-monitor",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "version": "1.0.0",
+  "description": "Apple Store Taiwan pickup availability monitor",
+  "license": "0BSD",
+  "packageManager": "pnpm@11.9.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "format": "prettier --write \"**/*.{js,jsx,json,md,css}\"",
+    "generate": "node bin/generator.js"
+  },
   "dependencies": {
-    "@tanstack/react-table": "^8.5.13",
-    "axios": "^0.27.2",
-    "axios-cache-interceptor": "^0.10.7",
-    "gatsby": "^4.23.0",
-    "gatsby-plugin-google-gtag": "^4.25.0",
-    "gatsby-plugin-image": "^2.23.0",
-    "gatsby-plugin-sharp": "^4.23.0",
-    "gatsby-source-filesystem": "^4.23.0",
-    "gatsby-transformer-sharp": "^4.23.0",
-    "node-html-parser": "^6.1.0",
+    "@tanstack/react-table": "^8.21.3",
+    "axios": "^1.20.0",
     "numeral": "^2.0.6",
-    "prop-types": "^15.8.1",
-    "react": "^18.1.0",
-    "react-dom": "^18.1.0",
-    "react-multi-select-component": "^4.3.3",
-    "react-select": "^5.4.0",
-    "react-top-loading-bar": "^2.3.1"
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-multi-select-component": "^4.3.4",
+    "react-top-loading-bar": "^3.0.2"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.11",
-    "gatsby-plugin-postcss": "^5.23.0",
-    "postcss": "^8.4.16",
-    "prettier": "^2.7.1",
-    "tailwindcss": "^3.1.8"
-  },
-  "keywords": [
-    "gatsby"
-  ],
-  "license": "0BSD",
-  "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
-    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md,css}\"",
-    "start": "gatsby develop",
-    "serve": "gatsby serve",
-    "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
-  },
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "@tailwindcss/vite": "^4.3.3",
+    "@vitejs/plugin-react": "^6.1.2",
+    "node-html-parser": "^9.0.4",
+    "prettier": "^3.9.10",
+    "tailwindcss": "^4.3.3",
+    "vite": "^8.3.4"
   }
 }

@@ -5,16 +5,12 @@ import numeral from 'numeral';
 import { MultiSelect } from "react-multi-select-component";
 import LoadingBar from 'react-top-loading-bar'
 
-import useInterval from '../hooks/useInterval';
+import useInterval from './hooks/useInterval';
 
-import Layout from '../components/layout';
-import Seo from '../components/seo';
+import Layout from './components/Layout';
+import Table from './components/Table';
 
-import Table from '../components/Table';
-
-import devices from '../devices.json';
-
-const isBrowser = typeof window !== "undefined";
+import devices from './devices.json';
 
 const initialOptions = devices
   .map(device => ({ label: device.name, value: device.sku }))
@@ -29,7 +25,7 @@ const defaultDelay = 10000;
 const defaultWorker = 'https://asm.chrono.tw/corsproxy/';
 const defaultCodes = [];
 
-const skus = (isBrowser && window.location.hash.length > 0) ? JSON.parse(atob(window.location.hash.slice(1))) : [];
+const skus = (window.location.hash.length > 0) ? JSON.parse(atob(window.location.hash.slice(1))) : [];
 const defaultSelected = skus.length > 0 ? skus.map((sku) => initialOptions.find(option => option.value === sku)) : [];
 // const defaultSelected = Array.from(Array(5)).map(v => initialOptions[Math.floor(Math.random() * initialOptions.length)]);
 
@@ -49,7 +45,7 @@ function Label(props) {
   );
 }
 
-const IndexPage = () => {
+const App = () => {
   const [worker] = React.useState(defaultWorker);
   const [codes, setCodes] = React.useState(defaultCodes);
   const [options, setOptions] = React.useState(initialOptions);
@@ -115,15 +111,9 @@ const IndexPage = () => {
   }];
 
   React.useEffect(() => {
-    loadAPI();
-  }, []);
-
-  React.useEffect(() => {
     const codes = selected.map(option => option.value);
     setCodes(codes);
-    if (isBrowser) {
-      window.location.hash = codes.length > 0 ? btoa(JSON.stringify(codes)) : '';
-    }
+    window.location.hash = codes.length > 0 ? btoa(JSON.stringify(codes)) : '';
 
     // if max limit is reached disable other options
     if (selected.length === defaultMaxSelected) {
@@ -168,7 +158,7 @@ const IndexPage = () => {
       setData(transData(resp.data));
     }).catch((e) => {
       console.error('Error:', e);
-      loadAPI();
+      setTimeout(loadAPI, 3000);
     }).finally(() => {
       setLoading(100);
     });
@@ -235,6 +225,4 @@ const IndexPage = () => {
   )
 }
 
-export default IndexPage
-
-export const Head = () => <Seo title="Home" />
+export default App

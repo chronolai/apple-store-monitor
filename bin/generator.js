@@ -2,10 +2,8 @@ const fs = require('fs');
 const path = require('path');
 
 const axios = require('axios');
-const { setupCache } = require('axios-cache-interceptor');
 const HTMLParser = require('node-html-parser');
 
-// const request = setupCache(axios, { ttl: 1000 * 60 * 60 * 24 });
 const request = axios;
 
 const SEO_URL = 'https://www.apple.com/tw/shop/updateSEO';
