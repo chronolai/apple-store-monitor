@@ -1,194 +1,165 @@
+// Cloudflare Worker: CORS proxy for Apple's pickup availability API.
+//
+// Deploy by pasting this file (new_worker.js) into the Worker (module syntax), routed at
+// https://asm.chrono.tw/corsproxy/.
+//
+// - Only the pickup-message endpoint is proxied (this used to be an open proxy).
+// - Responses are cached for FRESH_MS so many users watching the same devices
+//   share one upstream request, which keeps us under Apple's rate limit.
+// - A failed or malformed upstream response is retried, and if Apple keeps
+//   rejecting us, a cached copy up to STALE_MS old is served instead.
+// - `X-Data-Age` (seconds) tells the client how old the data really is.
 
-// Cloudflare supports the GET, POST, HEAD, and OPTIONS methods from any origin,
+const PROXY_ENDPOINT = '/corsproxy/'
+const ALLOWED_ENDPOINT = 'https://www.apple.com/tw/shop/retail/pickup-message'
 
-// and allow any header on requests. These headers must be present
-
-// on all responses to all CORS preflight requests. In practice, this means
-
-// all responses to OPTIONS requests.
+const FRESH_MS = 3000
+const STALE_MS = 60000
+const RETRY_DELAYS = [150, 400]
+const MAX_PARTS = 10
+const SKU_PATTERN = /^[A-Z0-9]{4,14}\/[A-Z]$/
 
 const corsHeaders = {
   'Access-Control-Allow-Origin': '*',
-  'Access-Control-Allow-Methods': 'GET,HEAD,POST,OPTIONS',
+  'Access-Control-Allow-Methods': 'GET,OPTIONS',
+  'Access-Control-Expose-Headers': 'X-Data-Age, X-Stale',
   'Access-Control-Max-Age': '86400',
-
-};
-
-
-
-// The URL for the remote third party API you want to fetch from
-
-// but does not implement CORS
-
-const API_URL = 'https://examples.cloudflareworkers.com/demos/demoapi';
-
-
-
-// The endpoint you want the CORS reverse proxy to be on
-
-const PROXY_ENDPOINT = '/corsproxy/';
-
-
-
-// The rest of this snippet for the demo page
-
-function rawHtmlResponse(html) {
-  return new Response(html, {
-    headers: {
-      'content-type': 'text/html;charset=UTF-8',
-    },
-  });
-
 }
 
+const upstreamHeaders = {
+  'User-Agent':
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36',
+  Accept: 'application/json, text/plain, */*',
+  'Accept-Language': 'zh-TW,zh;q=0.9,en;q=0.8',
+  Referer: 'https://www.apple.com/tw/shop/buy-iphone',
+  Origin: 'https://www.apple.com',
+}
 
+const sleep = ms => new Promise(resolve => setTimeout(resolve, ms))
 
-const DEMO_PAGE = `
-  <!DOCTYPE html>
-  <html>
-  <body>
-    <h1>API GET without CORS Proxy</h1>
-    <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#Checking_that_the_fetch_was_successful">Shows TypeError: Failed to fetch since CORS is misconfigured</a>
-    <p id="noproxy-status"/>
-    <code id="noproxy">Waiting</code>
-    <h1>API GET with CORS Proxy</h1>
-    <p id="proxy-status"/>
-    <code id="proxy">Waiting</code>
-    <h1>API POST with CORS Proxy + Preflight</h1>
-    <p id="proxypreflight-status"/>
-    <code id="proxypreflight">Waiting</code>
-    <script>
-    let reqs = {};
-    reqs.noproxy = () => {
-      return fetch("${API_URL}").then(r => r.json())
-    }
-    reqs.proxy = async () => {
-      let href = "${PROXY_ENDPOINT}?apiurl=${API_URL}"
-      return fetch(window.location.origin + href).then(r => r.json())
-    }
-    reqs.proxypreflight = async () => {
-      let href = "${PROXY_ENDPOINT}?apiurl=${API_URL}"
-      let response = await fetch(window.location.origin + href, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json"
-        },
-        body: JSON.stringify({
-          msg: "Hello world!"
-        })
-      })
-      return response.json()
-    }
-    (async () => {
-      for (const [reqName, req] of Object.entries(reqs)) {
-        try {
-          let data = await req()
-          document.getElementById(reqName).innerHTML = JSON.stringify(data)
-        } catch (e) {
-          document.getElementById(reqName).innerHTML = e
-        }
+function jsonResponse(body, status) {
+  return new Response(JSON.stringify(body), {
+    status,
+    headers: { 'Content-Type': 'application/json;charset=UTF-8', 'Cache-Control': 'no-store', ...corsHeaders },
+  })
+}
+
+// Rebuild the upstream URL from validated parts only. SKUs are sorted so the
+// same set of devices always maps to the same cache key.
+function buildUpstreamUrl(apiUrl) {
+  let target
+  try {
+    target = new URL(apiUrl)
+  } catch {
+    return null
+  }
+  if (target.origin + target.pathname !== ALLOWED_ENDPOINT) return null
+
+  const parts = [...target.searchParams]
+    .filter(([key]) => key.startsWith('parts.'))
+    .map(([, value]) => value)
+  const skus = [...new Set(parts)].sort()
+  if (skus.length === 0 || skus.length > MAX_PARTS || !skus.every(sku => SKU_PATTERN.test(sku))) return null
+
+  const location = target.searchParams.get('location') ?? '330'
+  if (!/^\d{1,5}$/.test(location)) return null
+
+  const params = new URLSearchParams({ pl: 'true', location })
+  skus.forEach((sku, i) => params.set(`parts.${i}`, sku))
+  return `${ALLOWED_ENDPOINT}?${params}`
+}
+
+// Apple sometimes answers 5xx, an error page, or an empty `{"body":{"content":{}}}`
+// when it is throttling us. Only a response with a `stores` list counts as success.
+async function fetchUpstream(url) {
+  let lastError
+  for (let attempt = 0; attempt <= RETRY_DELAYS.length; attempt++) {
+    if (attempt > 0) await sleep(RETRY_DELAYS[attempt - 1])
+    try {
+      const res = await fetch(url, { headers: upstreamHeaders })
+      if (!res.ok) {
+        lastError = new Error(`Upstream HTTP ${res.status}`)
+        continue
       }
-    })()
-    </script>
-  </body>
-  </html>`;
-
-
-
-async function handleRequest(request) {
-  const url = new URL(request.url);
-  let apiUrl = url.searchParams.get('apiurl');
-
-
-  if (apiUrl == null) {
-    apiUrl = API_URL;
-  }
-
-
-  // Rewrite request to point to API URL. This also makes the request mutable
-  // so you can add the correct Origin header to make the API server think
-  // that this request is not cross-site.
-  request = new Request(apiUrl, request);
-  request.headers.set('Origin', new URL(apiUrl).origin);
-  let response = await fetch(request);
-
-
-  // Recreate the response so you can modify the headers
-  response = new Response(response.body, response);
-
-
-  // Set CORS headers
-  response.headers.set('Access-Control-Allow-Origin', '*');
-
-
-  // Append to/Add Vary header so browser will cache response correctly
-  response.headers.append('Vary', 'Origin');
-
-
-  return response;
-
-}
-
-
-
-function handleOptions(request) {
-  // Make sure the necessary headers are present
-  // for this to be a valid pre-flight request
-  let headers = request.headers;
-  if (
-    headers.get('Origin') !== null &&
-    headers.get('Access-Control-Request-Method') !== null &&
-    headers.get('Access-Control-Request-Headers') !== null
-  ) {
-    // Handle CORS pre-flight request.
-    // If you want to check or reject the requested method + headers
-    // you can do that here.
-    let respHeaders = {
-      ...corsHeaders,
-      // Allow all future content Request headers to go back to browser
-      // such as Authorization (Bearer) or X-Client-Name-Version
-      'Access-Control-Allow-Headers': request.headers.get('Access-Control-Request-Headers'),
-    };
-
-
-    return new Response(null, {
-      headers: respHeaders,
-    });
-  } else {
-    // Handle standard OPTIONS request.
-    // If you want to allow other HTTP Methods, you can do that here.
-    return new Response(null, {
-      headers: {
-        Allow: 'GET, HEAD, POST, OPTIONS',
-      },
-    });
-  }
-
-}
-
-
-
-addEventListener('fetch', event => {
-  const request = event.request;
-  const url = new URL(request.url);
-  if (url.pathname.startsWith(PROXY_ENDPOINT)) {
-    if (request.method === 'OPTIONS') {
-      // Handle CORS preflight requests
-      event.respondWith(handleOptions(request));
-    } else if (request.method === 'GET' || request.method === 'HEAD' || request.method === 'POST') {
-      // Handle requests to the API server
-      event.respondWith(handleRequest(request));
-    } else {
-      event.respondWith(
-        new Response(null, {
-          status: 405,
-          statusText: 'Method Not Allowed',
-        })
-      );
+      const text = await res.text()
+      if (Array.isArray(JSON.parse(text)?.body?.stores)) return text
+      lastError = new Error('Upstream returned no stores')
+    } catch (e) {
+      lastError = e
     }
-  } else {
-    // Serve demo page
-    event.respondWith(rawHtmlResponse(DEMO_PAGE));
+  }
+  throw lastError
+}
+
+function pickupResponse(text, ageMs, stale) {
+  return new Response(text, {
+    headers: {
+      'Content-Type': 'application/json;charset=UTF-8',
+      'Cache-Control': 'no-store',
+      'X-Data-Age': String(Math.round(ageMs / 1000)),
+      ...(stale ? { 'X-Stale': '1' } : {}),
+      ...corsHeaders,
+    },
+  })
+}
+
+async function handlePickup(upstreamUrl, ctx) {
+  const cache = caches.default
+  const key = new Request(upstreamUrl)
+  const cached = await cache.match(key)
+  const ageOf = response => Date.now() - Number(response.headers.get('X-Cached-At'))
+
+  if (cached && ageOf(cached) < FRESH_MS) {
+    return pickupResponse(await cached.text(), ageOf(cached), false)
   }
 
-});
+  try {
+    const text = await fetchUpstream(upstreamUrl)
+    ctx.waitUntil(
+      cache.put(
+        key,
+        new Response(text, {
+          headers: {
+            'Content-Type': 'application/json;charset=UTF-8',
+            'Cache-Control': 'public, max-age=120',
+            'X-Cached-At': String(Date.now()),
+          },
+        })
+      )
+    )
+    return pickupResponse(text, 0, false)
+  } catch (e) {
+    if (cached && ageOf(cached) < STALE_MS) {
+      return pickupResponse(await cached.text(), ageOf(cached), true)
+    }
+    return jsonResponse({ error: 'upstream_unavailable', message: String(e.message ?? e) }, 502)
+  }
+}
+
+export default {
+  async fetch(request, env, ctx) {
+    const url = new URL(request.url)
+    if (!url.pathname.startsWith(PROXY_ENDPOINT)) {
+      return new Response('Not Found', { status: 404 })
+    }
+
+    if (request.method === 'OPTIONS') {
+      return new Response(null, {
+        status: 204,
+        headers: {
+          ...corsHeaders,
+          'Access-Control-Allow-Headers': request.headers.get('Access-Control-Request-Headers') ?? '*',
+        },
+      })
+    }
+    if (request.method !== 'GET') {
+      return new Response('Method Not Allowed', { status: 405, headers: { Allow: 'GET, OPTIONS' } })
+    }
+
+    const upstreamUrl = buildUpstreamUrl(url.searchParams.get('apiurl'))
+    if (!upstreamUrl) {
+      return jsonResponse({ error: 'invalid_request' }, 400)
+    }
+    return handlePickup(upstreamUrl, ctx)
+  },
+}
