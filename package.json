@@ -14,12 +14,9 @@
     "sync": "tsx scripts/sync.jsx"
   },
   "dependencies": {
-    "@tanstack/react-table": "^8.21.3",
     "axios": "^1.20.0",
-    "numeral": "^2.0.6",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
-    "react-multi-select-component": "^4.3.4",
     "react-top-loading-bar": "^3.0.2"
   },
   "devDependencies": {

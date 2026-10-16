@@ -1,209 +1,135 @@
 import React from 'react'
-import axios from 'axios'
-import numeral from 'numeral'
-
-import { MultiSelect } from 'react-multi-select-component'
 import LoadingBar from 'react-top-loading-bar'
 
-import useInterval from './hooks/useInterval'
+import useNow from './hooks/useNow'
+import usePickup from './hooks/usePickup'
+import useStockAlerts from './hooks/useStockAlerts'
 import { decodeHash, encodeHash } from './lib/hash'
-import { buildPickupUrl, transData } from './lib/pickup'
+import { hasStock, parseDevice, shortName } from './lib/devices'
+import {
+  beep,
+  notificationPermission,
+  notifyAvailable,
+  primeAudio,
+  requestNotificationPermission,
+} from './lib/alerts'
 
 import Layout from './components/Layout'
-import Table from './components/Table'
+import Header from './components/Header'
+import DevicePicker, { emptyFilters } from './components/DevicePicker'
+import ResultList from './components/ResultList'
+import EmptyState from './components/EmptyState'
 
 const maxSelected = 10
-const refreshDelay = 10000
-const retryDelay = 3000
-const proxy = 'https://asm.chrono.tw/corsproxy/'
+const baseTitle = 'Apple Store Monitor'
+const ALERTS_KEY = 'asm.alerts'
 
-function StatusIndicator(props) {
-  const color = props.status ? 'bg-green-500' : 'bg-red-500';
-  return (
-    <div className={`mx-5 p-1 w-px h-px rounded-full ${color}`} />
-  );
+const readAlertsPref = () => {
+  try {
+    return localStorage.getItem(ALERTS_KEY) === '1'
+  } catch {
+    return false
+  }
 }
-
-function Label(props) {
-  const { className = 'text-sky-600 bg-sky-200' } = props;
-  return (
-    <span className={`text-xs font-semibold inline-block py-1 px-2 uppercase rounded uppercase last:mr-0 mr-1 ${className}`}>
-      {props.children}
-    </span>
-  );
-}
-
-const columns = [{
-  header: 'Status',
-  accessorKey: 'status',
-  cell: (props) => {
-    const stores = props.row.original.stores;
-    const status = stores.some(store => store.status);
-    return <StatusIndicator status={status} />;
-  },
-}, {
-  header: 'Name',
-  accessorKey: 'name',
-}, {
-  header: 'Price',
-  accessorKey: 'price',
-  cell: props => numeral(props.row.original.price).format('$0,0'),
-  // }, {
-  // header: 'SKU',
-  // accessorKey: 'sku',
-}, {
-  header: 'Pick Up',
-  accessorKey: 'stores',
-  cell: (props) => {
-    const stores = props.row.original.stores;
-    return stores.map((store, index) => {
-      return (
-        <div key={index} className="flex flex-space items-center">
-          <StatusIndicator status={store.status} />
-          <div className="text-left">
-            {store.store}: {store.quote}
-          </div>
-        </div>
-      );
-    });
-  },
-}, {
-  header: '',
-  accessorKey: 'cta',
-  cell: (props) => {
-    const stores = props.row.original.stores;
-    const status = stores.some(store => store.status);
-
-    const color = status ? 'bg-blue-500 hover:bg-blue-700' : 'bg-gray-400 hover:bg-gray-600';
-    const text = status ? 'Buy' : 'View';
-    return (
-      <a
-        className={`text-white font-bold py-1 px-2 rounded ${color}`}
-        target="_blank"
-        href={`https://www.apple.com/tw/shop/product/${props.row.original.sku}`}
-      >
-        {text}
-      </a>
-    );
-  },
-}];
 
 function Monitor({ devices }) {
-  const allOptions = React.useMemo(
-    () =>
-      devices
-        .map(device => ({ label: device.name, value: device.sku }))
-        .sort((a, b) => (a.label < b.label ? 1 : a.label > b.label ? -1 : 0)),
-    [devices]
-  )
-
   // SKUs in the hash that no longer exist (e.g. discontinued) are dropped.
-  const [selected, setSelected] = React.useState(() =>
-    decodeHash(window.location.hash)
-      .map(sku => allOptions.find(option => option.value === sku))
-      .filter(Boolean)
+  const [codes, setCodes] = React.useState(() =>
+    decodeHash(window.location.hash).filter(sku => devices.some(d => d.sku === sku))
   )
-  const [data, setData] = React.useState([])
-  const [count, setCount] = React.useState(0)
-  const [loading, setLoading] = React.useState(100)
+  const [filters, setFilters] = React.useState(emptyFilters)
+  const [pickerOpen, setPickerOpen] = React.useState(codes.length === 0)
+  const [alertsOn, setAlertsOn] = React.useState(readAlertsPref)
+  const [permission, setPermission] = React.useState(notificationPermission)
 
-  const codes = React.useMemo(() => selected.map(option => option.value), [selected])
+  const now = useNow()
+  const { rows, progress, lastUpdated, failures } = usePickup(codes, devices)
 
-  // when the limit is reached, disable the options that are not selected yet
-  const options = React.useMemo(
-    () =>
-      selected.length >= maxSelected
-        ? allOptions.map(o => ({ ...o, disabled: !codes.includes(o.value) }))
-        : allOptions,
-    [allOptions, selected, codes]
-  )
+  const changes = useStockAlerts(rows, row => {
+    if (!alertsOn) return
+    beep()
+    notifyAvailable(row)
+  })
 
   React.useEffect(() => {
     const hash = encodeHash(codes)
     history.replaceState(null, '', hash ? `#${hash}` : window.location.pathname + window.location.search)
   }, [codes])
 
-  const controller = React.useRef(null)
-  const retryTimer = React.useRef(null)
+  const inStock = rows.filter(hasStock).length
+  React.useEffect(() => {
+    document.title = inStock > 0 ? `(${inStock}) 有貨 · ${baseTitle}` : baseTitle
+  }, [inStock])
 
-  const cancel = React.useCallback(() => {
-    controller.current?.abort()
-    controller.current = null
-    clearTimeout(retryTimer.current)
-  }, [])
-
-  // `force` replaces the request in flight (selection changed); otherwise a
-  // tick is skipped while the previous request is still pending.
-  const load = (force = false) => {
-    if (codes.length === 0) {
-      cancel()
-      setData([])
-      setLoading(100)
-      return
+  const toggleAlerts = async () => {
+    const next = !alertsOn
+    setAlertsOn(next)
+    try {
+      localStorage.setItem(ALERTS_KEY, next ? '1' : '0')
+    } catch {
+      // storage unavailable: the preference only lasts for this visit
     }
-    if (controller.current && !force) return
-
-    cancel()
-    const current = new AbortController()
-    controller.current = current
-    setLoading(0)
-
-    const url = `${proxy}?apiurl=${encodeURIComponent(buildPickupUrl(codes))}`
-    axios
-      .get(url, { signal: current.signal })
-      .then(resp => {
-        setCount(c => c + 1)
-        setData(transData(resp.data, codes, devices))
-      })
-      .catch(e => {
-        if (axios.isCancel(e)) return
-        console.error('Error:', e)
-        retryTimer.current = setTimeout(() => load(true), retryDelay)
-      })
-      .finally(() => {
-        // a replaced request must not clear the state of the one that replaced it
-        if (controller.current === current) {
-          controller.current = null
-          setLoading(100)
-        }
-      })
+    if (next) {
+      primeAudio()
+      setPermission(await requestNotificationPermission())
+    }
   }
 
-  React.useEffect(() => {
-    load(true)
-    return cancel
-  }, [codes])
+  const toggleCode = sku =>
+    setCodes(current =>
+      current.includes(sku) ? current.filter(c => c !== sku) : current.length < maxSelected ? [...current, sku] : current
+    )
 
-  useInterval(() => load(), refreshDelay)
+  const seriesNames = React.useMemo(() => [...new Set(devices.map(d => d.series))], [devices])
 
-  const customValueRenderer = selected =>
-    selected.length
-      ? selected.map(({ label }, index) => (
-          <Label key={index} className="text-gray-600 bg-gray-200">
-            {label}
-          </Label>
-        ))
-      : 'No Items Selected'
+  const latest = Object.entries(changes)
+    .filter(([sku, change]) => change.type === 'available' && now - change.at < 15000 && codes.includes(sku))
+    .sort((a, b) => b[1].at - a[1].at)[0]
+  const latestDevice = latest && devices.find(d => d.sku === latest[0])
+  const announcement = [
+    failures > 0 ? '連線不穩,重試中' : lastUpdated ? '連線正常' : '',
+    latestDevice ? `${shortName(latestDevice)} ${latestDevice.color} 有貨了` : '',
+  ]
+    .filter(Boolean)
+    .join(';')
 
   return (
     <Layout>
-      <MultiSelect
-        className="m-3"
-        options={options}
-        value={selected}
-        onChange={setSelected}
-        hasSelectAll={false}
-        valueRenderer={customValueRenderer}
+      <LoadingBar color="#1d4ed8" progress={progress} shadow />
+      <Header
+        total={codes.length}
+        inStock={inStock}
+        announcement={announcement}
+        alertsOn={alertsOn}
+        permission={permission}
+        onToggleAlerts={toggleAlerts}
+        failures={failures}
+        lastUpdated={lastUpdated}
+        now={now}
       />
-      <div>
-        <LoadingBar color="#0000FF" progress={loading} shadow />
-        <Table data={data} columns={columns} />
-      </div>
-      <div className="text-right m-3">
-        <Label>
-          Selected: {codes.length} / {maxSelected}
-        </Label>
-        <Label>Count: {count}</Label>
+      <div className="space-y-6">
+        <DevicePicker
+          devices={devices}
+          codes={codes}
+          max={maxSelected}
+          filters={filters}
+          onFilters={setFilters}
+          open={pickerOpen}
+          onOpen={setPickerOpen}
+          onToggle={toggleCode}
+          onClear={() => setCodes([])}
+        />
+        {codes.length === 0 ? (
+          <EmptyState
+            series={seriesNames}
+            onPickSeries={series => {
+              setFilters({ ...emptyFilters, series })
+              setPickerOpen(true)
+            }}
+          />
+        ) : (
+          <ResultList rows={rows} changes={changes} now={now} />
+        )}
       </div>
     </Layout>
   )
@@ -214,13 +140,15 @@ const App = () => {
   const [devices, setDevices] = React.useState(null)
 
   React.useEffect(() => {
-    import('../data/devices.json').then(module => setDevices(module.default))
+    import('../data/devices.json').then(module => setDevices(module.default.map(parseDevice)))
   }, [])
 
   if (!devices) {
     return (
       <Layout>
-        <p className="m-3 text-gray-500">Loading…</p>
+        <p className="text-gray-700" role="status">
+          載入中…
+        </p>
       </Layout>
     )
   }
