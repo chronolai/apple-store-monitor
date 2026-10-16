@@ -45,36 +45,17 @@ function StoreList({ stores }) {
   if (stores === null) return <span className="text-sm text-gray-700">查詢中…</span>
   if (stores.length === 0) return <span className="text-sm text-gray-700">沒有門市資料</span>
 
-  const available = stores.filter(store => store.status)
-  const unavailable = stores.filter(store => !store.status)
+  // in-stock stores first
+  const sorted = [...stores].sort((a, b) => Number(b.status) - Number(a.status))
   return (
-    <div className="text-sm">
-      {available.length > 0 && (
-        <ul>
-          {available.map(store => (
-            <li key={store.number} className="font-medium text-green-900">
-              <span aria-hidden="true">✔ </span>
-              {store.store}:{store.quote}
-            </li>
-          ))}
-        </ul>
-      )}
-      {unavailable.length > 0 && (
-        <details className="text-gray-700">
-          <summary className="cursor-pointer py-1 focus-visible:outline-2 focus-visible:outline-blue-600">
-            {available.length > 0 ? `其他 ${unavailable.length} 間門市無貨` : `${unavailable.length} 間門市皆無貨`}
-          </summary>
-          <ul className="pl-4">
-            {unavailable.map(store => (
-              <li key={store.number}>
-                <span aria-hidden="true">✖ </span>
-                {store.store}:{store.quote}
-              </li>
-            ))}
-          </ul>
-        </details>
-      )}
-    </div>
+    <ul className="text-sm">
+      {sorted.map(store => (
+        <li key={store.number} className={store.status ? 'font-medium text-green-900' : 'text-gray-700'}>
+          <span aria-hidden="true">{store.status ? '✔ ' : '✖ '}</span>
+          {store.store}:{store.quote}
+        </li>
+      ))}
+    </ul>
   )
 }
 
