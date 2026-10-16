@@ -1,0 +1,15 @@
+# Cloudflare Worker that proxies Apple's pickup API for the site.
+# Deploy from this folder: `pnpm dlx wrangler deploy`
+
+# TODO: set this to the name of the existing Worker in the dashboard,
+# otherwise a second Worker is created.
+name = "apple-store-monitor"
+
+# worker.js is the code currently deployed; switch to new_worker.js for the
+# version with caching, retries and an endpoint allowlist.
+main = "worker.js"
+compatibility_date = "2026-10-01"
+
+routes = [
+  { pattern = "asm.chrono.tw/corsproxy/*", zone_name = "chrono.tw" },
+]

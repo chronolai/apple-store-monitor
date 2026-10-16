@@ -56,7 +56,9 @@ export default function usePickup(codes, devices) {
       .then(resp => {
         if (!resp.data?.body) throw new Error('Unexpected response')
         setFetched(transData(resp.data, codes, devices))
-        setLastUpdated(Date.now())
+        // the proxy may serve cached data; X-Data-Age is how old it is (seconds)
+        const age = Number(resp.headers?.['x-data-age']) || 0
+        setLastUpdated(Date.now() - age * 1000)
         failureCount.current = 0
         setFailures(0)
         setError('')
