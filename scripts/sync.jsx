@@ -2,11 +2,9 @@ import React from 'react'
 import { render, Box, Text } from 'ink'
 import Spinner from 'ink-spinner'
 
-import { sync, urls } from './crawler.js'
+import { sync } from './crawler.js'
 
 const slugOf = (url) => url.split('/').slice(-2).join('/')
-
-const initialPages = urls.map(url => ({ url, status: 'pending', found: 0, total: null }))
 
 function PageRow({ page, current }) {
   const icon = {
@@ -31,7 +29,7 @@ function PageRow({ page, current }) {
 }
 
 function App() {
-  const [pages, setPages] = React.useState(initialPages)
+  const [pages, setPages] = React.useState([])
   const [current, setCurrent] = React.useState('')
   const [warnings, setWarnings] = React.useState([])
   const [result, setResult] = React.useState(null)
@@ -43,6 +41,9 @@ function App() {
   React.useEffect(() => {
     sync(event => {
       switch (event.type) {
+        case 'pages':
+          setPages(event.urls.map(url => ({ url, status: 'pending', found: 0, total: null })))
+          break
         case 'page-start':
           patchPage(event.url, { status: 'running' })
           break
@@ -94,7 +95,11 @@ function App() {
           <Text color="red">✖ 同步失敗:{error.message}</Text>
         </Box>
       )}
-      {!finished && <Box marginTop={1}><Text dimColor>同步中…</Text></Box>}
+      {!finished && (
+        <Box marginTop={1}>
+          <Text dimColor>{pages.length === 0 ? '正在從 apple.com 取得商品頁清單…' : '同步中…'}</Text>
+        </Box>
+      )}
     </Box>
   )
 }

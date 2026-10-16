@@ -7,16 +7,10 @@ import HTMLParser from 'node-html-parser'
 
 const SEO_URL = 'https://www.apple.com/tw/shop/updateSEO'
 
-export const urls = [
-  'https://www.apple.com/tw/shop/buy-iphone/iphone-17-pro',
-  'https://www.apple.com/tw/shop/buy-iphone/iphone-air',
-  'https://www.apple.com/tw/shop/buy-iphone/iphone-17',
-  'https://www.apple.com/tw/shop/buy-iphone/iphone-16',
-  'https://www.apple.com/tw/shop/buy-iphone/iphone-16e',
-  'https://www.apple.com/tw/shop/buy-ipad/ipad-pro',
-  'https://www.apple.com/tw/shop/buy-ipad/ipad-air',
-  'https://www.apple.com/tw/shop/buy-ipad/ipad',
-  'https://www.apple.com/tw/shop/buy-ipad/ipad-mini',
+const ORIGIN = 'https://www.apple.com'
+const HUB_URLS = [
+  `${ORIGIN}/tw/shop/buy-iphone`,
+  `${ORIGIN}/tw/shop/buy-ipad`,
 ]
 
 const target = path.join(path.dirname(fileURLToPath(import.meta.url)), '..', 'src', 'devices.json')
@@ -55,11 +49,32 @@ const seoUrlOf = (sku) => {
 }
 
 /**
+ * Find every product page linked from the iPhone / iPad hub pages,
+ * e.g. /tw/shop/buy-iphone/iphone-17 or /tw/shop/buy-ipad/ipad-air.
+ */
+export async function discoverUrls() {
+  const found = new Set()
+  for (const hub of HUB_URLS) {
+    const category = hub.split('/').pop()
+    const html = await axios.get(hub).then(r => r.data)
+    const pattern = new RegExp(`/tw/shop/${category}/${category.replace('buy-', '')}[a-z0-9-]*(?=["'?#/])`, 'g')
+    for (const match of html.matchAll(pattern)) {
+      found.add(ORIGIN + match[0])
+    }
+  }
+  return [...found]
+}
+
+/**
  * Crawl every product page and write src/devices.json.
  * Progress is reported through `onEvent` so any UI can render it.
  */
 export async function sync(onEvent = () => {}) {
   const data = []
+
+  onEvent({ type: 'discover' })
+  const urls = await discoverUrls()
+  onEvent({ type: 'pages', urls })
 
   for (const url of urls) {
     onEvent({ type: 'page-start', url })
