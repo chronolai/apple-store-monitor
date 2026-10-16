@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Layout = ({ children }) => (
-  <div className="mx-auto max-w-5xl px-4 py-6 text-gray-900">
+  <div className="mx-auto max-w-6xl px-3 py-3 text-gray-900">
     <main>{children}</main>
   </div>
 )

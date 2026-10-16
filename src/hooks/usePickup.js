@@ -7,6 +7,7 @@ import { buildPickupUrl, transData } from '../lib/pickup'
 const proxy = 'https://asm.chrono.tw/corsproxy/'
 const refreshDelay = 10000
 const retryDelay = 3000
+const maxRetryDelay = 60000
 
 // Polls the pickup availability of `codes`. A row has `stores: null` until its
 // first response arrives.
@@ -15,6 +16,8 @@ export default function usePickup(codes, devices) {
   const [progress, setProgress] = React.useState(100)
   const [lastUpdated, setLastUpdated] = React.useState(null)
   const [failures, setFailures] = React.useState(0)
+  const [error, setError] = React.useState('')
+  const failureCount = React.useRef(0)
 
   const controller = React.useRef(null)
   const retryTimer = React.useRef(null)
@@ -23,20 +26,24 @@ export default function usePickup(codes, devices) {
     controller.current?.abort()
     controller.current = null
     clearTimeout(retryTimer.current)
+    retryTimer.current = null
   }, [])
 
-  // `force` replaces the request in flight (selection changed); otherwise a
-  // tick is skipped while the previous request is still pending.
+  // `force` replaces the request in flight (selection changed or retry);
+  // otherwise a tick is skipped while a request is pending or a retry is queued.
   const load = (force = false) => {
     if (codes.length === 0) {
       cancel()
       setFetched([])
       setLastUpdated(null)
+      failureCount.current = 0
       setFailures(0)
+      setError('')
       setProgress(100)
       return
     }
-    if (controller.current && !force) return
+    // ticks also wait out a pending retry, so the backoff is not bypassed
+    if ((controller.current || retryTimer.current) && !force) return
 
     cancel()
     const current = new AbortController()
@@ -50,13 +57,19 @@ export default function usePickup(codes, devices) {
         if (!resp.data?.body) throw new Error('Unexpected response')
         setFetched(transData(resp.data, codes, devices))
         setLastUpdated(Date.now())
+        failureCount.current = 0
         setFailures(0)
+        setError('')
       })
       .catch(e => {
         if (axios.isCancel(e)) return
         console.error('Error:', e)
-        setFailures(f => f + 1)
-        retryTimer.current = setTimeout(() => load(true), retryDelay)
+        failureCount.current += 1
+        setFailures(failureCount.current)
+        setError(e.response?.status ? `HTTP ${e.response.status}` : e.message)
+        // back off while Apple keeps rejecting us, so the retries don't make it worse
+        const delay = Math.min(retryDelay * 2 ** (failureCount.current - 1), maxRetryDelay)
+        retryTimer.current = setTimeout(() => load(true), delay)
       })
       .finally(() => {
         // a replaced request must not clear the state of the one that replaced it
@@ -86,5 +99,5 @@ export default function usePickup(codes, devices) {
     [codes, fetched, devices]
   )
 
-  return { rows, progress, lastUpdated, failures }
+  return { rows, progress, lastUpdated, failures, error }
 }

@@ -38,12 +38,12 @@ function Monitor({ devices }) {
     decodeHash(window.location.hash).filter(sku => devices.some(d => d.sku === sku))
   )
   const [filters, setFilters] = React.useState(emptyFilters)
-  const [pickerOpen, setPickerOpen] = React.useState(codes.length === 0)
+  const [pickerOpen, setPickerOpen] = React.useState(false)
   const [alertsOn, setAlertsOn] = React.useState(readAlertsPref)
   const [permission, setPermission] = React.useState(notificationPermission)
 
   const now = useNow()
-  const { rows, progress, lastUpdated, failures } = usePickup(codes, devices)
+  const { rows, progress, lastUpdated, failures, error } = usePickup(codes, devices)
 
   const changes = useStockAlerts(rows, row => {
     if (!alertsOn) return
@@ -98,39 +98,43 @@ function Monitor({ devices }) {
       <LoadingBar color="#1d4ed8" progress={progress} shadow />
       <Header
         total={codes.length}
+        max={maxSelected}
+        onOpenPicker={() => setPickerOpen(true)}
         inStock={inStock}
         announcement={announcement}
         alertsOn={alertsOn}
         permission={permission}
         onToggleAlerts={toggleAlerts}
         failures={failures}
+        error={error}
         lastUpdated={lastUpdated}
         now={now}
       />
-      <div className="space-y-6">
-        <DevicePicker
-          devices={devices}
-          codes={codes}
-          max={maxSelected}
-          filters={filters}
-          onFilters={setFilters}
-          open={pickerOpen}
-          onOpen={setPickerOpen}
-          onToggle={toggleCode}
-          onClear={() => setCodes([])}
-        />
+      <div>
         {codes.length === 0 ? (
           <EmptyState
             series={seriesNames}
+            onOpen={() => setPickerOpen(true)}
             onPickSeries={series => {
               setFilters({ ...emptyFilters, series })
               setPickerOpen(true)
             }}
           />
         ) : (
-          <ResultList rows={rows} changes={changes} now={now} />
+          <ResultList rows={rows} changes={changes} now={now} onRemove={toggleCode} />
         )}
       </div>
+      <DevicePicker
+        devices={devices}
+        codes={codes}
+        max={maxSelected}
+        filters={filters}
+        onFilters={setFilters}
+        open={pickerOpen}
+        onClose={() => setPickerOpen(false)}
+        onToggle={toggleCode}
+        onClear={() => setCodes([])}
+      />
     </Layout>
   )
 }
