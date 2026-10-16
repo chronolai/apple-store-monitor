@@ -13,7 +13,7 @@ const HUB_URLS = [
   `${ORIGIN}/tw/shop/buy-ipad`,
 ]
 
-const target = path.join(path.dirname(fileURLToPath(import.meta.url)), '..', 'src', 'devices.json')
+const target = path.join(path.dirname(fileURLToPath(import.meta.url)), '..', 'data', 'devices.json')
 
 const queryHTML = (html, selector) => HTMLParser.parse(html).querySelectorAll(selector)
 
@@ -66,7 +66,7 @@ export async function discoverUrls() {
 }
 
 /**
- * Crawl every product page and write src/devices.json.
+ * Crawl every product page and write data/devices.json.
  * Progress is reported through `onEvent` so any UI can render it.
  */
 export async function sync(onEvent = () => {}) {

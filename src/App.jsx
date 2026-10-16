@@ -214,7 +214,7 @@ const App = () => {
   const [devices, setDevices] = React.useState(null)
 
   React.useEffect(() => {
-    import('./devices.json').then(module => setDevices(module.default))
+    import('../data/devices.json').then(module => setDevices(module.default))
   }, [])
 
   if (!devices) {

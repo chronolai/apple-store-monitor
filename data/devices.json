@@ -121,6 +121,17 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MJXP4ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
+    "name": "iPhone 18 Pro Max 256GB 黑色",
+    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.9-吋顯示器-256gb-黑色",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-max-finish-select-black-202609?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1786041923825",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "黑色",
+    "sku": "MJXN4ZP/A",
+    "price": 49900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MJXN4ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
     "name": "iPhone 18 Pro Max 2TB 冰川藍色",
     "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.9-吋顯示器-2tb-冰川藍色",
     "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-max-finish-select-glacier-202609?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1786041925113",
@@ -394,17 +405,6 @@
     "price": 51900,
     "priceCurrency": "TWD",
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MJRW4ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPhone 18 Pro 512GB 冰川藍色",
-    "url": "https://www.apple.com/tw/shop/buy-iphone/home/6.3-吋顯示器-512gb-冰川藍色",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-glacier-202609?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1786041923874",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "冰川藍色",
-    "sku": "MJRX4ZP/A",
-    "price": 51900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MJRX4ZP%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
     "name": "iPhone 18 Pro 512GB 黑色",
@@ -792,147 +792,15 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDWU4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "11 吋 iPad Pro Wi‑Fi 機型 2TB 配備標準玻璃 - 銀色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-2tb-銀色-wifi-標準玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wifi-silver-202405?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581398095",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "銀色",
-    "sku": "MDWV4TA/A",
-    "price": 78400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDWV4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Pro Wi‑Fi + 行動網路機型 1TB 配備標準玻璃 - 銀色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-1tb-銀色-wifi-行動網路-標準玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wificell-silver-202405?wid=3496&hei=4000&fmt=jpeg&qlt=90&.v=1779316436157",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "銀色",
-    "sku": "ME2V4TA/A",
-    "price": 67900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME2V4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Pro Wi‑Fi 機型 256GB 配備標準玻璃 - 太空黑色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-256gb-太空黑色-wifi-標準玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wifi-spaceblack-202405?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581400307",
+    "name": "11 吋 iPad Pro Wi‑Fi + 行動網路機型 512GB 配備標準玻璃 - 太空黑色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-512gb-太空黑色-wifi-行動網路-標準玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wificell-spaceblack-202405?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581400080",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
     "color": "太空黑色",
-    "sku": "MDWK4TA/A",
-    "price": 39900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDWK4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Pro Wi‑Fi + 行動網路機型 2TB 配備標準玻璃 - 銀色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-2tb-銀色-wifi-行動網路-標準玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wificell-silver-202405?wid=3496&hei=4000&fmt=jpeg&qlt=90&.v=1779316436157",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "銀色",
-    "sku": "ME6A4TA/A",
-    "price": 85400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME6A4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Pro Wi‑Fi 機型 1TB 配備奈米紋理玻璃 - 太空黑色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-1tb-太空黑色-wifi-奈米紋理玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wifi-spaceblack-202405?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581400307",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空黑色",
-    "sku": "MDWR4TA/A",
-    "price": 64400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDWR4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Pro Wi‑Fi + 行動網路機型 256GB 配備標準玻璃 - 銀色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-256gb-銀色-wifi-行動網路-標準玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wificell-silver-202405?wid=3496&hei=4000&fmt=jpeg&qlt=90&.v=1779316436157",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "銀色",
-    "sku": "ME2P4TA/A",
-    "price": 46900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME2P4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Pro Wi‑Fi 機型 512GB 配備標準玻璃 - 銀色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-512gb-銀色-wifi-標準玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wifi-silver-202405?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581398095",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "銀色",
-    "sku": "MDWN4TA/A",
-    "price": 46900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDWN4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Pro Wi‑Fi 機型 1TB 配備標準玻璃 - 銀色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-1tb-銀色-wifi-標準玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wifi-silver-202405?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581398095",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "銀色",
-    "sku": "MDWQ4TA/A",
-    "price": 60900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDWQ4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Pro Wi‑Fi + 行動網路機型 512GB 配備標準玻璃 - 銀色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-512gb-銀色-wifi-行動網路-標準玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wificell-silver-202405?wid=3496&hei=4000&fmt=jpeg&qlt=90&.v=1779316436157",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "銀色",
-    "sku": "ME2T4TA/A",
+    "sku": "ME2Q4TA/A",
     "price": 53900,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME2T4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Pro Wi‑Fi + 行動網路機型 1TB 配備奈米紋理玻璃 - 銀色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-1tb-銀色-wifi-行動網路-奈米紋理玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wificell-silver-202405?wid=3496&hei=4000&fmt=jpeg&qlt=90&.v=1779316436157",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "銀色",
-    "sku": "ME2X4TA/A",
-    "price": 71400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME2X4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Pro Wi‑Fi 機型 256GB 配備標準玻璃 - 銀色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-256gb-銀色-wifi-標準玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wifi-silver-202405?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581398095",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "銀色",
-    "sku": "MDWL4TA/A",
-    "price": 39900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDWL4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Pro Wi‑Fi 機型 1TB 配備標準玻璃 - 太空黑色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-1tb-太空黑色-wifi-標準玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wifi-spaceblack-202405?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581400307",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空黑色",
-    "sku": "MDWP4TA/A",
-    "price": 60900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDWP4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Pro Wi‑Fi 機型 2TB 配備奈米紋理玻璃 - 銀色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-2tb-銀色-wifi-奈米紋理玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wifi-silver-202405?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581398095",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "銀色",
-    "sku": "MDWX4TA/A",
-    "price": 81900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDWX4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME2Q4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
     "name": "11 吋 iPad Pro Wi‑Fi + 行動網路機型 1TB 配備標準玻璃 - 太空黑色",
@@ -946,37 +814,59 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME2U4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "11 吋 iPad Pro Wi‑Fi 機型 2TB 配備奈米紋理玻璃 - 太空黑色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-2tb-太空黑色-wifi-奈米紋理玻璃",
+    "name": "11 吋 iPad Pro Wi‑Fi 機型 2TB 配備奈米紋理玻璃 - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-2tb-銀色-wifi-奈米紋理玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wifi-silver-202405?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581398095",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "銀色",
+    "sku": "MDWX4TA/A",
+    "price": 81900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDWX4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi‑Fi 機型 2TB 配備標準玻璃 - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-2tb-銀色-wifi-標準玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wifi-silver-202405?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581398095",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "銀色",
+    "sku": "MDWV4TA/A",
+    "price": 78400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDWV4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi‑Fi 機型 256GB 配備標準玻璃 - 太空黑色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-256gb-太空黑色-wifi-標準玻璃",
     "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wifi-spaceblack-202405?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581400307",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
     "color": "太空黑色",
-    "sku": "MDWW4TA/A",
-    "price": 81900,
+    "sku": "MDWK4TA/A",
+    "price": 39900,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDWW4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDWK4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "11 吋 iPad Pro Wi‑Fi + 行動網路機型 512GB 配備標準玻璃 - 太空黑色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-512gb-太空黑色-wifi-行動網路-標準玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wificell-spaceblack-202405?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581400080",
+    "name": "11 吋 iPad Pro Wi‑Fi 機型 1TB 配備標準玻璃 - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-1tb-銀色-wifi-標準玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wifi-silver-202405?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581398095",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空黑色",
-    "sku": "ME2Q4TA/A",
-    "price": 53900,
+    "color": "銀色",
+    "sku": "MDWQ4TA/A",
+    "price": 60900,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME2Q4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDWQ4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "11 吋 iPad Pro Wi‑Fi + 行動網路機型 2TB 配備標準玻璃 - 太空黑色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-2tb-太空黑色-wifi-行動網路-標準玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wificell-spaceblack-202405?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581400080",
+    "name": "11 吋 iPad Pro Wi‑Fi + 行動網路機型 1TB 配備奈米紋理玻璃 - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-1tb-銀色-wifi-行動網路-奈米紋理玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wificell-silver-202405?wid=3496&hei=4000&fmt=jpeg&qlt=90&.v=1779316436157",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空黑色",
-    "sku": "ME2Y4TA/A",
-    "price": 85400,
+    "color": "銀色",
+    "sku": "ME2X4TA/A",
+    "price": 71400,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME2Y4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME2X4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
     "name": "11 吋 iPad Pro Wi‑Fi 機型 512GB 配備標準玻璃 - 太空黑色",
@@ -1001,15 +891,26 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME6C4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "11 吋 iPad Pro Wi‑Fi 機型 1TB 配備奈米紋理玻璃 - 銀色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-1tb-銀色-wifi-奈米紋理玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wifi-silver-202405?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581398095",
+    "name": "11 吋 iPad Pro Wi‑Fi + 行動網路機型 2TB 配備標準玻璃 - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-2tb-銀色-wifi-行動網路-標準玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wificell-silver-202405?wid=3496&hei=4000&fmt=jpeg&qlt=90&.v=1779316436157",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
     "color": "銀色",
-    "sku": "MDWT4TA/A",
-    "price": 64400,
+    "sku": "ME6A4TA/A",
+    "price": 85400,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDWT4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME6A4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi‑Fi + 行動網路機型 512GB 配備標準玻璃 - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-512gb-銀色-wifi-行動網路-標準玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wificell-silver-202405?wid=3496&hei=4000&fmt=jpeg&qlt=90&.v=1779316436157",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "銀色",
+    "sku": "ME2T4TA/A",
+    "price": 53900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME2T4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
     "name": "11 吋 iPad Pro Wi‑Fi + 行動網路機型 1TB 配備奈米紋理玻璃 - 太空黑色",
@@ -1023,6 +924,28 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME2W4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
+    "name": "11 吋 iPad Pro Wi‑Fi 機型 2TB 配備奈米紋理玻璃 - 太空黑色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-2tb-太空黑色-wifi-奈米紋理玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wifi-spaceblack-202405?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581400307",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "太空黑色",
+    "sku": "MDWW4TA/A",
+    "price": 81900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDWW4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi‑Fi 機型 1TB 配備奈米紋理玻璃 - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-1tb-銀色-wifi-奈米紋理玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wifi-silver-202405?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581398095",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "銀色",
+    "sku": "MDWT4TA/A",
+    "price": 64400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDWT4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
     "name": "11 吋 iPad Pro Wi‑Fi + 行動網路機型 2TB 配備奈米紋理玻璃 - 銀色",
     "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-2tb-銀色-wifi-行動網路-奈米紋理玻璃",
     "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wificell-silver-202405?wid=3496&hei=4000&fmt=jpeg&qlt=90&.v=1779316436157",
@@ -1034,114 +957,92 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME6D4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "13 吋 iPad Pro Wi‑Fi + 行動網路機型 1TB 配備標準玻璃 - 太空黑色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-1tb-太空黑色-wifi-行動網路-標準玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wificell-spaceblack-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495658532",
+    "name": "11 吋 iPad Pro Wi‑Fi 機型 1TB 配備奈米紋理玻璃 - 太空黑色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-1tb-太空黑色-wifi-奈米紋理玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wifi-spaceblack-202405?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581400307",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
     "color": "太空黑色",
-    "sku": "ME8D4TA/A",
-    "price": 78900,
+    "sku": "MDWR4TA/A",
+    "price": 64400,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME8D4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDWR4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "13 吋 iPad Pro Wi‑Fi + 行動網路機型 512GB 配備標準玻璃 - 銀色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-512gb-銀色-wifi-行動網路-標準玻璃",
+    "name": "11 吋 iPad Pro Wi‑Fi + 行動網路機型 2TB 配備標準玻璃 - 太空黑色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-2tb-太空黑色-wifi-行動網路-標準玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wificell-spaceblack-202405?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581400080",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "太空黑色",
+    "sku": "ME2Y4TA/A",
+    "price": 85400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME2Y4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi‑Fi 機型 512GB 配備標準玻璃 - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-512gb-銀色-wifi-標準玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wifi-silver-202405?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581398095",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "銀色",
+    "sku": "MDWN4TA/A",
+    "price": 46900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDWN4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi‑Fi + 行動網路機型 1TB 配備標準玻璃 - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-1tb-銀色-wifi-行動網路-標準玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wificell-silver-202405?wid=3496&hei=4000&fmt=jpeg&qlt=90&.v=1779316436157",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "銀色",
+    "sku": "ME2V4TA/A",
+    "price": 67900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME2V4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi‑Fi 機型 256GB 配備標準玻璃 - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-256gb-銀色-wifi-標準玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wifi-silver-202405?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581398095",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "銀色",
+    "sku": "MDWL4TA/A",
+    "price": 39900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDWL4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi‑Fi + 行動網路機型 256GB 配備標準玻璃 - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-256gb-銀色-wifi-行動網路-標準玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wificell-silver-202405?wid=3496&hei=4000&fmt=jpeg&qlt=90&.v=1779316436157",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "銀色",
+    "sku": "ME2P4TA/A",
+    "price": 46900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME2P4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Pro Wi‑Fi 機型 1TB 配備標準玻璃 - 太空黑色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-1tb-太空黑色-wifi-標準玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wifi-spaceblack-202405?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581400307",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "太空黑色",
+    "sku": "MDWP4TA/A",
+    "price": 60900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDWP4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 iPad Pro Wi‑Fi + 行動網路機型 256GB 配備標準玻璃 - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-256gb-銀色-wifi-行動網路-標準玻璃",
     "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wificell-silver-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495657826",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
     "color": "銀色",
-    "sku": "ME8C4TA/A",
-    "price": 64900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME8C4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "13 吋 iPad Pro Wi‑Fi 機型 2TB 配備奈米紋理玻璃 - 太空黑色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-2tb-太空黑色-wifi-奈米紋理玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wifi-spaceblack-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495658597",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空黑色",
-    "sku": "MDYV4TA/A",
-    "price": 92900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDYV4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "13 吋 iPad Pro Wi‑Fi + 行動網路機型 2TB 配備奈米紋理玻璃 - 太空黑色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-2tb-太空黑色-wifi-行動網路-奈米紋理玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wificell-spaceblack-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495658532",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空黑色",
-    "sku": "ME8M4TA/A",
-    "price": 99900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME8M4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "13 吋 iPad Pro Wi‑Fi 機型 512GB 配備標準玻璃 - 太空黑色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-512gb-太空黑色-wifi-標準玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wifi-spaceblack-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495658597",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空黑色",
-    "sku": "MDYL4TA/A",
+    "sku": "ME7X4TA/A",
     "price": 57900,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDYL4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "13 吋 iPad Pro Wi‑Fi 機型 512GB 配備標準玻璃 - 銀色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-512gb-銀色-wifi-標準玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wifi-silver-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495657824",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "銀色",
-    "sku": "MDYM4TA/A",
-    "price": 57900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDYM4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "13 吋 iPad Pro Wi‑Fi 機型 256GB 配備標準玻璃 - 太空黑色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-256gb-太空黑色-wifi-標準玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wifi-spaceblack-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495658597",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空黑色",
-    "sku": "MDYJ4TA/A",
-    "price": 50900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDYJ4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "13 吋 iPad Pro Wi‑Fi + 行動網路機型 1TB 配備標準玻璃 - 銀色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-1tb-銀色-wifi-行動網路-標準玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wificell-silver-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495657826",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "銀色",
-    "sku": "ME8F4TA/A",
-    "price": 78900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME8F4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "13 吋 iPad Pro Wi‑Fi + 行動網路機型 2TB 配備標準玻璃 - 太空黑色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-2tb-太空黑色-wifi-行動網路-標準玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wificell-spaceblack-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495658532",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空黑色",
-    "sku": "ME8J4TA/A",
-    "price": 96400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME8J4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "13 吋 iPad Pro Wi‑Fi + 行動網路機型 512GB 配備標準玻璃 - 太空黑色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-512gb-太空黑色-wifi-行動網路-標準玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wificell-spaceblack-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495658532",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空黑色",
-    "sku": "ME7Y4TA/A",
-    "price": 64900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME7Y4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME7X4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
     "name": "13 吋 iPad Pro Wi‑Fi + 行動網路機型 2TB 配備標準玻璃 - 銀色",
@@ -1166,48 +1067,15 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDYU4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "13 吋 iPad Pro Wi‑Fi + 行動網路機型 256GB 配備標準玻璃 - 銀色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-256gb-銀色-wifi-行動網路-標準玻璃",
+    "name": "13 吋 iPad Pro Wi‑Fi + 行動網路機型 1TB 配備標準玻璃 - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-1tb-銀色-wifi-行動網路-標準玻璃",
     "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wificell-silver-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495657826",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
     "color": "銀色",
-    "sku": "ME7X4TA/A",
-    "price": 57900,
+    "sku": "ME8F4TA/A",
+    "price": 78900,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME7X4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "13 吋 iPad Pro Wi‑Fi + 行動網路機型 1TB 配備奈米紋理玻璃 - 銀色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-1tb-銀色-wifi-行動網路-奈米紋理玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wificell-silver-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495657826",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "銀色",
-    "sku": "ME8H4TA/A",
-    "price": 82400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME8H4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "13 吋 iPad Pro Wi‑Fi 機型 2TB 配備奈米紋理玻璃 - 銀色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-2tb-銀色-wifi-奈米紋理玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wifi-silver-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495657824",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "銀色",
-    "sku": "MDYW4TA/A",
-    "price": 92900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDYW4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "13 吋 iPad Pro Wi‑Fi + 行動網路機型 256GB 配備標準玻璃 - 太空黑色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-256gb-太空黑色-wifi-行動網路-標準玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wificell-spaceblack-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495658532",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空黑色",
-    "sku": "ME7W4TA/A",
-    "price": 57900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME7W4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME8F4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
     "name": "13 吋 iPad Pro Wi‑Fi 機型 1TB 配備標準玻璃 - 太空黑色",
@@ -1221,15 +1089,81 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDYN4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "13 吋 iPad Pro Wi‑Fi 機型 2TB 配備標準玻璃 - 太空黑色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-2tb-太空黑色-wifi-標準玻璃",
+    "name": "13 吋 iPad Pro Wi‑Fi + 行動網路機型 512GB 配備標準玻璃 - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-512gb-銀色-wifi-行動網路-標準玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wificell-silver-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495657826",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "銀色",
+    "sku": "ME8C4TA/A",
+    "price": 64900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME8C4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 iPad Pro Wi‑Fi + 行動網路機型 256GB 配備標準玻璃 - 太空黑色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-256gb-太空黑色-wifi-行動網路-標準玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wificell-spaceblack-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495658532",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "太空黑色",
+    "sku": "ME7W4TA/A",
+    "price": 57900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME7W4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 iPad Pro Wi‑Fi 機型 2TB 配備奈米紋理玻璃 - 太空黑色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-2tb-太空黑色-wifi-奈米紋理玻璃",
     "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wifi-spaceblack-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495658597",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
     "color": "太空黑色",
-    "sku": "MDYT4TA/A",
-    "price": 89400,
+    "sku": "MDYV4TA/A",
+    "price": 92900,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDYT4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDYV4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 iPad Pro Wi‑Fi 機型 512GB 配備標準玻璃 - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-512gb-銀色-wifi-標準玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wifi-silver-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495657824",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "銀色",
+    "sku": "MDYM4TA/A",
+    "price": 57900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDYM4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 iPad Pro Wi‑Fi 機型 512GB 配備標準玻璃 - 太空黑色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-512gb-太空黑色-wifi-標準玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wifi-spaceblack-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495658597",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "太空黑色",
+    "sku": "MDYL4TA/A",
+    "price": 57900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDYL4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 iPad Pro Wi‑Fi + 行動網路機型 1TB 配備標準玻璃 - 太空黑色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-1tb-太空黑色-wifi-行動網路-標準玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wificell-spaceblack-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495658532",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "太空黑色",
+    "sku": "ME8D4TA/A",
+    "price": 78900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME8D4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 iPad Pro Wi‑Fi 機型 2TB 配備奈米紋理玻璃 - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-2tb-銀色-wifi-奈米紋理玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wifi-silver-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495657824",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "銀色",
+    "sku": "MDYW4TA/A",
+    "price": 92900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDYW4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
     "name": "13 吋 iPad Pro Wi‑Fi + 行動網路機型 2TB 配備奈米紋理玻璃 - 銀色",
@@ -1265,6 +1199,28 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME8G4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
+    "name": "13 吋 iPad Pro Wi‑Fi 機型 2TB 配備標準玻璃 - 太空黑色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-2tb-太空黑色-wifi-標準玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wifi-spaceblack-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495658597",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "太空黑色",
+    "sku": "MDYT4TA/A",
+    "price": 89400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDYT4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 iPad Pro Wi‑Fi + 行動網路機型 512GB 配備標準玻璃 - 太空黑色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-512gb-太空黑色-wifi-行動網路-標準玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wificell-spaceblack-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495658532",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "太空黑色",
+    "sku": "ME7Y4TA/A",
+    "price": 64900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME7Y4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
     "name": "13 吋 iPad Pro Wi‑Fi 機型 1TB 配備奈米紋理玻璃 - 銀色",
     "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-1tb-銀色-wifi-奈米紋理玻璃",
     "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wifi-silver-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495657824",
@@ -1276,15 +1232,37 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDYR4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "13 吋 iPad Pro Wi‑Fi 機型 1TB 配備標準玻璃 - 銀色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-1tb-銀色-wifi-標準玻璃",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wifi-silver-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495657824",
+    "name": "13 吋 iPad Pro Wi‑Fi + 行動網路機型 2TB 配備標準玻璃 - 太空黑色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-2tb-太空黑色-wifi-行動網路-標準玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wificell-spaceblack-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495658532",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "太空黑色",
+    "sku": "ME8J4TA/A",
+    "price": 96400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME8J4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 iPad Pro Wi‑Fi + 行動網路機型 1TB 配備奈米紋理玻璃 - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-1tb-銀色-wifi-行動網路-奈米紋理玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wificell-silver-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495657826",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
     "color": "銀色",
-    "sku": "MDYP4TA/A",
-    "price": 71900,
+    "sku": "ME8H4TA/A",
+    "price": 82400,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDYP4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME8H4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 iPad Pro Wi‑Fi + 行動網路機型 2TB 配備奈米紋理玻璃 - 太空黑色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-2tb-太空黑色-wifi-行動網路-奈米紋理玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wificell-spaceblack-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495658532",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "太空黑色",
+    "sku": "ME8M4TA/A",
+    "price": 99900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22ME8M4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
     "name": "13 吋 iPad Pro Wi‑Fi 機型 256GB 配備標準玻璃 - 銀色",
@@ -1298,48 +1276,26 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDYK4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "11 吋 iPad Air Wi‑Fi + 行動網路 512GB - 藍色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-512gb-藍色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-blue-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470661",
+    "name": "13 吋 iPad Pro Wi‑Fi 機型 1TB 配備標準玻璃 - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-1tb-銀色-wifi-標準玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wifi-silver-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495657824",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "藍色",
-    "sku": "MH7J4TA/A",
-    "price": 40400,
+    "color": "銀色",
+    "sku": "MDYP4TA/A",
+    "price": 71900,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH7J4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDYP4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "11 吋 iPad Air Wi‑Fi 128GB - 太空灰色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-128gb-太空灰色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-spacegray-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404471152",
+    "name": "13 吋 iPad Pro Wi‑Fi 機型 256GB 配備標準玻璃 - 太空黑色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-256gb-太空黑色-wifi-標準玻璃",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wifi-spaceblack-202405?wid=3644&hei=4000&fmt=jpeg&qlt=90&.v=1713495658597",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空灰色",
-    "sku": "MH304TA/A",
-    "price": 24900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH304TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Air Wi‑Fi + 行動網路 1TB - 藍色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-1tb-藍色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-blue-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470661",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "藍色",
-    "sku": "MH7N4TA/A",
+    "color": "太空黑色",
+    "sku": "MDYJ4TA/A",
     "price": 50900,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH7N4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Air Wi‑Fi 1TB - 星光色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-1tb-星光色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-starlight-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404471162",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "星光色",
-    "sku": "MH3J4TA/A",
-    "price": 45900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH3J4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MDYJ4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
     "name": "11 吋 iPad Air Wi‑Fi 1TB - 紫色",
@@ -1353,26 +1309,15 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH3K4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "11 吋 iPad Air Wi‑Fi 512GB - 星光色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-512gb-星光色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-starlight-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404471162",
+    "name": "11 吋 iPad Air Wi‑Fi 1TB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-1tb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-spacegray-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404471152",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "星光色",
-    "sku": "MH3D4TA/A",
-    "price": 35400,
+    "color": "太空灰色",
+    "sku": "MH3G4TA/A",
+    "price": 45900,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH3D4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Air Wi‑Fi 128GB - 藍色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-128gb-藍色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-blue-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404471257",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "藍色",
-    "sku": "MH314TA/A",
-    "price": 24900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH314TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH3G4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
     "name": "11 吋 iPad Air Wi‑Fi + 行動網路 1TB - 星光色",
@@ -1386,17 +1331,6 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH7P4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "11 吋 iPad Air Wi‑Fi + 行動網路 256GB - 星光色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-256gb-星光色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-starlight-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470634",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "星光色",
-    "sku": "MH7F4TA/A",
-    "price": 33400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH7F4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
     "name": "11 吋 iPad Air Wi‑Fi + 行動網路 256GB - 太空灰色",
     "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-256gb-太空灰色-wifi-行動網路",
     "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-spacegray-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470514",
@@ -1406,182 +1340,6 @@
     "price": 33400,
     "priceCurrency": "TWD",
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH7D4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Air Wi‑Fi 1TB - 藍色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-1tb-藍色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-blue-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404471257",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "藍色",
-    "sku": "MH3H4TA/A",
-    "price": 45900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH3H4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Air Wi‑Fi 256GB - 星光色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-256gb-星光色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-starlight-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404471162",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "星光色",
-    "sku": "MH374TA/A",
-    "price": 28400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH374TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Air Wi‑Fi 256GB - 太空灰色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-256gb-太空灰色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-spacegray-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404471152",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空灰色",
-    "sku": "MH354TA/A",
-    "price": 28400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH354TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Air Wi‑Fi + 行動網路 512GB - 太空灰色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-512gb-太空灰色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-spacegray-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470514",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空灰色",
-    "sku": "MH7H4TA/A",
-    "price": 40400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH7H4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Air Wi‑Fi + 行動網路 256GB - 紫色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-256gb-紫色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-purple-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470513",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "紫色",
-    "sku": "MH7G4TA/A",
-    "price": 33400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH7G4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Air Wi‑Fi 512GB - 藍色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-512gb-藍色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-blue-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404471257",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "藍色",
-    "sku": "MH3C4TA/A",
-    "price": 35400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH3C4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Air Wi‑Fi + 行動網路 1TB - 紫色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-1tb-紫色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-purple-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470513",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "紫色",
-    "sku": "MH7Q4TA/A",
-    "price": 50900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH7Q4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Air Wi‑Fi 512GB - 太空灰色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-512gb-太空灰色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-spacegray-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404471152",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空灰色",
-    "sku": "MH3A4TA/A",
-    "price": 35400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH3A4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Air Wi‑Fi + 行動網路 128GB - 星光色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-128gb-星光色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-starlight-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470634",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "星光色",
-    "sku": "MH7A4TA/A",
-    "price": 29900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH7A4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Air Wi‑Fi + 行動網路 1TB - 太空灰色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-1tb-太空灰色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-spacegray-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470514",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空灰色",
-    "sku": "MH7M4TA/A",
-    "price": 50900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH7M4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Air Wi‑Fi 128GB - 星光色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-128gb-星光色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-starlight-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404471162",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "星光色",
-    "sku": "MH334TA/A",
-    "price": 24900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH334TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Air Wi‑Fi 512GB - 紫色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-512gb-紫色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-purple-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470990",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "紫色",
-    "sku": "MH3E4TA/A",
-    "price": 35400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH3E4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Air Wi‑Fi + 行動網路 256GB - 藍色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-256gb-藍色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-blue-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470661",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "藍色",
-    "sku": "MH7E4TA/A",
-    "price": 33400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH7E4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Air Wi‑Fi + 行動網路 512GB - 紫色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-512gb-紫色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-purple-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470513",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "紫色",
-    "sku": "MH7L4TA/A",
-    "price": 40400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH7L4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Air Wi‑Fi 128GB - 紫色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-128gb-紫色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-purple-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470990",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "紫色",
-    "sku": "MH344TA/A",
-    "price": 24900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH344TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Air Wi‑Fi + 行動網路 512GB - 星光色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-512gb-星光色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-starlight-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470634",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "星光色",
-    "sku": "MH7K4TA/A",
-    "price": 40400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH7K4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
     "name": "11 吋 iPad Air Wi‑Fi + 行動網路 128GB - 太空灰色",
@@ -1595,37 +1353,26 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH784TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "11 吋 iPad Air Wi‑Fi + 行動網路 128GB - 紫色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-128gb-紫色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-purple-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470513",
+    "name": "11 吋 iPad Air Wi‑Fi 256GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-256gb-星光色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-starlight-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404471162",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "紫色",
-    "sku": "MH7C4TA/A",
-    "price": 29900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH7C4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Air Wi‑Fi 1TB - 太空灰色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-1tb-太空灰色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-spacegray-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404471152",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空灰色",
-    "sku": "MH3G4TA/A",
-    "price": 45900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH3G4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "11 吋 iPad Air Wi‑Fi 256GB - 紫色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-256gb-紫色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-purple-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470990",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "紫色",
-    "sku": "MH394TA/A",
+    "color": "星光色",
+    "sku": "MH374TA/A",
     "price": 28400,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH394TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH374TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Air Wi‑Fi 1TB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-1tb-星光色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-starlight-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404471162",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "星光色",
+    "sku": "MH3J4TA/A",
+    "price": 45900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH3J4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
     "name": "11 吋 iPad Air Wi‑Fi 256GB - 藍色",
@@ -1639,103 +1386,235 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH364TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "13 吋 iPad Air Wi‑Fi 512GB - 藍色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-512gb-藍色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-blue-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473549",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "藍色",
-    "sku": "MH604TA/A",
-    "price": 42400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH604TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "13 吋 iPad Air Wi‑Fi 512GB - 太空灰色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-512gb-太空灰色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-spacegray-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473958",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空灰色",
-    "sku": "MH5Y4TA/A",
-    "price": 42400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH5Y4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "13 吋 iPad Air Wi‑Fi + 行動網路 1TB - 星光色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-1tb-星光色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-starlight-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404472967",
+    "name": "11 吋 iPad Air Wi‑Fi + 行動網路 512GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-512gb-星光色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-starlight-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470634",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
     "color": "星光色",
-    "sku": "MH9U4TA/A",
-    "price": 57900,
+    "sku": "MH7K4TA/A",
+    "price": 40400,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH9U4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH7K4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "13 吋 iPad Air Wi‑Fi + 行動網路 128GB - 太空灰色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-128gb-太空灰色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-spacegray-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473557",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空灰色",
-    "sku": "MH9D4TA/A",
-    "price": 36900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH9D4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "13 吋 iPad Air Wi‑Fi 256GB - 太空灰色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-256gb-太空灰色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-spacegray-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473958",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空灰色",
-    "sku": "MH5U4TA/A",
-    "price": 35400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH5U4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "13 吋 iPad Air Wi‑Fi 1TB - 太空灰色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-1tb-太空灰色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-spacegray-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473958",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空灰色",
-    "sku": "MH634TA/A",
-    "price": 52900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH634TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "13 吋 iPad Air Wi‑Fi 256GB - 紫色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-256gb-紫色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-purple-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473356",
+    "name": "11 吋 iPad Air Wi‑Fi 512GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-512gb-紫色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-purple-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470990",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
     "color": "紫色",
-    "sku": "MH5X4TA/A",
+    "sku": "MH3E4TA/A",
     "price": 35400,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH5X4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH3E4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "13 吋 iPad Air Wi‑Fi + 行動網路 512GB - 藍色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-512gb-藍色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-blue-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473270",
+    "name": "11 吋 iPad Air Wi‑Fi 512GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-512gb-藍色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-blue-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404471257",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
     "color": "藍色",
-    "sku": "MH9N4TA/A",
-    "price": 47400,
+    "sku": "MH3C4TA/A",
+    "price": 35400,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH9N4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH3C4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "13 吋 iPad Air Wi‑Fi + 行動網路 128GB - 星光色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-128gb-星光色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-starlight-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404472967",
+    "name": "11 吋 iPad Air Wi‑Fi + 行動網路 256GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-256gb-紫色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-purple-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470513",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "紫色",
+    "sku": "MH7G4TA/A",
+    "price": 33400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH7G4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Air Wi‑Fi + 行動網路 1TB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-1tb-紫色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-purple-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470513",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "紫色",
+    "sku": "MH7Q4TA/A",
+    "price": 50900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH7Q4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Air Wi‑Fi + 行動網路 1TB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-1tb-藍色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-blue-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470661",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "藍色",
+    "sku": "MH7N4TA/A",
+    "price": 50900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH7N4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Air Wi‑Fi 256GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-256gb-紫色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-purple-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470990",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "紫色",
+    "sku": "MH394TA/A",
+    "price": 28400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH394TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Air Wi‑Fi 512GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-512gb-星光色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-starlight-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404471162",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
     "color": "星光色",
-    "sku": "MH9F4TA/A",
-    "price": 36900,
+    "sku": "MH3D4TA/A",
+    "price": 35400,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH9F4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH3D4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Air Wi‑Fi + 行動網路 128GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-128gb-星光色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-starlight-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470634",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "星光色",
+    "sku": "MH7A4TA/A",
+    "price": 29900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH7A4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Air Wi‑Fi 128GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-128gb-藍色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-blue-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404471257",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "藍色",
+    "sku": "MH314TA/A",
+    "price": 24900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH314TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Air Wi‑Fi 512GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-512gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-spacegray-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404471152",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "太空灰色",
+    "sku": "MH3A4TA/A",
+    "price": 35400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH3A4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Air Wi‑Fi 128GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-128gb-紫色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-purple-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470990",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "紫色",
+    "sku": "MH344TA/A",
+    "price": 24900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH344TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Air Wi‑Fi 128GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-128gb-星光色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-starlight-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404471162",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "星光色",
+    "sku": "MH334TA/A",
+    "price": 24900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH334TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Air Wi‑Fi + 行動網路 128GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-128gb-藍色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-blue-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470661",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "藍色",
+    "sku": "MH794TA/A",
+    "price": 29900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH794TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Air Wi‑Fi + 行動網路 256GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-256gb-藍色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-blue-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470661",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "藍色",
+    "sku": "MH7E4TA/A",
+    "price": 33400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH7E4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Air Wi‑Fi + 行動網路 256GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-256gb-星光色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-starlight-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470634",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "星光色",
+    "sku": "MH7F4TA/A",
+    "price": 33400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH7F4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Air Wi‑Fi + 行動網路 128GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-128gb-紫色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-purple-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470513",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "紫色",
+    "sku": "MH7C4TA/A",
+    "price": 29900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH7C4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Air Wi‑Fi + 行動網路 512GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-512gb-紫色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-cell-purple-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404470513",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "紫色",
+    "sku": "MH7L4TA/A",
+    "price": 40400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH7L4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Air Wi‑Fi 128GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-128gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-spacegray-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404471152",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "太空灰色",
+    "sku": "MH304TA/A",
+    "price": 24900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH304TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Air Wi‑Fi 256GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-256gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-spacegray-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404471152",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "太空灰色",
+    "sku": "MH354TA/A",
+    "price": 28400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH354TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "11 吋 iPad Air Wi‑Fi 1TB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/11-吋-顯示器-1tb-藍色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-blue-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404471257",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "藍色",
+    "sku": "MH3H4TA/A",
+    "price": 45900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH3H4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
     "name": "13 吋 iPad Air Wi‑Fi + 行動網路 512GB - 太空灰色",
@@ -1749,39 +1628,6 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH9M4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "13 吋 iPad Air Wi‑Fi 128GB - 藍色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-128gb-藍色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-blue-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473549",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "藍色",
-    "sku": "MH5P4TA/A",
-    "price": 31900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH5P4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "13 吋 iPad Air Wi‑Fi + 行動網路 1TB - 太空灰色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-1tb-太空灰色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-spacegray-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473557",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空灰色",
-    "sku": "MH9R4TA/A",
-    "price": 57900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH9R4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "13 吋 iPad Air Wi‑Fi + 行動網路 256GB - 紫色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-256gb-紫色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-purple-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473388",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "紫色",
-    "sku": "MH9L4TA/A",
-    "price": 40400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH9L4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
     "name": "13 吋 iPad Air Wi‑Fi + 行動網路 256GB - 星光色",
     "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-256gb-星光色-wifi-行動網路",
     "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-starlight-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404472967",
@@ -1791,6 +1637,28 @@
     "price": 40400,
     "priceCurrency": "TWD",
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH9K4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 iPad Air Wi‑Fi + 行動網路 128GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-128gb-星光色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-starlight-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404472967",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "星光色",
+    "sku": "MH9F4TA/A",
+    "price": 36900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH9F4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 iPad Air Wi‑Fi 1TB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-1tb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-spacegray-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473958",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "太空灰色",
+    "sku": "MH634TA/A",
+    "price": 52900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH634TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
     "name": "13 吋 iPad Air Wi‑Fi + 行動網路 1TB - 紫色",
@@ -1804,15 +1672,15 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH9V4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "13 吋 iPad Air Wi‑Fi 1TB - 星光色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-1tb-星光色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-starlight-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473612",
+    "name": "13 吋 iPad Air Wi‑Fi 256GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-256gb-紫色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-purple-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473356",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "星光色",
-    "sku": "MH654TA/A",
-    "price": 52900,
+    "color": "紫色",
+    "sku": "MH5X4TA/A",
+    "price": 35400,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH654TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH5X4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
     "name": "13 吋 iPad Air Wi‑Fi 128GB - 星光色",
@@ -1826,15 +1694,48 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH5Q4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "13 吋 iPad Air Wi‑Fi + 行動網路 256GB - 藍色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-256gb-藍色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-blue-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473270",
+    "name": "13 吋 iPad Air Wi‑Fi + 行動網路 1TB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-1tb-星光色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-starlight-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404472967",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "星光色",
+    "sku": "MH9U4TA/A",
+    "price": 57900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH9U4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 iPad Air Wi‑Fi 1TB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-1tb-藍色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-blue-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473549",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
     "color": "藍色",
-    "sku": "MH9J4TA/A",
-    "price": 40400,
+    "sku": "MH644TA/A",
+    "price": 52900,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH9J4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH644TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 iPad Air Wi‑Fi 256GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-256gb-藍色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-blue-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473549",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "藍色",
+    "sku": "MH5V4TA/A",
+    "price": 35400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH5V4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 iPad Air Wi‑Fi 512GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-512gb-藍色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-blue-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473549",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "藍色",
+    "sku": "MH604TA/A",
+    "price": 42400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH604TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
     "name": "13 吋 iPad Air Wi‑Fi + 行動網路 1TB - 藍色",
@@ -1848,15 +1749,37 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH9T4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "13 吋 iPad Air Wi‑Fi 128GB - 紫色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-128gb-紫色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-purple-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473356",
+    "name": "13 吋 iPad Air Wi‑Fi 256GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-256gb-星光色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-starlight-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473612",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "紫色",
-    "sku": "MH5T4TA/A",
+    "color": "星光色",
+    "sku": "MH5W4TA/A",
+    "price": 35400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH5W4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 iPad Air Wi‑Fi 512GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-512gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-spacegray-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473958",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "太空灰色",
+    "sku": "MH5Y4TA/A",
+    "price": 42400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH5Y4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 iPad Air Wi‑Fi 128GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-128gb-藍色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-blue-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473549",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "藍色",
+    "sku": "MH5P4TA/A",
     "price": 31900,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH5T4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH5P4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
     "name": "13 吋 iPad Air Wi‑Fi + 行動網路 512GB - 星光色",
@@ -1868,6 +1791,61 @@
     "price": 47400,
     "priceCurrency": "TWD",
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH9P4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 iPad Air Wi‑Fi 1TB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-1tb-紫色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-purple-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473356",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "紫色",
+    "sku": "MHDK4TA/A",
+    "price": 52900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MHDK4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 iPad Air Wi‑Fi + 行動網路 256GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-256gb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-spacegray-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473557",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "太空灰色",
+    "sku": "MH9H4TA/A",
+    "price": 40400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH9H4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 iPad Air Wi‑Fi + 行動網路 512GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-512gb-藍色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-blue-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473270",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "藍色",
+    "sku": "MH9N4TA/A",
+    "price": 47400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH9N4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 iPad Air Wi‑Fi 256GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-256gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-spacegray-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473958",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "太空灰色",
+    "sku": "MH5U4TA/A",
+    "price": 35400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH5U4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 iPad Air Wi‑Fi + 行動網路 256GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-256gb-紫色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-purple-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473388",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "紫色",
+    "sku": "MH9L4TA/A",
+    "price": 40400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH9L4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
     "name": "13 吋 iPad Air Wi‑Fi + 行動網路 128GB - 藍色",
@@ -1892,59 +1870,48 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH614TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "13 吋 iPad Air Wi‑Fi 256GB - 星光色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-256gb-星光色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-starlight-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473612",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "星光色",
-    "sku": "MH5W4TA/A",
-    "price": 35400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH5W4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "13 吋 iPad Air Wi‑Fi + 行動網路 128GB - 紫色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-128gb-紫色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-purple-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473388",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "紫色",
-    "sku": "MH9G4TA/A",
-    "price": 36900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH9G4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "13 吋 iPad Air Wi‑Fi 256GB - 藍色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-256gb-藍色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-blue-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473549",
+    "name": "13 吋 iPad Air Wi‑Fi + 行動網路 256GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-256gb-藍色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-blue-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473270",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
     "color": "藍色",
-    "sku": "MH5V4TA/A",
-    "price": 35400,
+    "sku": "MH9J4TA/A",
+    "price": 40400,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH5V4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH9J4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "13 吋 iPad Air Wi‑Fi + 行動網路 256GB - 太空灰色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-256gb-太空灰色-wifi-行動網路",
+    "name": "13 吋 iPad Air Wi‑Fi + 行動網路 128GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-128gb-太空灰色-wifi-行動網路",
     "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-spacegray-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473557",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
     "color": "太空灰色",
-    "sku": "MH9H4TA/A",
-    "price": 40400,
+    "sku": "MH9D4TA/A",
+    "price": 36900,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH9H4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH9D4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "13 吋 iPad Air Wi‑Fi 1TB - 紫色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-1tb-紫色-wifi",
+    "name": "13 吋 iPad Air Wi‑Fi 1TB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-1tb-星光色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-starlight-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473612",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "星光色",
+    "sku": "MH654TA/A",
+    "price": 52900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH654TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "13 吋 iPad Air Wi‑Fi 128GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-128gb-紫色-wifi",
     "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-purple-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473356",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
     "color": "紫色",
-    "sku": "MHDK4TA/A",
-    "price": 52900,
+    "sku": "MH5T4TA/A",
+    "price": 31900,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MHDK4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH5T4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
     "name": "13 吋 iPad Air Wi‑Fi 512GB - 紫色",
@@ -1958,59 +1925,26 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH624TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "13 吋 iPad Air Wi‑Fi 1TB - 藍色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-1tb-藍色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-blue-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473549",
+    "name": "13 吋 iPad Air Wi‑Fi + 行動網路 1TB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-1tb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-spacegray-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473557",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "藍色",
-    "sku": "MH644TA/A",
-    "price": 52900,
+    "color": "太空灰色",
+    "sku": "MH9R4TA/A",
+    "price": 57900,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH644TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH9R4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "iPad Wi-Fi 機型 128GB - 粉紅色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/128gb-粉紅色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-pink-wifi-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404066",
+    "name": "13 吋 iPad Air Wi‑Fi + 行動網路 128GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/13-吋-顯示器-128gb-紫色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-cell-purple-202405?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1713404473388",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "粉紅色",
-    "sku": "MD4E4TA/A",
-    "price": 14900,
+    "color": "紫色",
+    "sku": "MH9G4TA/A",
+    "price": 36900,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD4E4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad Wi-Fi 機型 256GB - 粉紅色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-粉紅色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-pink-wifi-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404066",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "粉紅色",
-    "sku": "MD4P4TA/A",
-    "price": 18400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD4P4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad Wi-Fi 機型 128GB - 銀色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/128gb-銀色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-silver-wifi-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404246",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "銀色",
-    "sku": "MD3Y4TA/A",
-    "price": 14900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD3Y4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad Wi-Fi + 行動網路機型 256GB - 藍色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-藍色-wifi-cellular",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-blue-cell-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581400200",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "藍色",
-    "sku": "MD7L4TA/A",
-    "price": 23400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD7L4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MH9G4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
     "name": "iPad Wi-Fi + 行動網路機型 512GB - 銀色",
@@ -2024,61 +1958,6 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD7P4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "iPad Wi-Fi + 行動網路機型 128GB - 藍色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/128gb-藍色-wifi-cellular",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-blue-cell-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581400200",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "藍色",
-    "sku": "MD7G4TA/A",
-    "price": 19900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD7G4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad Wi-Fi + 行動網路機型 512GB - 粉紅色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-粉紅色-wifi-cellular",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-pink-cell-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404208",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "粉紅色",
-    "sku": "MD7T4TA/A",
-    "price": 30400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD7T4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad Wi-Fi + 行動網路機型 256GB - 銀色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-銀色-wifi-cellular",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-silver-cell-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404116",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "銀色",
-    "sku": "MD7K4TA/A",
-    "price": 23400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD7K4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad Wi-Fi 機型 512GB - 銀色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-銀色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-silver-wifi-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404246",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "銀色",
-    "sku": "MD4Q4TA/A",
-    "price": 25400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD4Q4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad Wi-Fi + 行動網路機型 512GB - 黃色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-黃色-wifi-cellular",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-yellow-cell-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404300",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "黃色",
-    "sku": "MD7R4TA/A",
-    "price": 30400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD7R4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
     "name": "iPad Wi-Fi + 行動網路機型 128GB - 粉紅色",
     "url": "https://www.apple.com/tw/shop/buy-ipad/home/128gb-粉紅色-wifi-cellular",
     "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-pink-cell-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404208",
@@ -2090,70 +1969,26 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD7J4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "iPad Wi-Fi 機型 256GB - 黃色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-黃色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-yellow-wifi-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404327",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "黃色",
-    "sku": "MD4J4TA/A",
-    "price": 18400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD4J4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad Wi-Fi 機型 256GB - 藍色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-藍色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-blue-wifi-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581403533",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "藍色",
-    "sku": "MD4H4TA/A",
-    "price": 18400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD4H4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad Wi-Fi + 行動網路機型 128GB - 黃色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/128gb-黃色-wifi-cellular",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-yellow-cell-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404300",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "黃色",
-    "sku": "MD7H4TA/A",
-    "price": 19900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD7H4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad Wi-Fi 機型 256GB - 銀色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-銀色-wifi",
+    "name": "iPad Wi-Fi 機型 128GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/128gb-銀色-wifi",
     "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-silver-wifi-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404246",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
     "color": "銀色",
-    "sku": "MD4G4TA/A",
-    "price": 18400,
+    "sku": "MD3Y4TA/A",
+    "price": 14900,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD4G4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD3Y4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "iPad Wi-Fi + 行動網路機型 512GB - 藍色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-藍色-wifi-cellular",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-blue-cell-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581400200",
+    "name": "iPad Wi-Fi 機型 128GB - 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/128gb-粉紅色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-pink-wifi-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404066",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "藍色",
-    "sku": "MD7Q4TA/A",
-    "price": 30400,
+    "color": "粉紅色",
+    "sku": "MD4E4TA/A",
+    "price": 14900,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD7Q4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad Wi-Fi 機型 512GB - 藍色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-藍色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-blue-wifi-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581403533",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "藍色",
-    "sku": "MD4Y4TA/A",
-    "price": 25400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD4Y4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD4E4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
     "name": "iPad Wi-Fi 機型 512GB - 黃色",
@@ -2167,48 +2002,26 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD5A4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "iPad Wi-Fi 機型 128GB - 黃色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/128gb-黃色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-yellow-wifi-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404327",
+    "name": "iPad Wi-Fi + 行動網路機型 128GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/128gb-藍色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-blue-cell-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581400200",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "黃色",
-    "sku": "MD4D4TA/A",
-    "price": 14900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD4D4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad Wi-Fi 機型 512GB - 粉紅色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-粉紅色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-pink-wifi-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404066",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "粉紅色",
-    "sku": "MD5C4TA/A",
-    "price": 25400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD5C4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad Wi-Fi + 行動網路機型 128GB - 銀色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/128gb-銀色-wifi-cellular",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-silver-cell-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404116",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "銀色",
-    "sku": "MD7F4TA/A",
+    "color": "藍色",
+    "sku": "MD7G4TA/A",
     "price": 19900,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD7F4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD7G4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "iPad Wi-Fi + 行動網路機型 256GB - 黃色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-黃色-wifi-cellular",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-yellow-cell-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404300",
+    "name": "iPad Wi-Fi + 行動網路機型 512GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-藍色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-blue-cell-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581400200",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "黃色",
-    "sku": "MD7M4TA/A",
-    "price": 23400,
+    "color": "藍色",
+    "sku": "MD7Q4TA/A",
+    "price": 30400,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD7M4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD7Q4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
     "name": "iPad Wi-Fi + 行動網路機型 256GB - 粉紅色",
@@ -2222,6 +2035,61 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD7N4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
+    "name": "iPad Wi-Fi 機型 256GB - 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-粉紅色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-pink-wifi-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404066",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "粉紅色",
+    "sku": "MD4P4TA/A",
+    "price": 18400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD4P4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad Wi-Fi + 行動網路機型 128GB - 黃色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/128gb-黃色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-yellow-cell-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404300",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "黃色",
+    "sku": "MD7H4TA/A",
+    "price": 19900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD7H4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad Wi-Fi 機型 128GB - 黃色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/128gb-黃色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-yellow-wifi-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404327",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "黃色",
+    "sku": "MD4D4TA/A",
+    "price": 14900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD4D4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad Wi-Fi 機型 512GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-藍色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-blue-wifi-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581403533",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "藍色",
+    "sku": "MD4Y4TA/A",
+    "price": 25400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD4Y4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad Wi-Fi + 行動網路機型 128GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/128gb-銀色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-silver-cell-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404116",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "銀色",
+    "sku": "MD7F4TA/A",
+    "price": 19900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD7F4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
     "name": "iPad Wi-Fi 機型 128GB - 藍色",
     "url": "https://www.apple.com/tw/shop/buy-ipad/home/128gb-藍色-wifi",
     "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-blue-wifi-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581403533",
@@ -2233,147 +2101,114 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD4A4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "iPad mini Wi‑Fi 機型 256GB - 星光色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-星光色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-starlight-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727299369986",
+    "name": "iPad Wi-Fi + 行動網路機型 512GB - 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-粉紅色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-pink-cell-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404208",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "星光色",
-    "sku": "MXND3TA/A",
+    "color": "粉紅色",
+    "sku": "MD7T4TA/A",
+    "price": 30400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD7T4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad Wi-Fi + 行動網路機型 256GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-藍色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-blue-cell-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581400200",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "藍色",
+    "sku": "MD7L4TA/A",
     "price": 23400,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MXND3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD7L4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "iPad mini Wi‑Fi 機型 512GB - 太空灰色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-太空灰色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-spacegray-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727572894125",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空灰色",
-    "sku": "MYGY3TA/A",
-    "price": 30400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MYGY3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad mini Wi‑Fi + 行動網路機型 256GB - 紫色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-紫色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-cell-purple-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727469734265",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "紫色",
-    "sku": "MXPY3TA/A",
-    "price": 28400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MXPY3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad mini Wi‑Fi + 行動網路機型 128GB - 藍色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/128gb-藍色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-cell-blue-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727299369972",
+    "name": "iPad Wi-Fi 機型 256GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-藍色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-blue-wifi-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581403533",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
     "color": "藍色",
-    "sku": "MXPP3TA/A",
-    "price": 24900,
+    "sku": "MD4H4TA/A",
+    "price": 18400,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MXPP3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD4H4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "iPad mini Wi‑Fi + 行動網路機型 512GB - 藍色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-藍色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-cell-blue-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727299369972",
+    "name": "iPad Wi-Fi 機型 256GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-silver-wifi-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404246",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "藍色",
-    "sku": "MYHD3TA/A",
-    "price": 35400,
+    "color": "銀色",
+    "sku": "MD4G4TA/A",
+    "price": 18400,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MYHD3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD4G4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "iPad mini Wi‑Fi 機型 512GB - 星光色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-星光色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-starlight-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727299369986",
+    "name": "iPad Wi-Fi + 行動網路機型 256GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-銀色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-silver-cell-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404116",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "星光色",
-    "sku": "MYH23TA/A",
-    "price": 30400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MYH23TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad mini Wi‑Fi + 行動網路機型 512GB - 紫色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-紫色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-cell-purple-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727469734265",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "紫色",
-    "sku": "MYHF3TA/A",
-    "price": 35400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MYHF3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad mini Wi‑Fi + 行動網路機型 128GB - 紫色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/128gb-紫色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-cell-purple-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727469734265",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "紫色",
-    "sku": "MXPR3TA/A",
-    "price": 24900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MXPR3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad mini Wi‑Fi 機型 128GB - 紫色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/128gb-紫色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-purple-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727299370073",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "紫色",
-    "sku": "MXN93TA/A",
-    "price": 19900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MXN93TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad mini Wi‑Fi 機型 128GB - 星光色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/128gb-星光色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-starlight-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727299369986",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "星光色",
-    "sku": "MXN83TA/A",
-    "price": 19900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MXN83TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad mini Wi‑Fi + 行動網路機型 256GB - 藍色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-藍色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-cell-blue-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727299369972",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "藍色",
-    "sku": "MXPW3TA/A",
-    "price": 28400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MXPW3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad mini Wi‑Fi 機型 512GB - 紫色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-紫色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-purple-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727299370073",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "紫色",
-    "sku": "MYH33TA/A",
-    "price": 30400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MYH33TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad mini Wi‑Fi 機型 256GB - 紫色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-紫色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-purple-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727299370073",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "紫色",
-    "sku": "MXNE3TA/A",
+    "color": "銀色",
+    "sku": "MD7K4TA/A",
     "price": 23400,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MXNE3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD7K4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad Wi-Fi + 行動網路機型 512GB - 黃色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-黃色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-yellow-cell-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404300",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "黃色",
+    "sku": "MD7R4TA/A",
+    "price": 30400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD7R4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad Wi-Fi + 行動網路機型 256GB - 黃色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-黃色-wifi-cellular",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-yellow-cell-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404300",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "黃色",
+    "sku": "MD7M4TA/A",
+    "price": 23400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD7M4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad Wi-Fi 機型 512GB - 粉紅色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-粉紅色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-pink-wifi-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404066",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "粉紅色",
+    "sku": "MD5C4TA/A",
+    "price": 25400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD5C4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad Wi-Fi 機型 512GB - 銀色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-銀色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-silver-wifi-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404246",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "銀色",
+    "sku": "MD4Q4TA/A",
+    "price": 25400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD4Q4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad Wi-Fi 機型 256GB - 黃色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-黃色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-yellow-wifi-select?wid=4000&hei=3794&fmt=jpeg&qlt=90&.v=1763581404327",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "黃色",
+    "sku": "MD4J4TA/A",
+    "price": 18400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MD4J4TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
     "name": "iPad mini Wi‑Fi + 行動網路機型 128GB - 星光色",
@@ -2387,6 +2222,39 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MXPQ3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
+    "name": "iPad mini Wi‑Fi 機型 512GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-紫色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-purple-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727299370073",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "紫色",
+    "sku": "MYH33TA/A",
+    "price": 30400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MYH33TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi 機型 512GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-星光色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-starlight-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727299369986",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "星光色",
+    "sku": "MYH23TA/A",
+    "price": 30400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MYH23TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi + 行動網路機型 128GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/128gb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-cell-spacegray-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727572892945",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "太空灰色",
+    "sku": "MXPN3TA/A",
+    "price": 24900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MXPN3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
     "name": "iPad mini Wi‑Fi + 行動網路機型 512GB - 星光色",
     "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-星光色-wifi-行動網路",
     "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-cell-starlight-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727299369994",
@@ -2396,50 +2264,6 @@
     "price": 35400,
     "priceCurrency": "TWD",
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MYHE3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad mini Wi‑Fi + 行動網路機型 512GB - 太空灰色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-太空灰色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-cell-spacegray-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727572892945",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空灰色",
-    "sku": "MYHC3TA/A",
-    "price": 35400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MYHC3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad mini Wi‑Fi 機型 256GB - 藍色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-藍色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-blue-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727299369946",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "藍色",
-    "sku": "MXNC3TA/A",
-    "price": 23400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MXNC3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad mini Wi‑Fi 機型 512GB - 藍色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-藍色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-blue-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727299369946",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "藍色",
-    "sku": "MYH13TA/A",
-    "price": 30400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MYH13TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
-    "name": "iPad mini Wi‑Fi 機型 128GB - 太空灰色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/128gb-太空灰色-wifi",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-spacegray-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727572894125",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空灰色",
-    "sku": "MXN63TA/A",
-    "price": 19900,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MXN63TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
     "name": "iPad mini Wi‑Fi + 行動網路機型 256GB - 星光色",
@@ -2453,17 +2277,6 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MXPX3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "iPad mini Wi‑Fi + 行動網路機型 256GB - 太空灰色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-太空灰色-wifi-行動網路",
-    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-cell-spacegray-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727572892945",
-    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
-    "color": "太空灰色",
-    "sku": "MXPT3TA/A",
-    "price": 28400,
-    "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MXPT3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
-  },
-  {
     "name": "iPad mini Wi‑Fi 機型 256GB - 太空灰色",
     "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-太空灰色-wifi",
     "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-spacegray-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727572894125",
@@ -2475,14 +2288,146 @@
     "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MXNA3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   },
   {
-    "name": "iPad mini Wi‑Fi + 行動網路機型 128GB - 太空灰色",
-    "url": "https://www.apple.com/tw/shop/buy-ipad/home/128gb-太空灰色-wifi-行動網路",
+    "name": "iPad mini Wi‑Fi 機型 512GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-spacegray-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727572894125",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "太空灰色",
+    "sku": "MYGY3TA/A",
+    "price": 30400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MYGY3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi + 行動網路機型 512GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-藍色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-cell-blue-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727299369972",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "藍色",
+    "sku": "MYHD3TA/A",
+    "price": 35400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MYHD3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi 機型 128GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/128gb-紫色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-purple-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727299370073",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "紫色",
+    "sku": "MXN93TA/A",
+    "price": 19900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MXN93TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi + 行動網路機型 256GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-藍色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-cell-blue-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727299369972",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "藍色",
+    "sku": "MXPW3TA/A",
+    "price": 28400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MXPW3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi + 行動網路機型 256GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-太空灰色-wifi-行動網路",
     "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-cell-spacegray-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727572892945",
     "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
     "color": "太空灰色",
-    "sku": "MXPN3TA/A",
+    "sku": "MXPT3TA/A",
+    "price": 28400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MXPT3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi 機型 256GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-紫色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-purple-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727299370073",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "紫色",
+    "sku": "MXNE3TA/A",
+    "price": 23400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MXNE3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi + 行動網路機型 512GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-太空灰色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-cell-spacegray-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727572892945",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "太空灰色",
+    "sku": "MYHC3TA/A",
+    "price": 35400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MYHC3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi 機型 128GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/128gb-星光色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-starlight-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727299369986",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "星光色",
+    "sku": "MXN83TA/A",
+    "price": 19900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MXN83TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi + 行動網路機型 512GB - 紫色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-紫色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-cell-purple-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727469734265",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "紫色",
+    "sku": "MYHF3TA/A",
+    "price": 35400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MYHF3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi 機型 256GB - 星光色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/256gb-星光色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-starlight-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727299369986",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "星光色",
+    "sku": "MXND3TA/A",
+    "price": 23400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MXND3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi + 行動網路機型 128GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/128gb-藍色-wifi-行動網路",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-cell-blue-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727299369972",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "藍色",
+    "sku": "MXPP3TA/A",
     "price": 24900,
     "priceCurrency": "TWD",
-    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MXPN3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MXPP3TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi 機型 128GB - 太空灰色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/128gb-太空灰色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-spacegray-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727572894125",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "太空灰色",
+    "sku": "MXN63TA/A",
+    "price": 19900,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MXN63TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
+  },
+  {
+    "name": "iPad mini Wi‑Fi 機型 512GB - 藍色",
+    "url": "https://www.apple.com/tw/shop/buy-ipad/home/512gb-藍色-wifi",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-blue-202410?wid=4000&hei=3078&fmt=jpeg&qlt=90&.v=1727299369946",
+    "description": "你所喜愛關於 Apple 直營店的一切都已上線 - 即刻選購，體驗個人化的產品推薦服務與免額外付費的運送服務，更有折抵換購方案和零利率分期方案，讓你節省更多。",
+    "color": "藍色",
+    "sku": "MYH13TA/A",
+    "price": 30400,
+    "priceCurrency": "TWD",
+    "seoUrl": "https://www.apple.com/tw/shop/updateSEO?m=%7B%22product%22%3A%22MYH13TA%2FA%22%2C%22refererUrl%22%3A%22https%3A%2F%2Fwww.apple.com%2F%22%7D"
   }
 ]
