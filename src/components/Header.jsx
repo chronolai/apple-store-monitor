@@ -28,6 +28,9 @@ function ConnectionStatus({ monitoring, failures, error, lastUpdated, now }) {
   )
 }
 
+const coffeeImage =
+  'https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=chrono.lai&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff'
+
 const actionButton =
   'min-h-11 rounded-md border px-3 py-2 text-sm font-medium focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600 md:min-h-9 md:py-1'
 
@@ -61,7 +64,15 @@ export default function Header({
             <ConnectionStatus monitoring={total > 0} {...connection} />
           </div>
         </div>
-        <div className="flex items-center gap-2">
+        <div className="flex flex-wrap items-center gap-2">
+          <a
+            href="https://www.buymeacoffee.com/chrono.lai"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="basis-full md:basis-auto"
+          >
+            <img src={coffeeImage} alt="Buy me a coffee" className="h-9 w-auto" />
+          </a>
           {total > 0 && (
             <button
               type="button"
