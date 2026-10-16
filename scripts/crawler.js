@@ -71,6 +71,7 @@ export async function discoverUrls() {
  */
 export async function sync(onEvent = () => {}) {
   const data = []
+  const seen = new Set()
 
   onEvent({ type: 'discover' })
   const urls = await discoverUrls()
@@ -84,6 +85,12 @@ export async function sync(onEvent = () => {}) {
 
     let found = 0
     for (const sku of skus) {
+      // the same SKU shows up on several pages (and twice within one page)
+      if (seen.has(sku)) {
+        found++
+        continue
+      }
+      seen.add(sku)
       const seo = seoUrlOf(sku)
       const res = await axios.get(seo).then(r => r.data)
       const marketing = res.body.marketingData
@@ -113,6 +120,12 @@ export async function sync(onEvent = () => {}) {
       onEvent({ type: 'product', url, name: microdata.name, found, total: skus.length })
     }
     onEvent({ type: 'page-done', url, found })
+  }
+
+  // A broken page layout yields few or no products; keep the old data instead.
+  const previous = fs.existsSync(target) ? JSON.parse(fs.readFileSync(target, 'utf8')).length : 0
+  if (data.length === 0 || data.length < previous * 0.5) {
+    throw new Error(`只抓到 ${data.length} 筆(原本 ${previous} 筆),不覆寫 devices.json`)
   }
 
   fs.writeFileSync(target, JSON.stringify(data, null, 2))

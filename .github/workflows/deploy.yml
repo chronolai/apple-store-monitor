@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - master
+  schedule:
+    - cron: '0 20 * * *' # 04:00 Asia/Taipei, refresh the device list daily
   workflow_dispatch:
 
 permissions:
@@ -26,6 +28,10 @@ jobs:
           node-version: 22
           cache: pnpm
       - run: pnpm install --frozen-lockfile
+      # Refresh devices.json from apple.com; if Apple is unreachable or the
+      # result looks broken, the committed copy is deployed instead.
+      - run: pnpm sync
+        continue-on-error: true
       - run: pnpm build
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
