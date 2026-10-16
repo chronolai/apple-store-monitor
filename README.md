@@ -9,7 +9,7 @@ pnpm install
 pnpm dev        # 開發伺服器
 pnpm build      # 輸出到 dist/
 pnpm preview    # 預覽 production build
-pnpm generate   # 重新爬取商品資料,寫入 src/devices.json
+pnpm sync       # 同步 Apple 官網商品資料(Ink 介面),寫入 src/devices.json
 ```
 
 技術棧:Vite、React 19、Tailwind CSS 4、TanStack Table。推送到 `master` 會由 GitHub Actions 自動部署到 GitHub Pages。

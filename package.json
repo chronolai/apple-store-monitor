@@ -1,6 +1,7 @@
 {
   "name": "apple-store-monitor",
   "private": true,
+  "type": "module",
   "version": "1.0.0",
   "description": "Apple Store Taiwan pickup availability monitor",
   "license": "0BSD",
@@ -10,7 +11,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "format": "prettier --write \"**/*.{js,jsx,json,md,css}\"",
-    "generate": "node bin/generator.js"
+    "sync": "tsx scripts/sync.jsx"
   },
   "dependencies": {
     "@tanstack/react-table": "^8.21.3",
@@ -24,9 +25,12 @@
   "devDependencies": {
     "@tailwindcss/vite": "^4.3.3",
     "@vitejs/plugin-react": "^6.1.2",
+    "ink": "^8.0.0",
+    "ink-spinner": "^5.0.0",
     "node-html-parser": "^9.0.4",
     "prettier": "^3.9.10",
     "tailwindcss": "^4.3.3",
+    "tsx": "^4.23.15",
     "vite": "^8.3.4"
   }
 }
