@@ -175,7 +175,7 @@ function Monitor({ devices, syncedAt }) {
             }}
           />
         ) : (
-          <ResultList rows={rows} changes={changes} now={now} onRemove={toggleCode} />
+          <ResultList rows={rows} seriesOrder={seriesNames} changes={changes} now={now} onRemove={toggleCode} />
         )}
       </div>
       {syncedAt && formatSyncedAt(syncedAt) && (
