@@ -19,6 +19,8 @@ const metaTarget = path.join(dataDir, 'meta.json')
 
 const queryHTML = (html, selector) => HTMLParser.parse(html).querySelectorAll(selector)
 
+// Each helper returns `{ sku, label }`; the label is only used to tell
+// products apart in warnings, since a bare part number means nothing to a human.
 const getSKUsV1 = (html) => {
   const skus = []
   const v1 = queryHTML(html, '[type="application/ld+json"]')
@@ -27,11 +29,18 @@ const getSKUsV1 = (html) => {
   v1.forEach(p => {
     p.offers.forEach(o => {
       if (o['@type'] === 'Offer') {
-        skus.push(o.sku)
+        skus.push({ sku: o.sku, label: p.name })
       }
     })
   })
   return skus
+}
+
+const describeV2 = (p) => {
+  const dimensions = Object.entries(p)
+    .filter(([key, value]) => key.startsWith('dimension') && !key.endsWith('order') && value)
+    .map(([, value]) => value)
+  return [p.familyType, ...dimensions].filter(Boolean).join(' ')
 }
 
 const getSKUsV2 = (html) => {
@@ -39,9 +48,28 @@ const getSKUsV2 = (html) => {
   const v2 = queryHTML(html, 'script').map(s => s.text).filter(t => t.includes('PRODUCT_SELECTION_BOOTSTRAP'))
   if (v2.length > 0) {
     const content = v2[0].split('\n')[2].replace('        productSelectionData: ', '')
-    skus = JSON.parse(content).products.map(p => p.partNumber)
+    skus = JSON.parse(content).products.map(p => ({ sku: p.partNumber, label: describeV2(p) }))
   }
   return skus
+}
+
+// Fallback for products whose Product block is missing: no price or image, but
+// enough to list, search and monitor them (stock lookups only need the SKU).
+const fromTitle = (sku, marketing, seo) => {
+  const name = (marketing.title || '')
+    .replaceAll('\u00a0', ' ')
+    .replace(/^購買\s*/, '')
+    .replace(/\s*-\s*Apple\s*\(台灣\)\s*$/, '')
+    .trim()
+  if (!name) return null
+  return {
+    name,
+    url: marketing.canonicalURL,
+    description: marketing.metaDescription,
+    sku,
+    prices: [],
+    seoUrl: seo,
+  }
 }
 
 const seoUrlOf = (sku) => {
@@ -67,11 +95,64 @@ export async function discoverUrls() {
   return [...found]
 }
 
+const lookup = async (sku) => {
+  const seo = seoUrlOf(sku)
+  const res = await axios.get(seo).then(r => r.data)
+  const marketing = res.body.marketingData
+  const products = marketing.microdataList.filter(m => JSON.parse(m)['@type'] === 'Product')
+  return { seo, marketing, product: products.length === 1 ? JSON.parse(products[0]) : null }
+}
+
+const priceOf = (product) => {
+  const price = Number(product?.offers?.[0]?.price)
+  return Number.isFinite(price) ? price : undefined
+}
+
+// Full entry from Apple's Product block. `prices` is a history: the last item is the latest.
+const fromProduct = (product, seo, now) => {
+  const offer = product.offers[0]
+  const price = priceOf(product)
+  const device = { ...product }
+  delete device['@context']
+  delete device['@type']
+  delete device['mainEntityOfPage']
+  delete device['offers']
+  return {
+    ...device,
+    name: product.name.replaceAll(' ', ' '),
+    sku: offer.sku,
+    priceCurrency: offer.priceCurrency,
+    prices: price === undefined ? [] : [{ price, at: now }],
+    seoUrl: seo,
+  }
+}
+
+// Older files stored a single `price`; turn it into a one-item history.
+const migrate = (device, at) => {
+  const { price, ...rest } = device
+  if (Array.isArray(rest.prices)) return rest
+  return { ...rest, prices: price == null ? [] : [{ price: Number(price), at }] }
+}
+
+const readJSON = (file, fallback) => (fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf8')) : fallback)
+
 /**
- * Crawl every product page and write data/devices.json (plus the sync time to data/meta.json).
- * Progress is reported through `onEvent` so any UI can render it.
+ * Sync data/devices.json with apple.com.
+ *
+ * Device details rarely change, so existing entries are kept as they are:
+ *  - new SKUs are added with full details,
+ *  - known SKUs only get their price refreshed (appended to `prices` when it changed;
+ *    if Apple does not answer, the old data stays),
+ *  - SKUs no longer listed are marked `discontinued` (never deleted, price frozen).
+ * The sync time goes to data/meta.json. Progress is reported through `onEvent` so any UI can render it.
  */
 export async function sync(onEvent = () => {}) {
+  const now = new Date().toISOString()
+  const previousSyncedAt = readJSON(metaTarget, {}).syncedAt ?? now
+  const previous = readJSON(target, []).map(d => migrate(d, previousSyncedAt))
+  const previousBySku = new Map(previous.map(d => [d.sku, d]))
+  const stats = { added: 0, priceChanged: 0, discontinued: 0 }
+
   const data = []
   const seen = new Set()
 
@@ -86,52 +167,82 @@ export async function sync(onEvent = () => {}) {
     onEvent({ type: 'page-skus', url, total: skus.length })
 
     let found = 0
-    for (const sku of skus) {
+    for (const { sku, label } of skus) {
       // the same SKU shows up on several pages (and twice within one page)
       if (seen.has(sku)) {
         found++
         continue
       }
       seen.add(sku)
-      const seo = seoUrlOf(sku)
-      const res = await axios.get(seo).then(r => r.data)
-      const marketing = res.body.marketingData
-      const products = marketing.microdataList.filter(m => JSON.parse(m)['@type'] === 'Product')
-      if (products.length !== 1) {
-        onEvent({ type: 'warning', message: `${sku}: 預期 1 筆 Product,實際 ${products.length} 筆` })
-        continue
+
+      const known = previousBySku.get(sku)
+      let result
+      try {
+        result = await lookup(sku)
+      } catch (err) {
+        if (!known) {
+          onEvent({ type: 'warning', message: `${sku}(${label || '未知機型'}):查詢失敗(${err.message}),已略過` })
+          continue
+        }
+        result = { product: null }
+      }
+      const { seo, marketing, product } = result
+
+      let device
+      if (known) {
+        const { discontinued, discontinuedAt, ...active } = known // listed again, so back on sale
+        device = active
+        const price = priceOf(product)
+        const latest = device.prices.at(-1)?.price
+        if (product && device.prices.length === 0) {
+          // earlier only the title was available; now we have the real details
+          device = { ...fromProduct(product, seo, now), seoUrl: device.seoUrl }
+        } else if (price !== undefined && price !== latest) {
+          device = { ...device, prices: [...device.prices, { price, at: now }] }
+          stats.priceChanged++
+          onEvent({ type: 'price-change', name: device.name, from: latest, to: price })
+        }
+      } else {
+        // Apple sometimes leaves the Product block out (only a breadcrumb comes back);
+        // fall back to what the page title tells us.
+        device = product ? fromProduct(product, seo, now) : fromTitle(sku, marketing, seo)
+        if (!device) {
+          onEvent({ type: 'warning', message: `${sku}(${label || '未知機型'}):沒有商品資料,也沒有標題可用,已略過` })
+          continue
+        }
+        if (!product) {
+          onEvent({ type: 'warning', message: `${sku}(${device.name}):Apple 沒回商品資料,依標題建立,暫無價格` })
+        }
+        stats.added++
+        onEvent({ type: 'added', name: device.name })
       }
 
-      const microdata = JSON.parse(products[0])
-      const offer = microdata.offers[0]
-      microdata.name = microdata.name.replaceAll(' ', ' ')
-      microdata.sku = offer.sku
-      microdata.price = offer.price
-      microdata.priceCurrency = offer.priceCurrency
-      microdata.seoUrl = seo
-      delete microdata['@context']
-      delete microdata['@type']
-      delete microdata['mainEntityOfPage']
-      delete microdata['offers']
-      data.push(microdata)
+      data.push(device)
       found++
-
-      if (!seo.includes(encodeURIComponent(microdata.sku))) {
-        onEvent({ type: 'warning', message: `${microdata.sku}: SEO 網址與 SKU 不符` })
-      }
-      onEvent({ type: 'product', url, name: microdata.name, found, total: skus.length })
+      onEvent({ type: 'product', url, name: device.name, found, total: skus.length })
     }
     onEvent({ type: 'page-done', url, found })
   }
 
-  // A broken page layout yields few or no products; keep the old data instead.
-  const previous = fs.existsSync(target) ? JSON.parse(fs.readFileSync(target, 'utf8')).length : 0
-  if (data.length === 0 || data.length < previous * 0.5) {
-    throw new Error(`只抓到 ${data.length} 筆(原本 ${previous} 筆),不覆寫 devices.json`)
+  // A broken page layout yields few or no SKUs, which would mark everything as discontinued.
+  const activeBefore = previous.filter(d => !d.discontinued).length
+  if (seen.size === 0 || seen.size < activeBefore * 0.5) {
+    throw new Error(`只找到 ${seen.size} 個型號(原本上架 ${activeBefore} 個),不覆寫 devices.json`)
+  }
+
+  for (const device of previous) {
+    if (seen.has(device.sku)) continue // still listed, already in `data`
+    if (device.discontinued) {
+      data.push(device)
+    } else {
+      data.push({ ...device, discontinued: true, discontinuedAt: now })
+      stats.discontinued++
+      onEvent({ type: 'discontinued', name: device.name })
+    }
   }
 
   fs.writeFileSync(target, JSON.stringify(data, null, 2))
-  fs.writeFileSync(metaTarget, JSON.stringify({ syncedAt: new Date().toISOString() }, null, 2) + '\n')
-  onEvent({ type: 'done', total: data.length, target })
+  fs.writeFileSync(metaTarget, JSON.stringify({ syncedAt: now }, null, 2) + '\n')
+  onEvent({ type: 'done', total: data.length, ...stats, target })
   return data
 }

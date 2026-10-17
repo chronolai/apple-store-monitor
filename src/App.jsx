@@ -206,7 +206,8 @@ const App = () => {
 
   React.useEffect(() => {
     Promise.all([import('../data/devices.json'), import('../data/meta.json')]).then(([list, meta]) => {
-      setDevices(list.default.map(parseDevice))
+      // discontinued devices stay in the data but are not offered any more
+      setDevices(list.default.filter(d => !d.discontinued).map(parseDevice))
       setSyncedAt(meta.default.syncedAt)
     })
   }, [])

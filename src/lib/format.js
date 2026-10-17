@@ -4,7 +4,7 @@ const priceFormat = new Intl.NumberFormat('zh-TW', {
   maximumFractionDigits: 0,
 })
 
-export const formatPrice = price => priceFormat.format(Number(price))
+export const formatPrice = price => (Number.isFinite(Number(price)) && price != null ? priceFormat.format(Number(price)) : '—')
 
 export function formatAgo(ms) {
   const seconds = Math.max(0, Math.floor(ms / 1000))

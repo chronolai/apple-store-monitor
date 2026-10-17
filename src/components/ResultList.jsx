@@ -94,7 +94,8 @@ function BuyLink({ row }) {
 const sorters = {
   status: (a, b) => Number(hasStock(b)) - Number(hasStock(a)),
   name: (a, b) => a.name.localeCompare(b.name, 'zh-Hant'),
-  price: (a, b) => Number(a.price) - Number(b.price),
+  // devices without a price sort last
+  price: (a, b) => (a.price ?? Infinity) - (b.price ?? Infinity) || 0,
 }
 
 const columns = [

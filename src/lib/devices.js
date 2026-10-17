@@ -10,6 +10,8 @@ export function parseDevice(device) {
   const wifi = /Wi[-‑]Fi/.test(model)
   return {
     ...device,
+    // `prices` is a history, the last entry is the current price
+    price: device.prices?.at(-1)?.price,
     series: model.replace(/\s*Wi[-‑]Fi.*$/, ''),
     capacity,
     capacityGB,
