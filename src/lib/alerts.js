@@ -35,6 +35,25 @@ export async function requestNotificationPermission() {
   return Notification.permission === 'default' ? Notification.requestPermission() : Notification.permission
 }
 
+// Fires a sample notification + beep so the user can check their setup.
+// Returns the permission state, or 'error' if the browser refused to show it.
+export async function sendTestNotification() {
+  primeAudio()
+  beep()
+  const permission = await requestNotificationPermission()
+  if (permission !== 'granted') return permission
+  try {
+    new Notification('測試通知', {
+      body: '看到這則訊息,代表有貨時你會收到通知。',
+      // a fixed tag would replace the previous one silently, so make each unique
+      tag: `asm-test-${Date.now()}`,
+    })
+    return 'granted'
+  } catch {
+    return 'error'
+  }
+}
+
 export function notifyAvailable(row) {
   if (notificationPermission() !== 'granted') return
   const stores = row.stores.filter(s => s.status).map(s => s.store)

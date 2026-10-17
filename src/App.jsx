@@ -12,6 +12,7 @@ import {
   notifyAvailable,
   primeAudio,
   requestNotificationPermission,
+  sendTestNotification,
 } from './lib/alerts'
 
 import Layout from './components/Layout'
@@ -50,6 +51,7 @@ function Monitor({ devices, syncedAt }) {
   const [logOpen, setLogOpen] = React.useState(false)
   const [alertsOn, setAlertsOn] = React.useState(readAlertsPref)
   const [permission, setPermission] = React.useState(notificationPermission)
+  const [testMessage, setTestMessage] = React.useState('')
 
   const now = useNow()
   const { rows, progress, lastUpdated, failures, error } = usePickup(codes, devices)
@@ -60,12 +62,30 @@ function Monitor({ devices, syncedAt }) {
     notifyAvailable(row)
   })
 
-  // Hidden shortcut: "L" toggles the stock change log.
+  const runTest = async () => {
+    const result = await sendTestNotification()
+    setPermission(notificationPermission())
+    setTestMessage(
+      {
+        granted: '已送出測試通知與提示音。若沒看到通知,請檢查系統的通知與專注模式設定。',
+        denied: '瀏覽器已封鎖通知,請到網址列的網站設定開啟。已播放提示音。',
+        default: '尚未授權通知。已播放提示音。',
+        unsupported: '此瀏覽器不支援系統通知。已播放提示音。',
+        error: '通知發送失敗。已播放提示音。',
+      }[result]
+    )
+  }
+
+  // Hidden shortcuts: "L" toggles the stock change log, "N" sends a test notification.
   React.useEffect(() => {
     const onKeyDown = e => {
-      if (e.key.toLowerCase() !== 'l' || e.ctrlKey || e.metaKey || e.altKey || e.repeat) return
-      const target = e.target
-      if (target.closest?.('input, textarea, select, [contenteditable]')) return
+      const key = e.key.toLowerCase()
+      if ((key !== 'l' && key !== 'n') || e.ctrlKey || e.metaKey || e.altKey || e.repeat) return
+      if (e.target.closest?.('input, textarea, select, [contenteditable]')) return
+      if (key === 'n') {
+        runTest()
+        return
+      }
       // don't stack on top of the device picker
       if (!logOpen && document.querySelector('dialog[open]')) return
       setLogOpen(open => !open)
@@ -73,6 +93,12 @@ function Monitor({ devices, syncedAt }) {
     window.addEventListener('keydown', onKeyDown)
     return () => window.removeEventListener('keydown', onKeyDown)
   }, [logOpen])
+
+  React.useEffect(() => {
+    if (!testMessage) return
+    const timer = setTimeout(() => setTestMessage(''), 8000)
+    return () => clearTimeout(timer)
+  }, [testMessage])
 
   React.useEffect(() => {
     const hash = encodeHash(codes)
@@ -133,6 +159,11 @@ function Monitor({ devices, syncedAt }) {
         lastUpdated={lastUpdated}
         now={now}
       />
+      {testMessage && (
+        <p role="status" className="mb-3 rounded-md border border-blue-300 bg-blue-50 px-3 py-2 text-sm text-blue-900">
+          {testMessage}
+        </p>
+      )}
       <div>
         {codes.length === 0 ? (
           <EmptyState
