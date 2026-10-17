@@ -8,7 +8,7 @@ function ConnectionStatus({ monitoring, failures, error, lastUpdated, now }) {
   if (monitoring) {
     if (failures > 0) {
       tone = 'bg-amber-500'
-      text = `連線不穩,重試中(第 ${failures} 次${error ? `・${error}` : ''})`
+      text = `連線不穩・重試 ${failures} 次`
     } else if (lastUpdated) {
       tone = 'bg-green-600'
       text = '連線正常'
@@ -18,7 +18,7 @@ function ConnectionStatus({ monitoring, failures, error, lastUpdated, now }) {
     }
   }
   return (
-    <p className="flex items-center gap-2">
+    <p className="flex items-center gap-2" title={failures > 0 && error ? error : undefined}>
       <span aria-hidden="true" className={`inline-block h-2.5 w-2.5 rounded-full ${tone}`} />
       <span>
         {text}
@@ -32,7 +32,7 @@ const coffeeImage =
   'https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=chrono.lai&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff'
 
 const actionButton =
-  'min-h-11 rounded-md border px-3 py-2 text-sm font-medium focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600 md:min-h-9 md:py-1'
+  'min-h-11 whitespace-nowrap rounded-md border px-3 py-2 text-sm font-medium focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600 md:min-h-9 md:py-1'
 
 export default function Header({
   total,
@@ -64,7 +64,7 @@ export default function Header({
             <ConnectionStatus monitoring={total > 0} {...connection} />
           </div>
         </div>
-        <div className="flex flex-wrap items-center gap-2">
+        <div className="flex shrink-0 flex-wrap items-center gap-2">
           <a
             href="https://www.buymeacoffee.com/chrono.lai"
             target="_blank"
