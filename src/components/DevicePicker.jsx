@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { describe, groupBySeries } from '../lib/devices'
+import { categoryOf, describe, groupBySeries } from '../lib/devices'
 import { formatPrice } from '../lib/format'
 
 export const field =
@@ -25,7 +25,15 @@ export default function DevicePicker({ devices, codes, max, filters, onFilters, 
     }
   }, [open])
 
-  const seriesOptions = React.useMemo(() => unique(devices, 'series'), [devices])
+  // series grouped by product family (iPhone / iPad / Mac), keeping apple.com's order
+  const seriesOptions = React.useMemo(() => {
+    const groups = new Map()
+    for (const series of unique(devices, 'series')) {
+      const category = categoryOf(series)
+      groups.set(category, [...(groups.get(category) ?? []), series])
+    }
+    return [...groups].map(([group, options]) => ({ group, options }))
+  }, [devices])
   const capacityOptions = React.useMemo(
     () =>
       [...devices]
@@ -98,11 +106,21 @@ export default function DevicePicker({ devices, codes, max, filters, onFilters, 
                 {label}
                 <select value={filters[key]} onChange={e => set({ [key]: e.target.value })} className={field}>
                   <option value="">全部</option>
-                  {options.map(option => (
-                    <option key={option} value={option}>
-                      {option}
-                    </option>
-                  ))}
+                  {options.map(option =>
+                    typeof option === 'string' ? (
+                      <option key={option} value={option}>
+                        {option}
+                      </option>
+                    ) : (
+                      <optgroup key={option.group} label={option.group}>
+                        {option.options.map(name => (
+                          <option key={name} value={name}>
+                            {name}
+                          </option>
+                        ))}
+                      </optgroup>
+                    )
+                  )}
                 </select>
               </label>
             ))}

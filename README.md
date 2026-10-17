@@ -1,6 +1,6 @@
 # Apple Store Monitor
 
-監控 Apple Store 台灣各門市 iPhone / iPad 取貨庫存的網頁工具,部署於 https://asm.chrono.tw 。
+監控 Apple Store 台灣各門市 iPhone / iPad / Mac mini / Mac Studio 取貨庫存的網頁工具,部署於 https://asm.chrono.tw 。
 
 ## 開發
 

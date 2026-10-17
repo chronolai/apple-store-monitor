@@ -13,9 +13,27 @@ const HUB_URLS = [
   `${ORIGIN}/tw/shop/buy-ipad`,
 ]
 
+// Macs are monitored only for these models (the Mac hub also lists MacBook, iMac, displays…).
+const MAC_SLUGS = ['mac-mini', 'mac-studio']
+const isMacPage = (url) => url.includes('/tw/shop/buy-mac/')
+
 const dataDir = path.join(path.dirname(fileURLToPath(import.meta.url)), '..', 'data')
 const target = path.join(dataDir, 'devices.json')
 const metaTarget = path.join(dataDir, 'meta.json')
+
+// Every HTTP call goes through here so the UI can show how many requests were made.
+const requests = { count: 0, failed: 0, report: () => {} }
+const request = async (url, config) => {
+  requests.count++
+  try {
+    return await axios.get(url, config)
+  } catch (err) {
+    requests.failed++
+    throw err
+  } finally {
+    requests.report({ type: 'request', count: requests.count, failed: requests.failed })
+  }
+}
 
 const queryHTML = (html, selector) => HTMLParser.parse(html).querySelectorAll(selector)
 
@@ -56,7 +74,7 @@ const getSKUsV2 = (html) => {
 // Fallback for products whose Product block is missing: no price or image, but
 // enough to list, search and monitor them (stock lookups only need the SKU).
 const fromTitle = (sku, marketing, seo) => {
-  const name = (marketing.title || '')
+  const name = (marketing?.title || '')
     .replaceAll('\u00a0', ' ')
     .replace(/^購買\s*/, '')
     .replace(/\s*-\s*Apple\s*\(台灣\)\s*$/, '')
@@ -64,12 +82,37 @@ const fromTitle = (sku, marketing, seo) => {
   if (!name) return null
   return {
     name,
-    url: marketing.canonicalURL,
-    description: marketing.metaDescription,
+    url: marketing?.canonicalURL,
+    description: marketing?.metaDescription,
     sku,
     prices: [],
     seoUrl: seo,
   }
+}
+
+// Mac mini / Mac Studio are configurable, so the overview page only links to
+// ready-made configurations. Each of those pages carries its own SKU and price
+// in JSON-LD (updateSEO has nothing for them), so read the product from there.
+const getMacSKUs = async (html, url) => {
+  const slug = url.split('/').pop()
+  const links = new Set(html.match(new RegExp(`/tw/shop/buy-mac/${slug}/[^"'<> ?#]+`, 'g')) ?? [])
+  const items = []
+  for (const link of links) {
+    const page = await request(ORIGIN + link).then(r => r.data)
+    const products = queryHTML(page, '[type="application/ld+json"]')
+      .map(item => JSON.parse(item.text))
+      .filter(json => json['@type'] === 'Product')
+    for (const product of products) {
+      for (const offer of product.offers.filter(o => o['@type'] === 'Offer')) {
+        items.push({
+          sku: offer.sku,
+          label: product.name,
+          lookup: async () => ({ product: { ...product, offers: [offer] } }),
+        })
+      }
+    }
+  }
+  return items
 }
 
 const seoUrlOf = (sku) => {
@@ -86,18 +129,21 @@ export async function discoverUrls() {
   const found = new Set()
   for (const hub of HUB_URLS) {
     const category = hub.split('/').pop()
-    const html = await axios.get(hub).then(r => r.data)
+    const html = await request(hub).then(r => r.data)
     const pattern = new RegExp(`/tw/shop/${category}/${category.replace('buy-', '')}[a-z0-9-]*(?=["'?#/])`, 'g')
     for (const match of html.matchAll(pattern)) {
       found.add(ORIGIN + match[0])
     }
+  }
+  for (const slug of MAC_SLUGS) {
+    found.add(`${ORIGIN}/tw/shop/buy-mac/${slug}`)
   }
   return [...found]
 }
 
 const lookup = async (sku) => {
   const seo = seoUrlOf(sku)
-  const res = await axios.get(seo).then(r => r.data)
+  const res = await request(seo).then(r => r.data)
   const marketing = res.body.marketingData
   const products = marketing.microdataList.filter(m => JSON.parse(m)['@type'] === 'Product')
   return { seo, marketing, product: products.length === 1 ? JSON.parse(products[0]) : null }
@@ -152,6 +198,8 @@ export async function sync(onEvent = () => {}) {
   const previous = readJSON(target, []).map(d => migrate(d, previousSyncedAt))
   const previousBySku = new Map(previous.map(d => [d.sku, d]))
   const stats = { added: 0, priceChanged: 0, discontinued: 0 }
+  const priceMissed = [] // known devices whose price could not be refreshed this time
+  Object.assign(requests, { count: 0, failed: 0, report: onEvent })
 
   const data = []
   const seen = new Set()
@@ -160,20 +208,31 @@ export async function sync(onEvent = () => {}) {
   const urls = await discoverUrls()
   onEvent({ type: 'pages', urls })
 
+  // Phase 1: read every page first, so the number of lookups (and requests) is known up front.
+  const pages = []
   for (const url of urls) {
-    onEvent({ type: 'page-start', url })
+    onEvent({ type: 'scan-start', url })
     // A retired product page redirects elsewhere (e.g. ipad-10-2 -> /tw/ipad); don't follow it.
-    const res = await axios.get(url, { maxRedirects: 0, validateStatus: status => status < 400 })
+    const res = await request(url, { maxRedirects: 0, validateStatus: status => status < 400 })
     if (res.status >= 300) {
       onEvent({ type: 'page-skipped', url, to: res.headers.location })
       continue
     }
     const html = res.data
-    const skus = [...getSKUsV1(html), ...getSKUsV2(html)]
+    const skus = isMacPage(url) ? await getMacSKUs(html, url) : [...getSKUsV1(html), ...getSKUsV2(html)]
     onEvent({ type: 'page-skus', url, total: skus.length })
+    pages.push({ url, skus })
+  }
+  // Mac entries already carry their data; every other new SKU costs one updateSEO request.
+  const lookups = new Set(pages.flatMap(page => page.skus).filter(item => !item.lookup).map(item => item.sku))
+  onEvent({ type: 'plan', expected: requests.count + lookups.size })
+
+  // Phase 2: look up each SKU once.
+  for (const { url, skus } of pages) {
+    onEvent({ type: 'page-start', url })
 
     let found = 0
-    for (const { sku, label } of skus) {
+    for (const { sku, label, lookup: find } of skus) {
       // the same SKU shows up on several pages (and twice within one page)
       if (seen.has(sku)) {
         found++
@@ -183,13 +242,15 @@ export async function sync(onEvent = () => {}) {
 
       const known = previousBySku.get(sku)
       let result
+      let failedLookup = false
       try {
-        result = await lookup(sku)
+        result = await (find ?? (() => lookup(sku)))()
       } catch (err) {
         if (!known) {
           onEvent({ type: 'warning', message: `${sku}(${label || '未知機型'}):查詢失敗(${err.message}),已略過` })
           continue
         }
+        failedLookup = true
         result = { product: null }
       }
       const { seo, marketing, product } = result
@@ -200,6 +261,8 @@ export async function sync(onEvent = () => {}) {
         device = active
         const price = priceOf(product)
         const latest = device.prices.at(-1)?.price
+        if (price === undefined) priceMissed.push(device.name)
+        if (price === undefined && !failedLookup && !find) onEvent({ type: 'no-price' })
         if (product && device.prices.length === 0) {
           // earlier only the title was available; now we have the real details
           device = { ...fromProduct(product, seo, now), seoUrl: device.seoUrl }
@@ -217,6 +280,7 @@ export async function sync(onEvent = () => {}) {
           continue
         }
         if (!product) {
+          if (!find) onEvent({ type: 'no-price' })
           onEvent({ type: 'warning', message: `${sku}(${device.name}):Apple 沒回商品資料,依標題建立,暫無價格` })
         }
         stats.added++
@@ -247,8 +311,21 @@ export async function sync(onEvent = () => {}) {
     }
   }
 
+  // one summary instead of a line per device: Apple rate limiting can hit dozens at once
+  if (priceMissed.length > 0) {
+    onEvent({ type: 'price-skipped', names: priceMissed })
+  }
+
   fs.writeFileSync(target, JSON.stringify(data, null, 2))
   fs.writeFileSync(metaTarget, JSON.stringify({ syncedAt: now }, null, 2) + '\n')
-  onEvent({ type: 'done', total: data.length, ...stats, target })
+  onEvent({
+    type: 'done',
+    total: data.length,
+    ...stats,
+    priceSkipped: priceMissed.length,
+    requests: requests.count,
+    failedRequests: requests.failed,
+    target,
+  })
   return data
 }
