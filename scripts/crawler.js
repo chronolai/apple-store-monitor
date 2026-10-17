@@ -13,7 +13,9 @@ const HUB_URLS = [
   `${ORIGIN}/tw/shop/buy-ipad`,
 ]
 
-const target = path.join(path.dirname(fileURLToPath(import.meta.url)), '..', 'data', 'devices.json')
+const dataDir = path.join(path.dirname(fileURLToPath(import.meta.url)), '..', 'data')
+const target = path.join(dataDir, 'devices.json')
+const metaTarget = path.join(dataDir, 'meta.json')
 
 const queryHTML = (html, selector) => HTMLParser.parse(html).querySelectorAll(selector)
 
@@ -66,7 +68,7 @@ export async function discoverUrls() {
 }
 
 /**
- * Crawl every product page and write data/devices.json.
+ * Crawl every product page and write data/devices.json (plus the sync time to data/meta.json).
  * Progress is reported through `onEvent` so any UI can render it.
  */
 export async function sync(onEvent = () => {}) {
@@ -129,6 +131,7 @@ export async function sync(onEvent = () => {}) {
   }
 
   fs.writeFileSync(target, JSON.stringify(data, null, 2))
+  fs.writeFileSync(metaTarget, JSON.stringify({ syncedAt: new Date().toISOString() }, null, 2) + '\n')
   onEvent({ type: 'done', total: data.length, target })
   return data
 }

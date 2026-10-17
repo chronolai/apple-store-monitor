@@ -33,7 +33,14 @@ const readAlertsPref = () => {
   }
 }
 
-function Monitor({ devices }) {
+const formatSyncedAt = iso => {
+  const date = new Date(iso)
+  return Number.isNaN(date.getTime())
+    ? ''
+    : date.toLocaleString('zh-TW', { dateStyle: 'medium', timeStyle: 'short', hour12: false })
+}
+
+function Monitor({ devices, syncedAt }) {
   // SKUs in the hash that no longer exist (e.g. discontinued) are dropped.
   const [codes, setCodes] = React.useState(() =>
     decodeHash(window.location.hash).filter(sku => devices.some(d => d.sku === sku))
@@ -140,6 +147,11 @@ function Monitor({ devices }) {
           <ResultList rows={rows} changes={changes} now={now} onRemove={toggleCode} />
         )}
       </div>
+      {syncedAt && formatSyncedAt(syncedAt) && (
+        <p className="mt-3 text-xs text-gray-600">
+          機型清單同步於 <time dateTime={syncedAt}>{formatSyncedAt(syncedAt)}</time>
+        </p>
+      )}
       <DevicePicker
         devices={devices}
         codes={codes}
@@ -159,9 +171,13 @@ function Monitor({ devices }) {
 // The device list is large, so it is loaded as a separate chunk.
 const App = () => {
   const [devices, setDevices] = React.useState(null)
+  const [syncedAt, setSyncedAt] = React.useState(null)
 
   React.useEffect(() => {
-    import('../data/devices.json').then(module => setDevices(module.default.map(parseDevice)))
+    Promise.all([import('../data/devices.json'), import('../data/meta.json')]).then(([list, meta]) => {
+      setDevices(list.default.map(parseDevice))
+      setSyncedAt(meta.default.syncedAt)
+    })
   }, [])
 
   if (!devices) {
@@ -173,7 +189,7 @@ const App = () => {
       </Layout>
     )
   }
-  return <Monitor devices={devices} />
+  return <Monitor devices={devices} syncedAt={syncedAt} />
 }
 
 export default App
