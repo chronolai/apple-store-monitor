@@ -162,7 +162,13 @@ export async function sync(onEvent = () => {}) {
 
   for (const url of urls) {
     onEvent({ type: 'page-start', url })
-    const html = await axios.get(url).then(r => r.data)
+    // A retired product page redirects elsewhere (e.g. ipad-10-2 -> /tw/ipad); don't follow it.
+    const res = await axios.get(url, { maxRedirects: 0, validateStatus: status => status < 400 })
+    if (res.status >= 300) {
+      onEvent({ type: 'page-skipped', url, to: res.headers.location })
+      continue
+    }
+    const html = res.data
     const skus = [...getSKUsV1(html), ...getSKUsV2(html)]
     onEvent({ type: 'page-skus', url, total: skus.length })
 

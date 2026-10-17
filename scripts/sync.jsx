@@ -11,8 +11,14 @@ function PageRow({ page, current }) {
     pending: <Text dimColor>·</Text>,
     running: <Text color="cyan"><Spinner type="dots" /></Text>,
     done: <Text color="green">✔</Text>,
+    skipped: <Text color="yellow">–</Text>,
   }[page.status]
-  const progress = page.status === 'pending' ? '' : `${page.found}${page.total != null ? ` / ${page.total}` : ''}`
+  const progress =
+    page.status === 'pending'
+      ? ''
+      : page.status === 'skipped'
+        ? `已下架(頁面導向 ${page.to})`
+        : `${page.found}${page.total != null ? ` / ${page.total}` : ''}`
 
   return (
     <Box flexDirection="column">
@@ -47,6 +53,9 @@ function App() {
           break
         case 'page-start':
           patchPage(event.url, { status: 'running' })
+          break
+        case 'page-skipped':
+          patchPage(event.url, { status: 'skipped', to: new URL(event.to, event.url).pathname })
           break
         case 'page-skus':
           patchPage(event.url, { total: event.total })
